@@ -7,23 +7,24 @@
 											<div class="cuadroDir">
 											<div class="cMapas">
 												<div id="map-1" class="sMapa"></div></a>
-												<h3>SAPASNIR 20 DE NOVIEMBRE</h3>
+												<h3>DIF, CASA DEL ADULTO MAYOR</h3>
 															<p>
-																Av. 20 de Nov. 4,Centro,54400 Nicolás Romero, Méx.
+																Lerdo de Tejada, Libertad, 54407 Villa Nicolás Romero, Méx.
+
 															</p>
 											</div>
 											<div class="cMapas">
 												<div id="map-2" class="sMapa"></div></a>
-												<h3>SAPASNIR NICOLÁS ROMERO</h3>
+												<h3>UBRIS NICOLÁS ROMERO</h3>
 															<p>
-																Av. Nicolás Romero #52,Hidalgo,54400 Nicolás Romero, Méx.
+																Los Pinos 16, Independencia, 54409 Villa Nicolás Romero, Méx.
 															</p>
 											</div>
 											<div class="cMapas">
 												<div id="map-3" class="sMapa"></div></a>
-												<h3>SAPASNIR TOWN CENTER</h3>
+												<h3>CLINICA DE LA MUJER</h3>
 															<p>
-																Av. 20 de Nov. SN,Vista Hermosa,54414 Nicolás Romero, Méx.
+																Luis Donaldo Colosio Villa Nicolás Romero, Estado de México
 															</p>
 											</div>
 											

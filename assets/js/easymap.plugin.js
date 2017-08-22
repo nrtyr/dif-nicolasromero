@@ -12,14 +12,15 @@
 			size : ['100%', '100%'],
 			control: {
 				zoom: 17,
-				center: [19.6247855, -99.3162025],
+				center: [19.6329901,-99.3182217],
+				// center: [19.6247855, -99.3162025],
 				disableDefault: false,
 				zoomControl: true,
 				mapTypeControl: true
 			},
 			markers: [{
-				"latitude": 19.6247855,
-				"longitude": -99.3162025,
+				"latitude": 19.6329901,
+				"longitude": -99.3182217,
 				"ville":"SAPASNIR",
 				"icone": null
 			}]

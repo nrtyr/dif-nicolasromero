@@ -57,12 +57,12 @@
 													<div class="cuadroInttxt2"><h6>CONAC</h6></div>
 												</a>
 												</div> -->
-												<div class="cuadroIntX">
+												<!-- <div class="cuadroIntX">
 												<a href="http://www.ipomex.org.mx/ipo/portal/nicolasromero.web">
 													<div class="cuadroIntimg2" id="ipomex"></div>
 													<div class="cuadroInttxt2"><h6>ipomex</h6></div>
 												</a>
-												</div>
+												</div> -->
 
 											</div>
 										</div>

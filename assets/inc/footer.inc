@@ -29,8 +29,8 @@
 								<section>
 									<h2 class="major"><span>Redes sociales</span></h2>
 									<ul class="contact">
-										<li><a class="icon fa-facebook" href="https://www.facebook.com/Sapasnir-254747391330107/"><span class="label">Facebook</span></a></li>
-										<li><a class="icon fa-twitter" href="https://twitter.com/sapasnir"><span class="label">Twitter</span></a></li>
+										<li><a class="icon fa-facebook" href="#"><span class="label">Facebook</span></a></li>
+										<li><a class="icon fa-twitter" href="#"><span class="label">Twitter</span></a></li>
 										<!-- <li><a class="icon fa-instagram" href="#"><span class="label">Instagram</span></a></li>
 										<li><a class="icon fa-youtube" href="#"><span class="label">Youtube</span></a></li> -->
 										<!-- <a href="https://play.google.com/store/apps/details?id=tv.periscope.android&hl=mx"><div class="periscope"></div></a> -->
@@ -45,9 +45,9 @@
 					<!-- Copyright -->
 						<div id="copyright">
 							<ul class="menu">
-								<li>&copy; Todos los derechos reservados: SAPASNIR.MX </li><li>Creado por: <a href="http://www.nicolasromero.mx">H. Ayuntamiento de Nicolás Romero 2016 - 2018</a></li>
+								<li>&copy; Todos los derechos reservados: DIF.MX </li><li>Creado por: <a href="http://www.nicolasromero.mx">H. Ayuntamiento de Nicolás Romero 2016 - 2018</a></li>
 								<br>
-								<p>Av. Nicolás Romero #52, Esquina con Hermenegildo Galeana, Colonia: Hidalgo ,C.P.: 54400 Nicolás Romero, Edo. Méx. Tel: 58-23-09-91 / 58-23-91-33</p>
+								<p>Lerdo de Tejada, Libertad, 54407 Villa Nicolás Romero, Méx.</p>
 							</ul>
 						</div>
 

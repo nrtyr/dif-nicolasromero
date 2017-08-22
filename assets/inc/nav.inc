@@ -5,7 +5,7 @@
 						<li><a href="#">¿Quiénes Somos?</a>
 							<ul>
 								<li><a href="#">Directorio</a></li>
-								<li><a href="organigrama.php">Organigrama</a></li>
+								<!-- <li><a href="organigrama.php">Organigrama</a></li> -->
 							</ul>
 						</li>
 
@@ -16,11 +16,11 @@
 						</li>
 
 						
-						<li><a href="http://www.ipomex.org.mx/ipo/portal/nicolasromero.web">Transparencia</a>
-							<ul>
+						<li><a href="transparencia.php">Transparencia</a>
+							<!-- <ul>
 								<li><a href="#">Programa Anual de Evaluación</a></li>
-							</ul>
-						</li>
+							</ul> -->
+						</li> 
 						<li><a href="#">Contacto</a></li>
 					</ul>
 				</nav>

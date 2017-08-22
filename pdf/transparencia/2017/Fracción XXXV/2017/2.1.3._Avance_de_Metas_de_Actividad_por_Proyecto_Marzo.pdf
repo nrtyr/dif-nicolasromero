@@ -1,0 +1,8605 @@
+%PDF-1.1
+1 0 obj
+<<
+/Creator (Developer 2000)
+/CreatorDate (
+/Author (Oracle Reports)
+/Producer (Oracle PDF driver)
+/Title (2.1.3. Avance de Metas de Actividad por Proyecto.pdf)
+>>
+endobj
+3 0 obj
+<<
+/Type /Pages
+/Kids 4 0 R
+/Count 5 0 R
+>>
+endobj
+7 0 obj
+<</Length 8 0 R>>
+stream
+BT
+367.20 29.64 TD
+/F0 8.00 Tf
+(Hoja ) Tj
+(1) Tj
+( de ) Tj
+(16) Tj
+-34.96 400.16 TD
+/F1 8.00 Tf
+(DEPENDENCIA GENERAL : ) Tj
+ET
+0.00 w
+0 J
+0 j
+406.36 189.00 135.00 18.00 re S
+BT
+440.84 198.96 TD
+/F1 10.00 Tf
+( 381,000.00) Tj
+ET
+541.36 189.00 135.00 18.00 re S
+BT
+578.84 198.96 TD
+( 89,601.96) Tj
+ET
+676.36 189.00 81.00 18.00 re S
+BT
+698.84 198.96 TD
+( 23.52) Tj
+ET
+437.84 409.48 72.00 13.52 re S
+BT
+466.64 416.28 TD
+/F1 8.00 Tf
+(303) Tj
+-139.20 0.00 TD
+(DEPENDENCIA AUXILIAR : ) Tj
+ET
+509.84 409.48 247.52 13.52 re S
+BT
+509.84 416.28 TD
+(CONTRALORIA INTERNA) Tj
+ET
+437.84 476.96 72.00 13.52 re S
+BT
+469.04 483.80 TD
+(01) Tj
+-88.80 0.00 TD
+(FINALIDAD : ) Tj
+ET
+509.84 476.96 247.52 13.52 re S
+BT
+509.84 483.80 TD
+(Gobierno) Tj
+ET
+437.84 449.96 72.00 13.52 re S
+BT
+464.24 456.80 TD
+(0101) Tj
+-146.40 0.00 TD
+(PROGRAMA Y SUBPROGRAMA : ) Tj
+ET
+509.84 449.96 247.52 13.52 re S
+BT
+509.84 456.80 TD
+(Control y evaluación interna de la gestión pública) Tj
+ET
+437.84 422.96 72.00 13.52 re S
+BT
+466.64 429.80 TD
+(G00) Tj
+ET
+509.84 422.96 247.52 13.52 re S
+BT
+509.84 429.80 TD
+(CONTRALORIA INTERNA) Tj
+ET
+32.84 310.48 724.52 58.52 re S
+86.84 310.48 211.52 45.00 re S
+BT
+159.00 340.64 TD
+/F0 8.00 Tf
+(Descripción de) Tj
+14.40 -8.52 TD
+(Acciones) Tj
+ET
+32.84 310.48 54.00 45.00 re S
+BT
+38.24 340.64 TD
+(Código de) Tj
+7.20 -8.52 TD
+(Acción) Tj
+ET
+298.36 310.48 81.00 45.00 re S
+BT
+324.44 340.64 TD
+(Unidad) Tj
+7.20 -8.52 TD
+( de) Tj
+-7.20 -8.48 TD
+(Medida) Tj
+ET
+433.36 341.96 324.00 13.52 re S
+BT
+552.16 349.16 TD
+(Periodo Trimestral) Tj
+ET
+379.36 310.48 54.00 45.00 re S
+BT
+382.36 340.64 TD
+(Programada) Tj
+12.00 -8.52 TD
+(Anual) Tj
+ET
+433.36 310.48 54.00 31.52 re S
+BT
+436.36 327.12 TD
+(Programado) Tj
+ET
+487.36 310.48 54.00 31.52 re S
+BT
+499.96 327.12 TD
+(Avance) Tj
+ET
+676.36 310.48 54.00 18.00 re S
+BT
+693.76 322.16 TD
+(Abs.) Tj
+ET
+730.36 310.48 27.00 18.00 re S
+BT
+741.44 322.16 TD
+(%) Tj
+ET
+622.36 310.48 54.00 31.52 re S
+BT
+634.96 335.64 TD
+(Avance) Tj
+2.40 -8.52 TD
+(Acum.) Tj
+-2.40 -8.48 TD
+( Anual) Tj
+ET
+676.36 206.96 81.00 31.52 re S
+BT
+690.44 222.68 TD
+/F1 8.00 Tf
+(Variacion %) Tj
+ET
+q 54.00 0 0 28.44 37.36 547.56 cm /im2530 Do Q
+32.84 252.00 724.52 54.00 re S
+32.84 292.48 54.00 13.52 re S
+BT
+57.44 299.64 TD
+/F0 8.00 Tf
+(1) Tj
+ET
+32.84 278.96 54.00 13.52 re S
+BT
+57.44 286.16 TD
+(2) Tj
+ET
+32.84 265.48 54.00 13.52 re S
+BT
+57.44 272.64 TD
+(3) Tj
+ET
+32.84 251.96 54.00 13.52 re S
+BT
+57.44 259.16 TD
+(4) Tj
+ET
+86.84 292.48 211.52 13.52 re S
+BT
+86.84 301.32 TD
+/F0 6.00 Tf
+(CAMPAÑAS DE INFORMACIÓN  DE LAS OBLIGACIONES DE LOS) Tj
+0.00 -6.36 TD
+(SERVIDORES PÚBLICOS REALIZADAS.) Tj
+ET
+86.84 278.96 211.52 13.52 re S
+BT
+86.84 287.84 TD
+(AUDITORIAS A LAS OBLIGACIONES DE LOS SERVIDORES PÚBLICOS) Tj
+0.00 -6.36 TD
+(REALIZADAS.) Tj
+ET
+86.84 265.48 211.52 13.52 re S
+BT
+86.84 274.32 TD
+(ELABORACIÓN DE CARTELES INFORMATIVOS.) Tj
+ET
+86.84 251.96 211.52 13.52 re S
+BT
+86.84 260.84 TD
+(INTEGRACIÓN DE LOS REPORTES DE AUDITORÍAS AL EXPEDIENTE) Tj
+0.00 -6.36 TD
+(TECNICO) Tj
+ET
+379.36 292.48 54.00 13.52 re S
+BT
+415.36 301.32 TD
+( 1.00) Tj
+ET
+379.36 278.96 54.00 13.52 re S
+BT
+415.36 287.84 TD
+( 2.00) Tj
+ET
+379.36 265.48 54.00 13.52 re S
+BT
+415.36 274.32 TD
+( 1.00) Tj
+ET
+379.36 251.96 54.00 13.52 re S
+BT
+415.36 260.84 TD
+( 2.00) Tj
+ET
+487.36 292.48 54.00 13.52 re S
+BT
+523.36 301.32 TD
+( 0.00) Tj
+ET
+487.36 278.96 54.00 13.52 re S
+BT
+523.36 287.84 TD
+( 0.00) Tj
+ET
+487.36 265.48 54.00 13.52 re S
+BT
+523.36 274.32 TD
+( 0.00) Tj
+ET
+487.36 251.96 54.00 13.52 re S
+BT
+523.36 260.84 TD
+( 0.00) Tj
+ET
+595.36 292.48 27.00 13.52 re S
+BT
+604.36 301.32 TD
+( 0.00) Tj
+ET
+595.36 278.96 27.00 13.52 re S
+BT
+604.36 287.84 TD
+( 0.00) Tj
+ET
+595.36 265.48 27.00 13.52 re S
+BT
+604.36 274.32 TD
+( 0.00) Tj
+ET
+595.36 251.96 27.00 13.52 re S
+BT
+604.36 260.84 TD
+( 0.00) Tj
+ET
+622.36 292.48 54.00 13.52 re S
+BT
+658.36 301.32 TD
+( 0.00) Tj
+ET
+622.36 278.96 54.00 13.52 re S
+BT
+658.36 287.84 TD
+( 0.00) Tj
+ET
+622.36 265.48 54.00 13.52 re S
+BT
+658.36 274.32 TD
+( 0.00) Tj
+ET
+622.36 251.96 54.00 13.52 re S
+BT
+658.36 260.84 TD
+( 0.00) Tj
+ET
+676.36 292.48 54.00 13.52 re S
+BT
+712.36 301.32 TD
+( 1.00) Tj
+ET
+676.36 278.96 54.00 13.52 re S
+BT
+712.36 287.84 TD
+( 2.00) Tj
+ET
+676.36 265.48 54.00 13.52 re S
+BT
+712.36 274.32 TD
+( 1.00) Tj
+ET
+676.36 251.96 54.00 13.52 re S
+BT
+712.36 260.84 TD
+( 2.00) Tj
+ET
+730.36 292.48 27.00 13.52 re S
+BT
+739.36 301.32 TD
+( 0.00) Tj
+ET
+730.36 278.96 27.00 13.52 re S
+BT
+739.36 287.84 TD
+( 0.00) Tj
+ET
+730.36 265.48 27.00 13.52 re S
+BT
+739.36 274.32 TD
+( 0.00) Tj
+ET
+730.36 251.96 27.00 13.52 re S
+BT
+739.36 260.84 TD
+( 0.00) Tj
+ET
+541.36 292.48 54.00 13.52 re S
+BT
+577.36 301.32 TD
+( 0.00) Tj
+ET
+541.36 278.96 54.00 13.52 re S
+BT
+577.36 287.84 TD
+( 0.00) Tj
+ET
+541.36 265.48 54.00 13.52 re S
+BT
+577.36 274.32 TD
+( 0.00) Tj
+ET
+541.36 251.96 54.00 13.52 re S
+BT
+577.36 260.84 TD
+( 0.00) Tj
+ET
+433.36 292.48 54.00 13.52 re S
+BT
+469.36 301.32 TD
+( 0.00) Tj
+ET
+433.36 278.96 54.00 13.52 re S
+BT
+469.36 287.84 TD
+( 0.00) Tj
+ET
+433.36 265.48 54.00 13.52 re S
+BT
+469.36 274.32 TD
+( 0.00) Tj
+ET
+433.36 251.96 54.00 13.52 re S
+BT
+469.36 260.84 TD
+( 0.00) Tj
+ET
+32.84 382.48 364.52 13.52 re S
+BT
+32.84 386.40 TD
+/F0 12.00 Tf
+(ENTE PUBLICO: ) Tj
+(NICOLAS ROMERO) Tj
+(       ) Tj
+ET
+95.84 418.48 198.00 27.00 re S
+BT
+101.84 437.48 TD
+/F1 10.00 Tf
+(  AVANCE TRIMESTRAL DE METAS DE) Tj
+36.00 -11.04 TD
+(ACCION POR PROYECTO) Tj
+ET
+32.84 418.48 63.00 27.00 re S
+BT
+32.84 437.48 TD
+( PbRM 08c) Tj
+ET
+397.36 382.48 94.52 13.52 re S
+BT
+397.36 386.40 TD
+/F0 12.00 Tf
+( No.: ) Tj
+(098) Tj
+-128.28 132.08 TD
+/F1 10.00 Tf
+(Presupuesto Basado en Resultados Municipal) Tj
+ET
+437.84 490.48 72.00 13.52 re S
+BT
+442.64 497.64 TD
+/F0 8.00 Tf
+(Identificador) Tj
+ET
+509.84 490.48 247.52 13.52 re S
+BT
+509.84 497.64 TD
+( Denominación) Tj
+ET
+32.84 355.48 724.52 13.52 re S
+BT
+216.28 359.40 TD
+/F0 12.00 Tf
+(Avance Trimestral de Metas de Acción por Proyecto) Tj
+/F0 8.00 Tf
+( ) Tj
+ET
+541.36 328.48 81.00 13.52 re S
+BT
+545.84 335.64 TD
+(Var. Trimestral) Tj
+ET
+676.36 328.48 81.00 13.52 re S
+BT
+692.84 335.64 TD
+(Var. Anual) Tj
+ET
+541.36 310.48 54.00 18.00 re S
+BT
+558.76 322.16 TD
+(Abs.) Tj
+ET
+595.36 310.48 27.00 18.00 re S
+BT
+606.44 322.16 TD
+(%) Tj
+ET
+298.36 292.48 81.00 13.52 re S
+BT
+298.36 301.32 TD
+/F0 6.00 Tf
+(CAMPAÑAS) Tj
+ET
+298.36 278.96 81.00 13.52 re S
+BT
+298.36 287.84 TD
+(AUDITORIAS) Tj
+ET
+298.36 265.48 81.00 13.52 re S
+BT
+298.36 274.32 TD
+(CARTELES) Tj
+ET
+298.36 251.96 81.00 13.52 re S
+BT
+298.36 260.84 TD
+(REPORTES) Tj
+ET
+541.36 206.96 135.00 31.52 re S
+BT
+560.84 231.80 TD
+/F1 8.00 Tf
+(Presupuesto Ejercido) Tj
+-4.80 -9.12 TD
+(Acumulado al Trimestre) Tj
+24.00 -9.12 TD
+(por Proyecto) Tj
+ET
+406.36 206.96 135.00 31.52 re S
+BT
+447.44 231.80 TD
+(Presupuesto) Tj
+-21.60 -9.12 TD
+(Autorizado Anual por) Tj
+28.80 -9.12 TD
+(Proyecto) Tj
+ET
+32.84 121.48 211.52 49.52 re S
+BT
+121.80 155.16 TD
+(ELABORO) Tj
+ET
+545.84 121.48 211.52 49.52 re S
+BT
+632.40 155.16 TD
+(AUTORIZO) Tj
+ET
+289.36 121.48 211.52 49.52 re S
+BT
+380.68 155.16 TD
+(REVISO) Tj
+ET
+437.84 463.48 72.00 13.52 re S
+BT
+464.24 470.28 TD
+(0304) Tj
+-136.80 0.00 TD
+(FUNCION Y SUBFUNCION : ) Tj
+ET
+509.84 463.48 247.52 13.52 re S
+BT
+509.84 470.28 TD
+(Función pública) Tj
+ET
+437.84 436.48 72.00 13.52 re S
+BT
+469.04 443.28 TD
+(01) Tj
+-84.00 0.00 TD
+(PROYECTO : ) Tj
+ET
+509.84 436.48 247.52 13.52 re S
+q
+509.84 436.48 247.52 13.52 re W n
+BT
+509.84 443.28 TD
+(Fiscalización, control y evaluación interna de la ge) Tj
+ET
+Q 0 g 0 G
+endstream
+endobj
+8 0 obj
+7865
+endobj
+9 0 obj
+<</Type /Font
+/Name /F0
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/BaseFont /Courier
+>>
+endobj
+10 0 obj
+<</Type /Font
+/Name /F1
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/BaseFont /Courier-Bold
+>>
+endobj
+11 0 obj
+<<
+/Type /XObject
+/Subtype /Image
+/Name /im2530
+/Width 129
+/Height 68
+/BitsPerComponent 8
+/ColorSpace /DeviceRGB
+/Filter [/ASCII85Decode /LZWDecode]
+/Length 12 0 R
+>>
+stream
+J3T[p=;2ANrdd;m:q0Hh)[qEdi:#:pi[FSM^YdG*oC;\UKYQE+W2&nW%ZNqb&Eg[arq_C7+-7nH
+C&7[U:#dmNbRP:/InQC'QdaLam[$%Bcf_Yqo_F\7k:m8WaqkqAaPPH<NHR0cK\1)UlK+>VB=(iL
+o3-enmg=E[k;#$pg*m;o_r4D#KDt[0I,H8HHX$%#$DTeZPpu)*$\"8q0+Z_nG&)u=_Wu-QghIi-
+T%'ldS+V(j)h2HHDnKnH]*+`oXO;qn1M'LC7:VJ$oR[l:gu_tmf<hSGTmam,Yc/U[HM*%VW#OG8
+V;UQA0U:r-iha0GDG.Js/%gU$5cMH_<a-@Ia6r_+^0a+#enY>68"Q2s^+(mf^^pP@!$>#Dp37\B
+iSt!38'1c9+4(&a#bU:]!=Kt<.IqpS&1RU,T?#@V"J:J.rd@/Sq>>^aYr#.(`,S`XJ"H.$m1704
+/417>&KEo[5]EMJ%A+4P9RfBAg`6A]0jI^+8^_.FJ"I8TWu9(nS:r<,1,Oh+T5q#?%A/dd7X`91
+X=k7(-cu6/5Z%Xn"MgqgC2B,D=Pb$OUF7'FJYEFq(DFe3(3uP8A8ZV0&JPm(78\F7$;34Wi>GQ.
+]e<",PjLV0e.@j<I`85TlNj*P.JS>AOc7a0*_3lD*M;sim0b!KFA!:_#Fl`9eofdr(0-.>9R0$=
+S-FB_kOIpdc0+F5I`tX\#@8L8XE>B.P&s2*T=2D8HpD>_9RPRb>ph#Ao&\Is>]g3-G=^+<_Z[j*
+,]=@@&`e1^_C).!#K=(r[i*Jh;;cSSA%7+4N+$CC3J1bukRIkc5[GIi+[M'%Qgq'67`a)5_\pFX
+V*@[I=`#lijr'1jG"$A<lOi#oS<"7en;Wb7=f:V(I)`E+^BiD0ok,2u1R1CEdKc!EOl)Me=!ksd
+'sDDgYiJ"a7J*Gd&4;63oR3@!'WE0Ee]nDDjcPcT8+)J0h+gE2Pp_$t0eq]#SjtO7CE"XhP'S4=
+Pc72ifC[N?b)oXT<ZgKZN+SA!T[jO,K:"tBO*pso+qB/0Cbl-'WB`a7V`\/u8C2g4(&"&eiKmJk
+[rpN!kG5,)5c9b"J":44rcB/.q8.+nk4u4'S&b?CD0`j@e`InX7&^;2&4@hB6c[d.SAk#ts'*@M
+&aFA.kE3Q0Sc1ROJma_OnJ]6aRH+"W#FXF5a.VoDj2cC/!Sfo[S-9rYWW3Mpr]Nb&#TReSIu^e_
+!XFP]K1#9[6)ZV)T_orTn:D75nbEG64=5aaq@H!74U^2t*JDeV&J*:g5"FQ!';C"K"d%jZ6?$TC
+_>$A&_6u>CbU%q;mM80'58-QNpk3/2'+_AI3JJs+('*\]!W[fn!AHSHTWB&en4F8pTHOO`U^IIU
+0HQ"rruCNK&]89C5%1\lKohH98(dbH,Qo<Q1&=4-=UcP8+Q"%]1e.e$p`tJ?@1_C2.gWq`'LY2[
+$).PLKM_RZJe4"M@15\[^ka:(#[%mNgc(.B3$ee`ar!M,Hpq^U*f'7[MNA;\_^K%Ya0;6L66nsR
++JCMVJ<UFm:eV&nYVuc*dNA#E.1`,n43'%3$mC!b"i.JgK(rQ;Tm/qZ!43pP#[7mLMK&h#ZS=e2
+kR&Lj0EhdH'EgC&$_ps.MUDA9UZ<JX&@N@lC&]2]gk(25VI.05mfoMJruV?iIuh/^5D5EF%Ud@6
+JKSDAJB0JU?t^8Z&0;R>BKI19e9=3GB165oru\K)362r(5DOLS*^O1!"CR0-JY57=?s"QWcnH*M
+?n)K!]G?GESNrm5Gou)#.h?mb1uq&XOEGFQ<LUU&j?W#DJl"CWJ1r35fFS\rQjno!63W&#+9J9t
+[u(_\"U.^?!M[@?JMBUu!)TBki$;KW5UTu*R*#]-pj\+i&HE%n&fj?dIh/KS5N(c'QG^@[#nXT_
+7*#c;6D+d=O^\KEaJo:!87IL>Gn&^!(*,biD2>tu#)"BF!b*\jJFO`fJ=qo*!'j#)n/`qWi"?]2
+C^>moqf@:YE<;kP]8+`o#7!eVZ/bP8&&IE;-laJ)Zm(.O.MXUNM#X1CWeaLZ/j*U!?P7ne*X<69
+%`@3L#3"JNKE1EH6%ESLU?lP%OkW<6E;G==)[/ZD8I=Bu1)L+d<s>i5&jdFa"!J@D!O/LC6(!WH
+_6A5p>+n8QbR]^Yg8inQ_*G1e>fHKa)F:(V-A9`l"CR0_Jri-!^t>Lf5^ZC[:c'N7a:8maGR97X
+/ct@[%2C"1#R]=:00nG7(LUnbM@_`N7,Sj_!`V8dU&I(WeX*T9Q4a\dhBkT4A[Htu=+VP[/V)Ip
+(4]p*%$>ii.>0#i"0?GN_(5tF+H6MsCe94T/g`kd*>6/\$u"!;."MpH'Hi&:h#U%Q!5P0/>'(@-
+Mlh.TeJ0-%N-`hor@Nf_rL`-2I1MI/1^9&c)<44kN@fH4L5=1p"&*D;iLVk!0[JB=6u3<`Z9I8Y
+*Zq0O"`6NM,XQH:%=k5u#N.WR"0`LG6,3t_\C`Eg0Z"hA"D&"HMD[l3b8OS5B^B_t2+FOg)+03a
+N$5PY`Q6dJ_Mhr\!=C=Z@"oDiZr@Gg8hpVg`>W6.D%'jG1Nh?n)FIG6NDZQ0`lQpS_j#"tdE"BS
+@-sjnIM`Te?*rU6("sMEY2`i*<_#]P&jakYJ^HR*7*m7_6:;WA@6>&$R%Fn_genD#paH=OI1kMc
+3!h:+&jt;."sTECJ`0c<!@Y\b5VKABZ"O/gYh]K@r[X!'*]o.ZR]>EGFUh84(dd/O"2HTi!g##b
+JJ]+:5^WirOa]!'6lI.7QuWZ+-4<*nN<J0i8:lpi,_8c9%tO!_#_7pFK@!I$iS5d`5k5P>8::fm
+Ca9/""qlN,C^=GlA-qct0(j$6g2c4e=eY+DLT&00""7Q96&kDY8AuGG'OcqTN%md-_AGWAVgQmJ
+0Ku/f*!;79_<H=qL1#iCJX@%%d-_(P0G`HZ==]2(A2qVSlPnlcF,T"+/k,QN(LKR=s,hmN_42@9
+AenfS&4&,^i78HIYR?!Z#p?eii04UX":.90&HIn&!>Z-;r"C4H'S0L(@>Yr]Ql'7h(ZC#aJUA9m
+IMec3(dX6"6$O5c:)RJj(]f4+Tpck8WZ%S4*b"1PJc?!0Ka;XP+4,WG_>afQOU.&:$*]s,n=^1C
+JfVZs'&_ULJ1qXE:'4o]"Mci*^dnQ9M@<n"+5u,u62hqAi#gq?*Uq_k_6=iOi"[D/).7gt@7gV%
+3Z*B2!WdTL!"p+K,QpDF!2(eTJFF$lrZ364+&IP1_>57)rZ,Fk'O]&l!BL=u(_m$K!o[Ae?n)mV
+4oumj(ZBrfiV"@tJfd;&*.bg:?s3]L(^.W<&jTD!5o^$C4:pG0#9j'`!G3G4Xr3r4)kj,NiNO6j
+KGq]+)M,+7iM%6arYm#n+5t3[!TkK_qAukt#uHZg+mpEQnef3%)1dAV+c[C*L)>Jt(nlm*@>tGA
+MAVK,)=cK#+b1D<WYcn8)Sq"B_3uBqiZAb0)c=-\6-pB5EYG+a&>56pi:I94p^nYJ(fBZ5+oWHI
+_AqNZ(dX>h_4DK0Rg$)e&0Y3a@'C2m<!gA>"/)4s!'CU>$j2$[&E#SVTb%>lXq<oi$,I)R@#tpB
+.LMjX"@1ZS^iU=mNYDME)W>'@@>5Y>a;Mg_(u^&a:f/6rXWN+A(Vt\@@?qeIc5bfj#XS>=iVb>^
+V(H`@/[F1<+lj9p&eEAT'B!$r!C-h(1(]PO(a-[&Y_!sJp)cTg+#&WqE.T/TrZ>&N&jb4k+V5*5
+^_WRa!<I]Q5UI?+/-<Y>!WX>V!'14UrY0oS+(>'hO];\'j;d,($p^s1!&+G)AcuKo(*H!H+^+u`
+)AqF`(ZGBJ;7%F]dMtQm&\r&^nl,[a-3YMW&`?7`JFX"3GTYnY)DP25'+c56Ig@c.+7[8kiUS'e
+NBC,T*s)9]EtJ_":`lsT+7[2i+c[DuRjnH&*O3[&iK53:eK-Hp):@.V&54")p_ptq,Jffe6*iZe
+^`FZu)e$Z%_6+`nKGC2R&tr>D_'U*%ar=dX0lW9tiPHQ8bSQt-),O?OJUA=YHk:iM&:g>_?pY5E
+$3ahE&R\O,TMc/+)?aHT&X%8aP&LOhU(KXQ$Gdbd@&spt7j[(Q$m>$H+[?h%+U8%J)'P.]+cI6=
+F\<m#4s?.-To'^%X[Nl99EC(m+k$l3O"F8e9si_.iT_(B(_C(O"$nUD^`jF7:'*]m"TUM!@)`QC
+P;*`"*t_Kbe.a!%*AITa*KdEAiJ[m>1)HT9!WdrU0h;BH0G34k!eI]di4^9Vp`EF5&Rilr^s!1-
+@5_%u2UcY);gC=NJN]3P34"Z8?n;oj9EUt/$m=sE!-B=A\/Ec!4AiXGdBt\d(*A+s+$o*4Jc.YF
+#=J!51t,5S1Y<br_b8FN(t%">Olm`NL`&LE)3OJ.E(h09J/LY;(Vu1N!KJ*Q4r9n<&Rg+n@,_ln
+643fF!s#D8J1M+[/d#M*'-K=F+ZKX6%MqBn(h(,o@BLY[NYc,[(u^DkiM7&OEXVr>&&:dETcO?P
+U_/,H$K2s,@'gOh4::$o"5pHtTL'#P/d+GD&thJs_&ro)5QsEK&ThIp5Yqd&quf9d&AV6Z!Fuk;
+GT"><)1e"j6'N5fT`qg>9JOU+1qa'dLHZlC*u;OA0UGN-`GBL\*5OrST\E8Y1'M&L'0oY&!>YfG
+3#M_3$S`nKe%8a=[lk<L#VlZ-U$jhsi!j)Z'*'Bj?nMLHHibE-(LR^R!O)]W8fqKu*`Klf6/imC
+-4OA"'Hf:8+]nl_3B"Z#2]s.[!I,E%]gK(:*'qXXTO7l<&d<eB&\q?K+Vk4=4:o;e#M"JGPJA3d
+;%6t"%:SK1_<;oE(C^ED+Q;Pt1=%fjbr_-"#h?:('ZWlJO\?AA*c]aJ\%c3'p_n^14s>a_!DjRu
+*Y9JA%04*T?lf`-0EQdK'S&jcJOBWkaqFb7%,j#FfDS2_*!;kV&0Rta5s,WCHl1h,(u_,+@+GuV
+JdS1W"^nhQ^fh*(+p@tN&`>VVi@RQN/LOS&$Ge%kemnnc/d=4W$\9c2G'c\%&d>_$"[L9B!6,bi
+J/)LQ(nmB8JV4nBZV3+"*L83>iHQ/iH5kM)C_k-Lpn/W=X)/t='7a<j<n7B3&Q1oZ$p_9Y_>B0,
+obCO'/QEB;:lH#12A9IL"9F@!38O^&L&p3T)'CC1_:0F?_\E`A*b!J/i6D_>4`hK/FI,^E(K;Im
+=<HMLFk:&F=(uin64r-V"@2qki,0@Hr!pP4&ci=RTd13.>S5p/'qlTZ+_D>F&/@J>&)h+8@7<9)
+h/"d!&lLHC+o!.1l5me/?/_,#;<&\Hc%1Ft(f4<OiMIHcPT%Ac)?F.[ToKi&o3ico&`>b\@7gYf
+bS1g&'4=EAJNO)9ckJ`0RfGhbTfN9@d@5[5'&Yk\5p?C2kRsPG(87f@_%%0PcjRYa#N2<g^aoke
+24WVP"^o7]!)O%H/-F9R"JEIBJ3XL.$k2)M!s$IVi%,8P*!7=t&`>JRTe$?IW"G[d$3:,05jf?[
+)B(G3)3O.edHDH*fn]8O9\-UWiK5\bo84H39qghc@42Z%8->P@"[G0_o_]7C:]qqn%049O(BFe-
+ob(H+)cSj?@I#%emkGCo'd6(;?of(=/-4^S"+Vj;+=7*iJcfC')e#ri<qIEkee5dH%']:(_-dCR
+65BPh!l7t@^a1!EE="\"OdB;d!+QfF:'1M6"X#]9!*TK`49T_o!e;I.'/1'W1'0`s!h^)<TJ?P7
+p];T]!e:mp+Hd!rrYr\W:m9-0H#5DpfH8YN*r15O'[:ujXdFZu)F8WQiIDh4@M(mc%q+*(!'Uno
+2?d7.SA=2"J6WQb6j9"&%,jRBiC3qMbS.cM%=pD?5h$Gi5R\e=#!iG-J>a4ARM#V_&g4+[JKb1S
+C'2$W"T[*e+CYc\8d1m3'OY"95W+51/e%h<"!Gf$!%n]RAdgsN"/)q45Y)7`+p;;^&R\cLJHuCp
+:_plP(a5M\_29+R//abQHW0Asn6-Ypho0ng`O+U&!;gY"0EiR['3<`s!)<XtF:9;")hIrT\#F:3
+q)_XY0iPh0R_;dq4;XYO!l9"8!IOtL)c@e/%Pa51U#[61-4I]/Y57anHMaoC!Z5,G+570cTujP>
+6kOrB=$%Y4)^Ve@5Qm`J'K5'u^c3%D6is&Y"Fr*=5YM8g3WpQV&\tISon46k#r,;hHBQ\uG.\li
+NId5DLUO6uZ,rB<e/:"-).B6R6&5t8g_'U'%DbL9!8\E?1(F=["5r5T+@6Qh;?Hpg'qdMqTi;/f
+dM0J`%Dc'HS+H`sg_2qD%=p295eIc'.LL_R!F\A3JNamDSej[L'`f]r+\iYY:)5!^(9gdYiID`<
+HNkX\(4epiJLCu$-jRQ;&g2?+@5J'o_@lo)$pc8o)6=5I+p7nE&>1Ea!AY61O;]kL>]Ikj_1@ss
+QTomKHf;saJ]g3_gVr"t+5tugTf*CR8-D40"i*-kTJ@)Z8d&R]$t-sl+o01pnJ)cN#f6C#;\1!)
+-$$gI&>:QU^`jSf49C(O!rs;Ui%>.@L]r<J)kk+f&LBf<ll?*D%3W(o+>a*BAd"Gm"9:n++?0J^
+PM@sD0j:FpTtVKi%L6B6%j5$Wi>MjW3YF\["@3G#5Z//D?j,EM#/FUV5\^J\ncf)!&)_7.T'upA
+h?H5I%NrCk@J1]B]*S/+#e_6@r?Ka!Q.!?![o)<^&^VE.65h!k(1=JuI7r)gA-9X0'gP.t!F>oe
+oG-:H%\Zi(4a[CgE!2i`']:)C@8I"JiY.t\pL$`(iB.1WZkFQ+&>:]f=dg.8Md6@>)F8e!\/6-8
+WI'_1(c48o',2HQL)iQ.%m`Mg@)N^$1^p';"/+!S+A`JT-j3qkRaQunT`,N'n/+HW(N\U^E*_Dl
+fh::`5,&%rA1q$-pG8AerdV]A:rlm"(D2KlifR?M?83.=W"[3+&:l;_%Aecp`%6=m@5#=QDch*1
+q"oe>U!M?fc1q<a2b_2TW-BN#%u")9d$gIG)ek>Rml.kiF"DZ!&Z2;^TJ?dUM#qG>!0'eo%l.5p
+fDG+/s*[*PXnN/6E$@IS"%aYDM&7QL,Y+V"U4Frg>:^gg<I=7JZ$WO:QmIC$B!#o)f8o[,WZRXc
+^S+HToC_PHHa/s^`Z#AM`F:U1>/i'/8B,&Bg"SE*"\q*<-&!]M3.1"m&ft&(KAsO%I8bq5.^:0\
+6ubdI:5G_IV"0Qt)H.hi3a>3d:Bh3+E/E6\=^\WON&D&Fgst.4(eg5o*K\3IYb'/'Z2T1okJ@.E
+RqFI_4qrRPb!q$D!AkHUi@q3("<r+<%Lo41Y$)_hnVgrqL*;@a(hOqO@Mkt.N+87['MMgLV=DoS
+SO`5LJ&_$&E?.O]oR@uS1),Kf8?rQO9p&r$;@J^sE$e23!3$A?KLQ6c0#._VrdLK[g&-=mEo[4I
+T1?0cHQC0&^2'(/5Y>/]T[@9\J`WOk#a""I:2#Z_M=V^Z;=WRhP/AEb<.b0bAe>++0LcQe5km0D
+(hKcMGfL'*b]4YucrLbl!=1MR"X,l?&;0#YMBJPRn[0?58,[!QT823C!M@ENDLWa`m<pRYFhE>\
+99T\MHlheYQsl@o8W+3b##UFr6tRTqA/XLnL1LmL&8F4h+^jS9"G;h7&<Fed4*:Y$)-R[f-<Q(0
+)5Q5[E#%OjpgTZS.9oC\!bg(X"QMd9%L])B,!-A\a^AP?AkA#"RDr[NAXXs^IU\_"1e_?q-5#Nd
+T!b!dP9,f'mT^_6OP!/l0SC]%P@5^h%Llr6W`GNU]r5P1VC@iJR)US6AAm1a>$i*.!Shmj&_<j$
+8D:MUXD5dq5"CZB?oUZ15^=IeJcmJq&=>g%]`Cq7dJ#@;8+,Ol5R7,?EtZB`fMmHQM/j431UnW5
+"CRW9(knm`Allc\m::^;LM8Fu%-9`,##UV-+\>Rr['k6Y<968><'\hR'830#8eI+n5_soYVN#)p
+T!bs00Ydq$FEps.j`t=f;>b?>9@E/4Hlk'DSS":5L4WkPYlTi"(^<:'?'o5Cp/6TsR6,I)@2RsF
+%g@bI4I/7k4Al`&!K9pE"rX(JRE!qNI+NEGk'ro_5d_8VGXqm$`$GFLC_5QI=,`h<4,)=j)$3c*
+N=d!N#I(HJ,8b!NnTlmD0^p.d^jQag7R%.QruWK\FcX$\-NfHA'6"LV!YE'm!5M\L+@J2F@&,AD
+:mMtd/8#A'KJ>q]aVf^F@gnKQ0ZGA5(pPK!&#&\\a70*Nd9\BCLp[QK]NC*>L(hQdaVeSFB8mM#
+0of[+,m.g-"(H'[J[%BG_"`H`!,uBO0Y[o!GlJjq_A!K"r]^WaruD2lIuMd42?NAW&tj%OM_I[+
+`IK*6!gjc*;&faiBUfYXk^SXjbWX#5,`H6?GmT#>)8ra%!J5t>JT3sq`8DjAj$6q/85ULbnGF9D
+N,XU"?3UO//-;O_(4lPi$:*Nk$"4BpNFADBiB5\Q'4*F_Onq9c0`.*pn:&@0[ioB(i/6RMHk2?u
+0nsYb(h5++N(FmM-\0)OoAj6e@A5GF8CS0ES/2DB2@+qSVZYo%<WYPU/3qj6(1;5e$\9ocL4g*T
+@mFK2nX)1gYgji%FF4VhfJuH`fa`V$*<i\d#Xf5p%V"d?$GeV=!oRSn+I"heYXU#BfM`Sr!+H?[
+N\\V9g)<=<CCK15229c?)WPdPNcB@l77_n:@Up'NO@0oga;G@p:^RFn&f!jnd1`8l@uR+<&Z]Td
+X[=Qa$up/;"j#I<UNS<0WqdGU"b3^qMD\Kt$"7=OPRZQD%Z.tt#:s7&&7C;)$XftK7d/#4".3g3
+Oh<J=fY\IkJ6ReJhB.=<2A3fE&..8c$3bAj!lE"jJY=Ou5bPjti:qVY+f>VO=S[XE!Y^UQjs>W[
+AX2i+=j'W#/`k3gQa("-9IYc%"@t$EP:-tIn4X$RLe%drr,%Eb9bh9eruUZu02:-9+_%\PMM(IQ
+`]1+bV)\:@GG'<o\_B4/N:VlN&7u>CgHJ(l]bn)gAW8ti/-9d/&tmH,$=GD)`Fp8&@`/laTjS/F
+i3jC'0OkLlHnbgj]S")n@gp2h3b/(h*!:G+$R(Na76nO%j#[;M0iBJi(aT99GRsmq4pcbTO94>c
+;@68_&4RML(ullG$lRtV"sCo%ps`ma!CSG,#\"J*@k_L<2@![+'+^fo4:BQ*/g>0[)'^P;6qZ/f
+U23XCUX4=J=iGi!hLD&]#/F>H$)(i_mh8#u4T\GN,f*k/&qI>"#p<<FoVe2^TU\T*?pH)*#S[pP
+E!M5]3!2S\,m(rB'*7W&$UHJ0"X%VO!`1Km6Ps)Mj&B[:1%DFPr25X\S9U(!+<!TaQNP#g;/7//
+#_^PJ"/@dp6:'iQa!g!gi]J'/_$ULaOG*l=J3X1?2BDp-6Qb?5C;Piu2eOZh+&`#`cC*.o,/(jP
+(YTR1RFQd7FRYl($NNrLNtb&A#T:McAIU@L0>d,g_H9Vo$D93r79CTA!k8f"iG^?&KkqS.(hF+!
+O>@'u`>N._A.7Gg.>KV<*CA+`N%o?/L-X9,@kSl1OZ3SrY!3#?KG7WU3!4ilSJ%\_BT/ITdkZa&
+^elds$pG:QKnuQ6@XnmL0ZBGHW/^o\4AUd,Lc#A7F3_$1AIIIG0EoP/(IO^7%Z/4Ais(%;g'bT-
+DY]trE1%@?cjt]d+prkWOTWI"(BPU+UqnH$'*,*HM?$0N`<[al)QP%`+=8GNn.u`<C^LM7FpgeG
+GR[%<E/hCt46I1Lh@cQ!O7DEqKOA@!i`H\@re(K/n0J3!5A9F=niZWSfU.2&6%VoU+Mi"<d9op7
+"Ftqc`jj=Gn<eZ!CZffQKI!&ie*ug>;10fGrgakkIgjHW13b_^(jqEUo"7dS"rPH"n179=E?lBR
+5YhB93sB"&K5alm(c6q;%gBIO"ZTrqGZk:G@YQ"5L,`[.TOA#f@>42g#*<O(BQ8eEBnbb\LA5;6
+R!",p>R,L`"lN\h\2],n)ZbII!I,Lcn1]JKA-Q.GL)=D)&7Gb#B80MtL;71$0P*MBAVLJ)"h7;2
+BLr:#9`XrC"R$FaL_YN?8-&uu"c-7b=Cqb>@g4o'"tVJ4cs=J$?A7ll#AA:9k^Nj,IL#(c6]ca%
+n:/?/4@?22L\s8%KK"\UI`)eH6g0$<'KO(,6Guhe_h:"eUdi:U8Am&?6mOt73+W7Y:]d:-!DkZT
+?kEKc(P*tr!E]teJ.dD-3<<4r",IZm3&uP/&d,W]!C/dL!#btW,_>/I"->ADcr(#)Dhe=06[3t`
+`'/sP5Ju]4`(5?pk^CHiIYWG=".1kHTG2q_4b8+t"2G_(E'&Vi(5=eT"jhaSi-dtSIg6g2#:MP4
+^_qba(P,C=JZouD-lN,2/qQV<#EWj.bY#gPI7@I'a<WpdS:X,H7Dr_X6[WQ7\9j"HI>0Fc#%1ko
+(hA@P1<@OH"sf+](h!V:,6hZc#&%7rTMbmu:'4l\5QEYF!"$G+%g,'r!9dC9TM1(GAd+!"##JjO
+\7A/2@EIG:L4"r7n7i0#@YK&3KQ'$V&4H[,.ti^8!q9ItW&KHe7KbDaKcj?M?rr&T@YR-W"uM9*
+(i0C!?NuIIL1jou,`mb:>6JV8";ihGi"1M@9n<9p"GdWl0Mm=^@7^=4"qY,Fpg=:+@"o5*#'aed
+R!K"9IDgMe_p$9EJ:#?_Jd9qVa:s<OoK^>/6H"gR7&3;s'KALV8].>kbtLSoaE@e2D2$&5LDWmA
+aD?ON7u#Ye"B=31:hYMY6\`ZR"F+kgfLUcg;?Y?o"n5Y"phbb1Itt7P#P`\%N6)=34,:n(6gX4G
+pjGOM8]/2R:8i=@&8HqbHj+1]LWEO#0Rne\>)0mpKlD2?#]J#`HpbDnLVS:md!Grc>_cEaKlD-f
+^fcFH>(qKCL+$F7pihKmnd!r0#M_Melo2is5g7Hu6c:q%>Xm)]J&m.gb7pU?aC8"/NJ8inL(Ib6
+^gmXG@Knf&L&bij0N*Ul<J*8#JJ^ENcko>n%>.bZJDa9.?qU\HB*H56#,NXMe-cHLAHjQ4"gD<f
+0L#[g=9/[6"ZQnj86c/Q$3cM!!,tg9p]q&%(]anPKU>AeTO:%#AHl7B6Ps?ffO+o.@"p@B"peYR
+ct7unBERH[KW$$r&5<0:1'HMJ!q8GV5Y-Tr4bf>7L1"Oji+<1,B2!Prd.IoFgd"[)I*@i^_t6%r
+eBV&6Ka5k&br"$?F@sVR7798cbrksC<6`dk91-XRLWp3,oQ*^YHpa!Fb`u)VPWRDY?I&I8`]X5k
+>_LD\Io^B:#Om(14]B\VF&95)<fDS7m9YRu?Gi.Y#Om)Y,\C'sB8>;Tc!5>qk^<]GI8:!t<](E-
+I+?csKi&!a;&p:('bnHK'aA>];-e[+4W.2&AB[k`#!bJ.80<Id8:`oHK,@:4TL]446;g?Z"s@=Y
+PpQ[mA-Nl[L59FG\4;4V4TUWaKlo2*QkBCt>Cb?4Ks2!dOB7!0%>?2A!/NL`\/^6B9a'B^b[=_2
+5\/?b@g7Hl#!IT@5Y;3A08#W_Jb;B]&1rR&%>2_rK,@[ELeNP>*nq*[_\d4pfPX[E:XGoZbcOgq
+,nA0&cqqqK`*HVJV,p&J<Rt/P`,0d(ol<Hc$O?$3>C_)j/3^tUInZ)>:Yf$plq9^Ya\:oELZJlg
+n9`d24,9n)7SV%FI"g0gA_e)>eMU`&0Ra8JIYY:C7mo@=Q!E*=;FaGjcMZ&>N7Uafe_RW1=4If4
+jSm61A&:'_L+$V9*>lp9@YS-]=9rC?r3qD_BEk,C#8gTr=?ck070+MbKZF^WO@Om6=GCc[L.Gg/
+KT67M?j8T+"s@K3ctEId*!I_u!,,^>L^XJ)$NTBb!AG/iTF_,(=Fh"hKocmsOA5fV$&0QJ!SuiA
+6k"eMHc'\4@$#_j*@-?c2?`4Ni6Vg`&4qFt0Ed1IKkO]pcsh`[Ba*^/"uSULA28m%1^36cL5f-L
+[0o[`5[DV4iSDFXZpR5E\^e'@<Q%8C/R1hH^KnNTi\b2q4?M@fGXaZA:?BO6STile6W"P2#H2p'
+pj*1<J)&jm>u_3e7!$FKLtj819_D:Z,lM4<Iq&oej(37de76fMnjbRFes'ePbfsCo5XUf\f)0/]
+*^eK&>h?Bnd1tSH/`GPLj+\hN8?cXP7#jV_?j84RL1"\"^hj5L=Tf9aKLcB$(eoPu2$>lZ"OLA*
+:h>AUO+ntQhcO!7^gi(s'*.5s!9absYRC`O'nMHmKEshtn21;J/HCM,J<3S.+:EmZ)M(:$8Gk4J
+fQ`12@L(`5#A?d7&4ZgF8q:diJ64IXJ//8i?37oM#$>Jkpgm#:,Lb3'A@sYR?tb:VC!ZI]eg/A]
+rFaYD$/;7E#4@(sY(MH=KSQ.Q`%A_lBR=EC?g*Sukba*dODF("LedS`7!q,Dp-IJ7-t9='ea=UA
+9uL)64,:g/#H!e_\82=V<<X4d#L.=!"s;G^Ad3KmbW'%K*$n6#GDD9+<u"tqPl=G>b/9$R:UjGZ
+86B.D@*kc8<^_QFi*1oN>R(rSA2HUXgh'S%@SbQ+;#Kk2%#>/4MhX-)"q75ACnf*(Tg5]9l_MK(
+&7gMlAQKFb#B4hgBMAO>/d+]^K#RbB:f@CZ%#+B969&Q]+BjK/=,$\b!75$P^^C9Y'7g.0"E6__
+BP`F%BEmC2#(SR`QplQ[(BjLF!6A@Fa;>*5@KoOW#$?))\9:>$HA*baK9.[<L_Kpk8c`<PKSU=q
+?qgd&?\WA;?79=4e?M=$JmjAq@>)OQ#]PP1EG,fh>G`Icp*2rmKSC%(";!kQIe/9-oS7ng`253n
+V7T*F5];a)DkplDBRb`-r.e>Og\,Gqc-]:fA8,jL#I&Qp9l3nT_Ztk9gb_H*IddU;AHkD5!l-;f
+oQF$Kmt\(UbtL3PpeCt]/qW"6K!6_VYVQB32MO2)L3:u$4?:q3JQ:o@"h7rlYUtJ%F9cK(`]\$'
+`irO(BZDu-"B\%p?tG'XAjd%gd&o@`X]+!:ZX*R;L/,/8DR\q\\O.p,8DK'f[A/INC/r>\#<55*
+\3^4(.Kk83!g#nPcr^IU=NV'i624nU#Shn]<rc&""RmB3Ljt+\;GqlaL2^]/YXjGg7fc-tKZFW'
+Qt1eV+bg`qm@\`[fQ[U.C'I3[KQn.3kXg>%/;.[LK6U7EfO"hp)!%o5L,`d:oWc36).^`&d7+sH
+<$$cRA'BE)aCZT#KuHGR5)5J5muTeh^hcO@@*\^r"fGscT4`ioBSSfdKL]d1LMMR(Ckh\$kVuc0
+-uOa"E.mCol_W\I?q,g:8d/m/Kj[Z/kY;8"7tb8JKeQAZd!#_^=G8/'"COcR\5S)h=[k9^aN.hC
+O+W(X3<RVb"#)Y<QtchE:B^GdKBJ,Ghi$LF/HpZ+Kn)%5:c4#!H&$oE"X$Wp3'[T@:'@Lf"P?EO
+a?5*j4,+;PhC)feBIe\m0E\gK"9bV)n8AOsEWoiPKigHii&h.p9MS]9LU]p/J4aj\AHh!tL!Vc2
+E&NA'6%fMa:V99TVXMG#LX5<AB;L682<E[GZ3FE>D3lj?Peh4%3Fj*p@gIMe5[4JC-j1@n!f0/C
+QobGL3!HO$Kn*J+3+I])CPGA<"(46Ai!ok!*s(;B"c-67(hIj2B*MI_KNLbJL_YJk3<<M%L3Q+>
+0P9g@e-80>LG27#kXkmF08*.3!pE#Pcpi\=5mE;q^od;7(hr<G?i7Ss"or7+i+Pat,YKNGfL3U]
+&8MK[D-UASDZ1eITQU7L6%g(@6ssd/n3m9V;u[CrIjXiDGZB5Y;?'^4KL]O,a'=?Y7t6UoJ"TL8
+YX3iZoS("gKEt-T!_FZ0Jhj">fL)AIPD1DmabYSh,n*AL@aFhcOu/D`.q?SE!\-VW1*7d\\O2fb
+rg#,^`jp`]A:^0eB$<i`H?<tp8.=eK!J6!<U)RdfH:$JQHDVE+bUS1pUl25hC<NWo!ju6\=(<!>
+qt`#FQ<><uGJiO$a(6sWN-6E`QG[1;Xt7!p&X(+C10BK96OMVkA[<J>gdJF.s*[":n!"aCMFK^[
+$R^OpFa06[ZC1&+CJ"N%;Q:%6[5kbLnm&<KCaJs)TZq?pO(]*WJL!o7^"+[qX%Ata;lNA[OdT2d
+2CtO'aE<UWb33\ESo$rdNI8EOYSc]W'.&+I@Peqg<f79Aa'l6W5/1#<"NJ/2?1/#XMSg9Y^7T'9
+!<Bn_e-J@%A.b>E)6aEE#*88!-O@L6bU?%L`%3Tf_aaP`7)RBY5Y2QM)2AinYrO`WQk<K1(6T8W
+!_PpM<+o%HcjX_cQI4CW*fJGAB-<PH(tBglni3s$P-S4D-Co1)!a!N3*2n6W_n<5YPm13t0$DY9
+'K/WR%*1.sa"5S&bsR`J1elAC+>(l8TlN=ldf?d<S!2Mc5)o13XF),>*!1UT#OMaa+6U3(I$ho6
+P[Tr63J_/_Af6J;;PmTM@MpLAN+A<1.?It97T#I`+,B4u6_B/0p3dtEq8>X`j3WH<K4?>U*uTfI
+LgZT=aam&%#'lSLR-$Dl?^KndTOlhGn;JHP@+Zl)'h%#LC7+(]Ho6ic88Kc:Tt%U!#K9hT<ZT5W
+Aq&+iq:-kF7MR[l(^;FTA!k7jM%\\^nWQ]b[&'0fR0Di&@%0X=\:)nPQ!6Q$ck6:Y+/Z<EC68Wb
+%SpV;q%-eAda9e6Oh"bjAkiK;?q'3U)1.JZerc:5P@Z@kB]m@;JXSr\r0Bt8;^"MXR)K8s9khOh
+TQFpF$!XFR_\B=:Ngedo?]\IdiNSPN*.!"le"Gm2Sss!$SeS&fiAV2JmcZ`M`HLbqNC.mb]kb6a
+loac)?O<0<,G+C+B#?PF5E4dV+F\?5[0o@L1c6.@;A>BF92cPT/Padf%M_nZPsn\R@ee2SINN4%
+rcB/.aga5B+t.grK&lGc9,\"kOC+C&.?n>1"n?tP(e,9[<I)N50F4/C.(j757U\2PP+n'3'FFr`
+9KA;GWHN9FVoer?<Zap4Iide8/o)Bf\U7hR2qaOJR!86)K`Aq8@gnKc0LcVm(h4+eN)>Nga(Xl]
+j7Ig3p`_rClkP,irX;)Tr',u#m2_t+B0m3<#fjS(K#:=t%VSiH8!GSEn@WST&bQRQS2GoFe9R#*
+FUQ4ap4q#%Gn7E<4<bpGLsUBi_GT_a,%/fT_m1[Y@JL+:&GmEO>]E2pd2(Z]oo%3WBT<A:5%>j;
+LdR1Z6*^>KUL<DIct4"&BOWki4EZJ_\i`G*^c5ib)'/8H*_0)Q-mTp5OM`\=6("i"`p=UrE+VX,
+Lt)V5q"Gj4jop^B%PbsG`>K;1A3ciP-KPr7(f22`%'c3(i5#2SY\#Z16-)6EfQ.WJW$;M^C+4mF
+Po0ZDC!6%D0EtY+(W.M2%oIR(KHNno+m_=FJY"Yd@!WIeCaFgt=;qAcD%je=:Q=>_3_-95+-9N)
+&+T/mA@)siA(5a]Z%=]"&BG`A$t,%AP;"+EaVZ66@nI%`!<sC])$;-k$h8a)#,p+)&986&a=.:c
+XH%mBr[Q#.0bC*Z;Mn;pI7C4o)$eD)K/#uX;4:2^UjXbh'T*;f.ObO874X!IJs4,f@79=U(8fMT
+RF4V]/1Mr7*u,im;(?<Fl<P0gP$1NfGr5XL"JCuWOoWV8#Vosb(6):XInl.+).G;j+605$NNgtZ
+6I90R!CUK-OfC,?(sa"N*+fUfU,@WqE"0Zt0ST%C0#Z+a%ma_[#N11\7C[X[6V(L@Z)0/ZE;CY$
+cB]""pIntFp710mHW7iO"GWl0)rgRCck2s8#&(mk_]f/@GrI).>b?RFFCS-5h[q9L(o:2JIFPdW
+E9V5TVfZ[Ed40?8l>2TB;-'m?81bIKaPqu>i^hHH,oNf?/#`Udn4+C<8$:AuK/!(I%"$MHa*eta
+eCpNn)rG_8N#RqtinD1fM^Tk,r2Pi.rBNZ&<sDW%\aW59fqJ9H+N0QfE(kG9iQ<7\J9MTWCds@\
+W%j%R_&=NE9o?1Y+2_cg'LG&CLd9rDKa<\V!sE3E_2:&R8BD\cgfoh*m=]#Q$Qk`uI:MK<54DiO
+Jg8KcO3rh>`d#E>!r@2#]5_^2<O.gq)LkA+CI3a]dY/6-hp]*98$AIWVcOWB_/.4-j_Q``(D?LI
+k_4(ljVeh9gb3<%iL[stI>rl[1soGPE@UT"WGl%&"jI`6FC;K'd%G+%C5!pC_!VSV?M+_Rb!0@<
+C<ZD^TANNEIIGCN^X@-uAZKg$7MZ(D=;OckRFdQMN"O8G:9tG(kWd*qUD?1X=:=Y.1'Mp;'uEpJ
+MP3ck751JL,1'nZJUfVt,aoV'^3benFfRsPnfEFe"ki/qORa1IJg9gljAEKIa#LdM6Ju8\@<l`:
+4TM/,l[%H^JH7O/q\UQNFH2m/7!'2e^0.cuE/as^F,pR*g_W">JKr+mf]X.L>ZYp681+,iGiQ\K
+O9KMi0_lj-jME.+?3,s(7(4c.Jo;Kb_*cH+JF!u_hcGc0mEWXg4USk"47j@V1PDYpiaPA@%NF%G
+qI#3Fg#Oer;3EXpVL9""O/taCFk6@RL_nlrmRZUb_]nUC)8eRMDnT?Uoj"'FYS,`3CcrH*SL&kj
+^6VWRR:bHM7DWKpI1Hps2TCii(aA`[$iT3Bhuj)u@h`7.+c%d3=)uisG[q5fjuis__3,@2F28I]
+'_>pQK4EURNA7Rl7HhQ'pZpI'hd]qQVekab-t!L?@jT1>'DL'u8lEsTW4j8`pt6J@fq42nmb\8+
+6*ob]T;BiN[k/6>>!`Q*'GgjYh%8In7LPf\+TEQlr5'->"Wu5D^Ln?!iG84/!Nm>jVKW_?fDGs4
+p&+t`NrQr!!!+/A5d^TC$NS!\!<CXN5tM*-`rX":!W^%<5u.Q4h#bD5!s#e45kbA3T*)q0"9JH(
+:dG5G6m'8B"HZ.qJa+<'=<?Gf*oZVm@I,$Yj;qam"`SE%Y[S[tkm,&j#S9<EU&#jm;Zn9A+7M`A
+@K%@1QO'fl+7PpFiU.drp`<l%*oZ>k&:>PXnfCVN*^T!1OEMZ6JHoWO*q4\%&8iQ9OU3_$"YcSk
+OHBgBrZ<gk#]PqKd&8!/jrWL9#&s_KOTZ`0<tMTe&Ad9G+l`bMnI<k#+-;6j&L@_AqZKbJ"S",Y
+;)8lITb6dT'<sJ0&MXFXLD8*++)t0pd8pB7^^Ta>)KB4.;.^LSC(=*Z(83u'EH_J8:(#Bt&Q+,m
+EJ>9lM@u&4(LZDBYT+'[UD^l#)?EhV5i3K2B,]0\(U::b_.OPAj:AN1))7cnJMS:-DB<e(%.FZ:
+TYDM0Afj;L*WZQg6%L)-boY4S'9V)Rcq=N3;BJb7$#i0;Yp0oYR1g-!";)jk;+h6m66D;Y%It\b
+iUm<Soa28,#`tc&Oo?GB8Kr,9,*E$PJb'1'-m.F6$%_UL&kF'a-m"Kq+G'A2E[_.\oaT8>%Uo;\
+Yk%u0/Kuo6-h7it15?MU'dJkV-kRO817&\p74HZQ.Io2!EWI8$5TWh+$rXA@o!]e5\f['U'-RB-
+;&12qdk&=0/J>K%i:S[Q4"\9_/eR.UP-PK^AM2B/%H-1u5f57+9/"\V)dsC6;8a(\$Qd+.))+#\
+@;dl^1^d^W1'"j?;]$;@`"3NE/AT^Q5u\Lr4#8VA"O[;VdX_l^73PP8%FTYQ&P3+F.j5Qt,gn7l
+YXp&nM((2-%WYPpd$H#/rAUG=#r@,C@K%<%Q6*:_2,]2>&=EYepF<HX-W6'V';m:Qr?5'%.$6G<
+1UfE/\N6sO+nM$+_2CF+ZTQ\c'_"@-PL^[/gFJts4or\f;Q_',EB_4(568A\6$GPU@N'2V*)ltV
+PQi&U$67P*)\`o*1`%]oNBtCu64c:H6(^FdYTFQ45J`gV:]MEmgI&g56kNH9e-[,D/ftca)6pI`
+U!H/k`<nD<+d0GtdY0aqO[bF,'=%Knnl-^\GplR?"E6j:U$YBlJ01#8$'HeKOHCmZi=<.O+(=[P
++n[/p@3UhH,%9jFPCY&Y"U)+C47g-I;M@%"%3]bW9Ja:T<7;P$9a&j<4X'hZTcl4c2)J3X-^7t#
+&F0f_o1nrN"HhM3dN8V?]1sO@;%`Uo'"^0qBhf9[+Al&I'b=.tQROVD%WlVMd4$7pM^Ob48X+Kj
+dNp>AR1=fI*n-*A62*q^lQ@oF"Z!,MnL[4Q1Is9#*u(nX:m3"W8L%'"$$AO-Q%o]$2^n=S;f[:W
+'\Q/Zf.&Wu;AAdEd7l.?_]^cW:,#C=;*boGs&&9^/$a.udVVi\s$bJQ"I0R#d$\-Yh-8D#;KQ=\
+eM.^M#;n9;3jbANoe@4jo-0>V8MVY;Z3++t%:Cqk$?@Kt':gNcZl]oX3#'+OdPD4dB1A-g,.0-<
+p$5f4&J<N4A/1RkEiWO<>@,jNAJLU^Ec4e(o3=+X#hE3`2%*Z46W(5\:)0HZ2'k)&2[WH^B@R57
+1n+d$O_'ho7PKNSdX,=:8KfrOB@,rVp&ACi.q!J4@^..<Jc/5-s!:Pr=L'/[efc5<!tJ?`-W!YP
+omKGq+V.VA%DhQ?@I%OV6"NqS&ondeeWi"X<H$EW47qQF'tI,kGm-*5:_nCJ'qnhiK4bbS?ZWJX
+PkeQ`q.B;0A/9l>(5Z_/OXJV_3>7M\Yc8f>809OP8l4mY'X/YL.<VkmFk:,H(M@mLm37m6<=kK(
+P#"'c>p[i`CU\q@&<RF0;$@!fGjpe9pQYm_ms2C7G'@qO(;1!_?658890qH^+m:$,fmA;'3!%qY
+GIqu6;+<6t8au*M'R<95@<Ai0,VsuU<kWm"f*ZOp*u5lG;h,rKq1"X9+#L>H;h9I>-\.D38iKC%
+;Fhm3)1g0%$$<.*(ahrk,rW!"K+O4PZ`RMt?\?_s3AQ=2dO63C8VF=CK[?&YZ?6</of9738s"mO
+0U$?UCM^59D=iMpdKq'p#>24W,1ZXFYjNRbM29"F"p+WCQ^/\ZO<.iq+-=6p+m:"Vj,05+MR]T+
+(q#9"=rlS_+$nO#!Uq*qg`F;Y*MMa<n897D(**G4*T>71_8mW_ef7!$*<EkoJ]o(,`#O?;O287E
++iYHe]Gs5A)e$H!Ts,JeU`.(V)?HWQ+e0GOXr2e^)I\jJTqWD*O;\.Q(nmB7iHuN:DAQ`G(4g?@
+!F?OmMA:\O(]dSNiHu@@=;G=C(-usUo>(Sg&PDUqBp`EQJa+9WfG).g';9:Y!D"#8=;:je'qnG@
+6!b9lL_^"r)$+Cd6'rGhDAhDV(I=]1iHcCcJOEq,(kJh-!K%g>PSiAf)1dqiJXRHB]G][q)r[G-
+TthQiS/e6()PP@niN+$XYSuKK)aUbM6*qS^fGfCS*ML%`qBM_Uj;l_#*T>?biSY_"clO@]*C8a,
+J^tl.hAri'*Pq%kqG\M%m0<'dM/ZO)iU*Le"*q`N*b"rD!W*("I5p3YDH_UF[<[KFMZi[S-;lEB
+HBV"-&TsfA#3"hfJ_2!ZarI,#)o90,&-*Y8S/Qs]).A[GJUA<NOr&C/(?'WX+_DMkH52!E(ElTj
+!GW="=r'Cj'gZ4@3q<q-:_hq=']E:0JP$Z.*Ya0+&]$pOJIE5Y<Y1rk'k%!G)^H/Kne;+*%fnd-
+5iNGc:(>#p'VNqgiC47W$kshu&:m"QT_oIRZ4CA!$Gc-D^nqU8-40b4&`B#ci>N"fck,,k%,hU#
+@)rmeJ.*S$#GAR;TQ1D?nckbe%_uT^@-@dpS.1!T$"20bJ;=X7:'a,/"JC2PTLK0:_up'V$_TZf
+@'g#dAdZ=C"otM'!*T[o7L;?*#Q_4O_6&)niCd!S@5-RcU%9R8#Tj`L$D:,si49!*/.@%i"/+EO
++>(Gq/.Nd\!heTVJ1M015QZJs"@+LIi(=(/huphL%_ta?JF3Qu3Y*?2"5rqXJ4'p`>QfTX"oq=.
+5\($a#R5f]&7B)RI"DN1$3m/,&E%F0i=lM^A.a?:#([ZtTP>(SHj7D2#N1=LJ:n3E/dXe1'4@=;
+!Ak.6W"\dH'7dk+iBRg%`Y6/A%08^'i7&FUl4*ha%m]CoJHQKL;@qdc'gWZJ@9=,X$5B0b&tr,8
++YXY)3YUI_'L>8*ThZ=GFqp]W(]e._JVY)XE#F4W(h'8BTs>QpUQFHA*?i?@@H8G;fH3q0%an&S
+OW=dJjrUn.*d:@#:q@\Kl5phT*r8Hf=KELuM0qV3*T?3%I?GRYg`BnCftkY'qALD@\"nS[NOfT@
+!N1q9V5%I`*5UJL4cgLda;go3(VS*1]p9GiTGF6:*J%Z=iRSbFU`H.0)?JD(+da99:)RKg'Z#qP
+iCFgebS4KE*.^EnJ]&5\J/dH-iP@Ji_7C:GGT1'F(Ep-u_/:1m-l0Y%&n,Mn_'BeIU_9A3)?D0"
+@@e(I:`4g"'S2J\!C@X^$56j$&:lSR!<a&:FqFa)(BFjU!Ep&N3#<_`*<H!V]D<R7rs%H^H]j!b
+^7FMq";8O%)F5,N@B0J2_@_>3*'kJT6-KrB'HKIf&])m/+W;Ap3YEUe'HneDTgfZglkI8q*oTj-
+U%/pA4s*'i'ERnB@6u'0=qkEC'u<QciEd5WrYE=Un_YH)iEdVbEY]ht(I;RRiH>uFrYL-!+5qM]
+^Hrb\rYOOJ+5r"m_>Y:fO<=)`+5rS)Jc6Q2THE-i)F=?A+fY3CGT24:+9-d3iP6B5rZ!)e+5t37
++-[jN5Tb;A+.B2*+l"/Jg)^3n*T?i8iSkrqi#Y2_$iZhZ&A&9Xo+,g]#!HI<[/"K=5=q,s=BJ#k
+(7?DUdhKRc&lVe%QN(bVHlrs?lhUP`K"p75GOuLa"boD'd26[p+Urueip\o)C&%p]_B\O6$k;q6
+Nl#4CfGpnM#_GV-d>9C=58Sc=?S@c3g.`o\:Z0_?r!l.'Th6^%QkT=_)Q-6ePaY;fWC2;%A$RNe
+DHgD-f:TBB%'%9'Im2qZRlkl!)jjddYIfe>%3)7o0%ZORmVc1$<M`d^1kO%gPt7`k=G>b6;hRJW
+q&G>P-'cYbnp'G"`^M2ChIcI!9Y.JVUrVOVl)`G+r-V3$&bjfK0e(N1@9KTns)""U6)jUGoSNC^
+R*%@1b0M[P-*tJad"st_V6o7%/Me;UDV4fFpT-OSmP?`5U@5Qn:H]@+_o)B0=rM4\j"'_HU;(M7
+n)7CI+/eB%!'j?h#(E2+4:ls-#P8l6TC@40Iil`,rsD*>X=jlFYbVF56I>'Z%n#hhqL'GuiU[Bu
+O^(`u+7WlM%*!7fCCEQAS9#(XdF<L_`mNj]$cm;/q[5sA'TWesEQg?f8MC:8)G&5.@0FaBF?([8
+Ym^pl61CD2#Y["D-On,d]Hm\GE?*Rdb`L?!0>Ooi^Fi(Hr51ZgP8m(F^s^a,4AZ^8mm0cI]]1io
+:i$@lbRm/85JscX%i*O_KFiQ#E!c86e$NYJ*QkY*HQY]goQO9QF+%7a6#_L>=\dC>'.$7.`$kr?
+a8J.g:s^a.5gT&(#rY+IX=/I!<:T9d+/cb"I7VE'W>6QioqHr.<kMWNdtdTZ.RQ)k)[4I;-,TnY
+0WF_g`<W1gHpBT0rd-mH*Ut&aEFd09e5Mp%.+pC5W-dBfPUgFcd&Hh7a`'Yg;p6sJ:Ms-p8bd_T
+;1\=uaDouM"^T128:+FK4aA<Fet,m-eac1:Q:TZZ=bg(GNb`@K=)%>O8/#P`M*g]R.nLi'c7<5<
+[q*#_?.1][Lgehe_^O(QN>4Wd0W^7dTBEnVF.FZb\8N;kU$R#-8&=hD*61@`E1CP-Z=0,sq1`>q
+2$Gdj>a7HuIH,>.!Ja,JH!XMb`;)06*bT:$HCj9`]P<\-0fj@HHli[1hjBo7\JuraUhL^dBps&^
+B,h57hUkdTPO'-)CC.s@Cb6>gquoju@Bq/PNT@@?@nP,"^=sJGnU^"CiQs_t$Y@&+ALHW.^1lq8
+^<C#%*p:#MJk)(G*MGmtjJaVBr$MfK`#jAJ_97$5LPKWoUeTghdfaOeO7D?q#H25CiLhS&&>UNR
+BT=0eoRDq\r]e=LKb4?)/d:d<1^9=R$c.KI"b=$ALG7s7U[e],#U2J<aS?mppjYQm*t+bjr#]n-
+IDHNq$HLM0%=tl4KWpt'L60r:j8=361%H/K!+lZ@S2QB>a>fi3rZ=N"IDo(X$&@kLMK*$FNhOf<
+6XXX=+j`4Si;t+=&7l8ZLf0*iYWbS<<J<+n(deR7$t7@[Kb-.)O8-=%TQE#JOPG6pOo@NeGkZe7
+iWbHH)[W:(HQV;96k?!\5G>.h*tYRh6s-o6TStRhA+C:#M";_I_#K.AmMWo%E?XC2V3LPR6-(eO
+5)6c[+&G9B6E,AdL[86!1Cda5W3STWm$a9hnk?p"!=d*EqLS0;6;0C02FmQ:ORU+#&*W*j@!jYs
+d,I8VJ`&X\ODPHC^&s'<hD,:+b_6*063qP/'`tnq)P^\M$t5;K"[K+0,K+mr=D9VRe1Mh^b#;"X
+r&r*1p6BTo#)=np*<O;b$^:'r6rCr`LHpt7!a'CNn]MX/i:r1OW_?=DWtgC\llAB>0a7ZK1e)k5
++%':M%=kMq6Fb)S@j[QRn_cNb]J(E@;GGDlqZE\>%>$Dp'h:7h$&@;n*qC4=O$Vhfi.XfG_qH&j
+MU)aPj\)SZ7L.54j?BBp."r:/>0]-p0ZS_4*TI-,Mt(7-"b>ch<)e@+6&%)4aLE#gie^;F<\oJD
+c5a`dF%'4Z(1PqJ)Zs&D$ZTiA7s/:+P9q!]=VWG18E_'=Qs,DVAh:ooZ(47rBgdO?.tsY%(BXA<
+7sH4?a0>4SK03cVJ^ulZoFJI,3*02o]1M/_UkJ5,\IZ1Q4[VJK%3^fgL1%Y1_Z4iiiS]$C@I>:l
+0Sb;>AdjY2+s]R<M%Lp]M%>0i3sTGXJO,V%?,4lDn.<p]JbK6Mg^kRFpjg'Ii&HK'jZZ#465j<t
+;Mo.4)fU%B^4IbN%FMci8*IT%U@rbbn@&RSW0S(EFF:rVf7%W,AK%=GCJ;8G549%j(h4+d>/AW2
+Z5"2d@I#-Hm#_VXn=LBRKM`("![*.1lj^iD@Z4MT/`Go1%mfPFNKLS+Z,Rk)YY7A\JE;lG;"Dk`
+!+:a*S1'%Zob>95<"0G81rJ7"&&HaW#@RoA`sCZE;.P,A#ub+ZXJWpfoKgf:'I,u\Gn2-uFcN^j
+-j9g&&)%.R?VqV=o<>2$iF"5$O[CTF(oa/oj?*Zu1+!.CaW49K&R@td$"b$L'Z,r#LuB0n">GH=
+63'41$fiS>R#)@+-r()r4"a%MS(a(e.LVfPXf[Dce`#Nr$=15"pCtN0Psg)XJaWUA3-i]O-q=DZ
+O:k"O^DI#G8Vo^>(4t?A)";JtL+pUb-fERfJZ'mu^mZ9g:l""]?\^r:Z%<&@Pi@7$;M@rI'sO?Y
+cZEtTE'0^?pi)T5\?%$1d%.'=R+*%*4=C@@[MhQtT#l:oFBs7c4$s!V$oug9j^F#jn)`jHj+)*/
+&E/95:u(;e^SaA*\2O1kLCjS10lRVQ.KrAB$J\`RM#e_S`aI$;+r>D-X$f%%G]4,oS5Y;^/ipL]
+Qf<Tn=*3k8'Ek9`(?47WhB9Z`Kc$W0")(>HmK+72Gjlahk.+"'s.QU@34f&%A;;Wg3<q,bJesM2
+%*L#6#>gd$,&>U5W+I_Q!5K(H4D+:K*'N80\;)c@=Mn6<9'KS>+2QSn#G4O6F7=@',L[H?Z)fh&
+\F00`<(%)^TaQYKoFW:Vl[:Fb."9^$`u*h-O))HI]3'%ATm#r$JES+rLgRe^,'aCZ:YPUd0+&m6
+8*7YN*cKtr#f.?&Kh,0s:jrZ-IYDH9KlA=>:aLdF8-F`3K@i?hW%*D'DMI@n#1.2kg]dn;3s2]K
+K$Z(NfJ3OO1516\"c+[\\1@^V07s7/Kt(@mLj4]:Ig>Im_74uM3-0j?2$6Z4KA\oqllcK#.KZ7m
+L3R?cKI$hY0`qtALG3b(+FaX[IR1Jn"9:[hpe(b"9*?q9KJ6+'fM)V'IL"MM6'*e;BOM)^@R75J
+L9PFt\2OM/2hb@6"_]]E0JnK2'>]3(K[_].5VrR69SCJ]",JphPT0j/<J>BPK:"\)Y^6Vf2[@EP
+#LG2X0JWgQ?3S])L\q3B"<0[t.Dm9V`>F'?X>1%A%g0=5KV1p?#XJS)HGl%,"AhO??rI4g<(0?-
+`Sa^K`'ZrfItU?^"CsoQQpq3l7g$7_K>;5VW,"aO;hs^K70%bUXD:'@.RL3U_LQZZ`+K3l7g+3[
+"FM1Yj<+Qg@DcK#a*\'oKG+NBCBs3>L8[&Oa@(\H6pesZLJW)J9H6@:2a_P0LS/rZ+>SRW2M5[j
+7sk;j==8]N."a30"$@>$!+gmeAjPW<K4K]>Ch<`.,D&0WKa:OFjD,"i7"e*"!a$b#?s\QN?U;J8
+"or&H80u=77"^R]".1ir-o2$S5!]0#ap9d+i(aFA3J2Q/K'4im(ib<R@g4VsaCmL6BI8=Q#D:rZ
+6Tc=n:j!"J5m'YiL1k3cW.0Ki:B^SH":/:efNq,<HAA/=_R+NB^ds-784HuVKIB1j-r#BQ9uS).
+LPRb)&8"R'2a`+2a2g4D(f:Gb1]o]p6nh?Z^e@3/=bW5H"PghG^cV_C*!EK="O(#%*#qCP2ZmGH
+K4n3f=B*7!I8-M973(';r3Ze->_HW>KY3fZ$jZsr9*`sR7US`?6ib,HPQ`$\K]H'en2\;J<^8c&
+5V*#X>T<riZci\AKRcRGHuMUr)McC]#J`QVn37(e7KnTMKp80"*#jOW4TjK/L("uUoY#p6=&80&
+:ZtkMi'[`6;h[1o"3<TZBP%HZ.E9$uccCB.N/IcpO99#2#Dd]QbWu>!,(cIA;#"SK%19r82$IP)
+5`dJ<#VsQ$A&,lsKXa[.^`rn7,KDc^LA5]j+@62Z,Q^4VKd]iQ1slEL-A*:JKP2W_80nD/=,,@E
+L>Xe=(bu0^0*;(UL2@_2i,/bcX9*d+d_(j#=ETC0&VDX@L3+C>n8AO+1X&O\L%$e687tkk*!^UJ
+;i!,]Ps#7%4p:gK6,]s^Kd_Qn,R/XBL7L_"Qo@Zo?,7@5#=V0RX9$?1J%u%`K<7g5^gGUI.K]*_
+<;c[3J87GA/'-@Se=?HRZu*X]8Hg,9:_Xm?#^",.2pfWlccA.IaBqs&**%+D6j3F?rF#mV@Sb'U
+<]im)S8HWoH;`+,L;7U0]j!eA>=XKAf";u%5\Yk)DF)34#IQu)V/\f>OT]Ma"dEhYh%EYW1dSfr
+_@SoWQ$EW5>=*!X;"u_CY]iCK?!$BU!]Vf7%9$5J('=8OfJl`19eQQr,f!BH^]7@;O@]SGL4ZW[
+!k9Y1La`Hd6\Ik,#:'e3\1N<b/d81WKs`gk5Ucbr.FKf1K&mMq#Z([):tW!&fEa*]a=MqmB*6+K
+LMRr/&9^sJ.nj35LU_\d`/k(;(PTg,Kma9Y\4Xb[44f"+g:0LRc)FL`5gYm,>5T?EQ*F<TYm49^
+KbY'A!);&sYD*d5f&/M`3.+\qA&^o)9e]4;<;kN9HcRI4#M=H)<%:9a9ELd&6mtaY[3l17WD[+q
+aZ*,6!'UX9b"$](e*p/PJ4`,GWeN>?K<SQc%B9S3dT'gNLWh88ZqH2)\QIcWfIaGc+B:\*DM2$E
+>?#jo'SH^e*)IAC6,h(O?/Yt+i_Vm&cim"qo`rO9@btrrL&KiD`QMS$@`b!DLF):a#\;erH/@m-
+<tK+?kZPrnF'gM@L->/o0NR%YkeXrBL..:0Xkh-]EPu6beMJQVJ6lU=2$WP]?i:WAA/Bs5=\m:a
+f)8N5cu[`2)hs@X?Nk8q7@Ai5IYH=Qg&rAHA:)YIe_KQr6,i8IS[RA18`%fm@6I7jmHdH@WmmPb
+a0"O`3)`j#@U->&8$"4+*P_p,I*&m*hc8?7`3Y27HJOgo"SNS^Pu1UnHI'iZ>?+-sjj_Q*<^tja
+>NPtD[BnUN`RV@=;@XAipi]/$!S:ij#1[hMQ-b5lV$,mcL%VuXQ#sj^*)DjMi+,Yme83a$HJMlg
+=-c'PSFTD,J)d%<hG!`T`]?St6XliMA/$!BQ9.LJj^`4"j@2ZFr[,Ia9OKbAjN)i2^+..:87ZU0
+A9I-,IPM/b.>RU;@jO`DIR6iU3ohnhjO@sR]TqTE#%aXI<2N+':-rB<@V+[j6FL%X-08[W9F)+.~>
+endstream
+endobj
+12 0 obj
+26180
+endobj
+6 0 obj
+<<
+/Type /Page
+/MediaBox [0 0 792 612]
+/Parent 3 0 R
+/Resources <</ProcSet [ /PDF /Text /ImageC ] /Font << /F0 9 0 R /F1 10 0 R >> /XObject << /im2530 11 0 R >> >>
+/Contents 7 0 R
+/CropBox [0 0 792 612]
+>>
+endobj
+14 0 obj
+<</Length 15 0 R>>
+stream
+BT
+367.20 29.64 TD
+/F0 8.00 Tf
+(Hoja ) Tj
+(2) Tj
+( de ) Tj
+(16) Tj
+-34.96 400.16 TD
+/F1 8.00 Tf
+(DEPENDENCIA GENERAL : ) Tj
+ET
+0.00 w
+0 J
+0 j
+406.36 172.32 135.00 18.00 re S
+BT
+446.84 182.28 TD
+/F1 10.00 Tf
+( 9,000.00) Tj
+ET
+541.36 172.32 135.00 18.00 re S
+BT
+593.84 182.28 TD
+( 0.00) Tj
+ET
+676.36 172.32 81.00 18.00 re S
+BT
+701.84 182.28 TD
+( 0.00) Tj
+ET
+437.84 409.48 72.00 13.52 re S
+BT
+466.64 416.28 TD
+/F1 8.00 Tf
+(304) Tj
+-139.20 0.00 TD
+(DEPENDENCIA AUXILIAR : ) Tj
+ET
+509.84 409.48 247.52 13.52 re S
+BT
+509.84 416.28 TD
+(PLANEACION) Tj
+ET
+437.84 476.96 72.00 13.52 re S
+BT
+469.04 483.80 TD
+(01) Tj
+-88.80 0.00 TD
+(FINALIDAD : ) Tj
+ET
+509.84 476.96 247.52 13.52 re S
+BT
+509.84 483.80 TD
+(Gobierno) Tj
+ET
+437.84 449.96 72.00 13.52 re S
+BT
+464.24 456.80 TD
+(0501) Tj
+-146.40 0.00 TD
+(PROGRAMA Y SUBPROGRAMA : ) Tj
+ET
+509.84 449.96 247.52 13.52 re S
+q
+509.84 449.96 247.52 13.52 re W n
+BT
+509.84 456.80 TD
+(Planeación, programación, presupuestación, seguimien) Tj
+ET
+Q 0 g 0 G
+0.00 w
+0 J
+0 j
+437.84 422.96 72.00 13.52 re S
+BT
+466.64 429.80 TD
+/F1 8.00 Tf
+(B00) Tj
+ET
+509.84 422.96 247.52 13.52 re S
+BT
+509.84 429.80 TD
+(DIRECCION GENERAL) Tj
+ET
+32.84 310.48 724.52 58.52 re S
+86.84 310.48 211.52 45.00 re S
+BT
+159.00 340.64 TD
+/F0 8.00 Tf
+(Descripción de) Tj
+14.40 -8.52 TD
+(Acciones) Tj
+ET
+32.84 310.48 54.00 45.00 re S
+BT
+38.24 340.64 TD
+(Código de) Tj
+7.20 -8.52 TD
+(Acción) Tj
+ET
+298.36 310.48 81.00 45.00 re S
+BT
+324.44 340.64 TD
+(Unidad) Tj
+7.20 -8.52 TD
+( de) Tj
+-7.20 -8.48 TD
+(Medida) Tj
+ET
+433.36 341.96 324.00 13.52 re S
+BT
+552.16 349.16 TD
+(Periodo Trimestral) Tj
+ET
+379.36 310.48 54.00 45.00 re S
+BT
+382.36 340.64 TD
+(Programada) Tj
+12.00 -8.52 TD
+(Anual) Tj
+ET
+433.36 310.48 54.00 31.52 re S
+BT
+436.36 327.12 TD
+(Programado) Tj
+ET
+487.36 310.48 54.00 31.52 re S
+BT
+499.96 327.12 TD
+(Avance) Tj
+ET
+676.36 310.48 54.00 18.00 re S
+BT
+693.76 322.16 TD
+(Abs.) Tj
+ET
+730.36 310.48 27.00 18.00 re S
+BT
+741.44 322.16 TD
+(%) Tj
+ET
+622.36 310.48 54.00 31.52 re S
+BT
+634.96 335.64 TD
+(Avance) Tj
+2.40 -8.52 TD
+(Acum.) Tj
+-2.40 -8.48 TD
+( Anual) Tj
+ET
+676.36 190.28 81.00 31.52 re S
+BT
+690.44 206.00 TD
+/F1 8.00 Tf
+(Variacion %) Tj
+ET
+q 54.00 0 0 28.44 37.36 547.56 cm /im2530 Do Q
+32.84 235.32 724.52 70.68 re S
+32.84 292.48 54.00 13.52 re S
+BT
+57.44 299.64 TD
+/F0 8.00 Tf
+(1) Tj
+ET
+32.84 273.40 54.00 13.52 re S
+BT
+57.44 280.60 TD
+(2) Tj
+ET
+32.84 259.92 54.00 13.52 re S
+BT
+57.44 267.08 TD
+(3) Tj
+ET
+32.84 240.84 54.00 13.52 re S
+BT
+57.44 248.00 TD
+(4) Tj
+ET
+86.84 286.92 211.52 19.08 re S
+BT
+86.84 301.32 TD
+/F0 6.00 Tf
+(Matrices de indicadores de resultados por programas) Tj
+0.00 -6.36 TD
+(presupuestarios bajo la metodologia del marco logico \(MML\)) Tj
+0.00 -6.36 TD
+(adoptados.) Tj
+ET
+86.84 273.40 211.52 13.52 re S
+BT
+86.84 282.28 TD
+(Orientaciòn y asesorias en materia del Sistema de) Tj
+0.00 -6.36 TD
+(Evaluaciòn del Desempeño Municipal) Tj
+ET
+86.84 254.36 211.52 19.08 re S
+BT
+86.84 268.76 TD
+(Formulaciòn del presupuesto con base en resultados en) Tj
+0.00 -6.36 TD
+(cumplimiento a lo establecido al Manual de Planeaciòn,) Tj
+0.00 -6.36 TD
+(Programaciòn y presupuiestacion 2016.) Tj
+ET
+86.84 235.28 211.52 19.08 re S
+BT
+86.84 249.68 TD
+(Acciones de orientaciòn y asesoria en materia del Sistema) Tj
+0.00 -6.32 TD
+(de Evaluaciòn del Desempeño Municipal Dirigidas a La Areas) Tj
+0.00 -6.36 TD
+(Administrativas.) Tj
+ET
+379.36 292.48 54.00 13.52 re S
+BT
+411.76 301.32 TD
+( 12.00) Tj
+ET
+379.36 273.40 54.00 13.52 re S
+BT
+411.76 282.28 TD
+( 44.00) Tj
+ET
+379.36 259.92 54.00 13.52 re S
+BT
+411.76 268.76 TD
+( 15.00) Tj
+ET
+379.36 240.84 54.00 13.52 re S
+BT
+411.76 249.68 TD
+( 44.00) Tj
+ET
+487.36 292.48 54.00 13.52 re S
+BT
+519.76 301.32 TD
+( 12.00) Tj
+ET
+487.36 273.40 54.00 13.52 re S
+BT
+519.76 282.28 TD
+( 11.00) Tj
+ET
+487.36 259.92 54.00 13.52 re S
+BT
+519.76 268.76 TD
+( 15.00) Tj
+ET
+487.36 240.84 54.00 13.52 re S
+BT
+519.76 249.68 TD
+( 11.00) Tj
+ET
+595.36 292.48 27.00 13.52 re S
+BT
+597.16 301.32 TD
+( 100.00) Tj
+ET
+595.36 273.40 27.00 13.52 re S
+BT
+597.16 282.28 TD
+( 100.00) Tj
+ET
+595.36 259.92 27.00 13.52 re S
+BT
+597.16 268.76 TD
+( 100.00) Tj
+ET
+595.36 240.84 27.00 13.52 re S
+BT
+597.16 249.68 TD
+( 100.00) Tj
+ET
+622.36 292.48 54.00 13.52 re S
+BT
+654.76 301.32 TD
+( 12.00) Tj
+ET
+622.36 273.40 54.00 13.52 re S
+BT
+654.76 282.28 TD
+( 11.00) Tj
+ET
+622.36 259.92 54.00 13.52 re S
+BT
+654.76 268.76 TD
+( 15.00) Tj
+ET
+622.36 240.84 54.00 13.52 re S
+BT
+654.76 249.68 TD
+( 11.00) Tj
+ET
+676.36 292.48 54.00 13.52 re S
+BT
+712.36 301.32 TD
+( 0.00) Tj
+ET
+676.36 273.40 54.00 13.52 re S
+BT
+708.76 282.28 TD
+( 33.00) Tj
+ET
+676.36 259.92 54.00 13.52 re S
+BT
+712.36 268.76 TD
+( 0.00) Tj
+ET
+676.36 240.84 54.00 13.52 re S
+BT
+708.76 249.68 TD
+( 33.00) Tj
+ET
+730.36 292.48 27.00 13.52 re S
+BT
+732.16 301.32 TD
+( 100.00) Tj
+ET
+730.36 273.40 27.00 13.52 re S
+BT
+735.76 282.28 TD
+( 25.00) Tj
+ET
+730.36 259.92 27.00 13.52 re S
+BT
+732.16 268.76 TD
+( 100.00) Tj
+ET
+730.36 240.84 27.00 13.52 re S
+BT
+735.76 249.68 TD
+( 25.00) Tj
+ET
+541.36 292.48 54.00 13.52 re S
+BT
+577.36 301.32 TD
+( 0.00) Tj
+ET
+541.36 273.40 54.00 13.52 re S
+BT
+577.36 282.28 TD
+( 0.00) Tj
+ET
+541.36 259.92 54.00 13.52 re S
+BT
+577.36 268.76 TD
+( 0.00) Tj
+ET
+541.36 240.84 54.00 13.52 re S
+BT
+577.36 249.68 TD
+( 0.00) Tj
+ET
+433.36 292.48 54.00 13.52 re S
+BT
+465.76 301.32 TD
+( 12.00) Tj
+ET
+433.36 273.40 54.00 13.52 re S
+BT
+465.76 282.28 TD
+( 11.00) Tj
+ET
+433.36 259.92 54.00 13.52 re S
+BT
+465.76 268.76 TD
+( 15.00) Tj
+ET
+433.36 240.84 54.00 13.52 re S
+BT
+465.76 249.68 TD
+( 11.00) Tj
+ET
+32.84 382.48 364.52 13.52 re S
+BT
+32.84 386.40 TD
+/F0 12.00 Tf
+(ENTE PUBLICO: ) Tj
+(NICOLAS ROMERO) Tj
+(       ) Tj
+ET
+95.84 418.48 198.00 27.00 re S
+BT
+101.84 437.48 TD
+/F1 10.00 Tf
+(  AVANCE TRIMESTRAL DE METAS DE) Tj
+36.00 -11.04 TD
+(ACCION POR PROYECTO) Tj
+ET
+32.84 418.48 63.00 27.00 re S
+BT
+32.84 437.48 TD
+( PbRM 08c) Tj
+ET
+397.36 382.48 94.52 13.52 re S
+BT
+397.36 386.40 TD
+/F0 12.00 Tf
+( No.: ) Tj
+(098) Tj
+-128.28 132.08 TD
+/F1 10.00 Tf
+(Presupuesto Basado en Resultados Municipal) Tj
+ET
+437.84 490.48 72.00 13.52 re S
+BT
+442.64 497.64 TD
+/F0 8.00 Tf
+(Identificador) Tj
+ET
+509.84 490.48 247.52 13.52 re S
+BT
+509.84 497.64 TD
+( Denominación) Tj
+ET
+32.84 355.48 724.52 13.52 re S
+BT
+216.28 359.40 TD
+/F0 12.00 Tf
+(Avance Trimestral de Metas de Acción por Proyecto) Tj
+/F0 8.00 Tf
+( ) Tj
+ET
+541.36 328.48 81.00 13.52 re S
+BT
+545.84 335.64 TD
+(Var. Trimestral) Tj
+ET
+676.36 328.48 81.00 13.52 re S
+BT
+692.84 335.64 TD
+(Var. Anual) Tj
+ET
+541.36 310.48 54.00 18.00 re S
+BT
+558.76 322.16 TD
+(Abs.) Tj
+ET
+595.36 310.48 27.00 18.00 re S
+BT
+606.44 322.16 TD
+(%) Tj
+ET
+298.36 292.48 81.00 13.52 re S
+BT
+298.36 301.32 TD
+/F0 6.00 Tf
+(MATRICES) Tj
+ET
+298.36 273.40 81.00 13.52 re S
+BT
+298.36 282.28 TD
+(ORIENTACIONES Y) Tj
+0.00 -6.36 TD
+(ASESORIAS) Tj
+ET
+298.36 259.92 81.00 13.52 re S
+BT
+298.36 268.76 TD
+(FORMATOS) Tj
+ET
+298.36 240.84 81.00 13.52 re S
+BT
+298.36 249.68 TD
+(ORIENTACIONES Y) Tj
+0.00 -6.32 TD
+(ASESORIAS) Tj
+ET
+541.36 190.28 135.00 31.52 re S
+BT
+560.84 215.08 TD
+/F1 8.00 Tf
+(Presupuesto Ejercido) Tj
+-4.80 -9.08 TD
+(Acumulado al Trimestre) Tj
+24.00 -9.12 TD
+(por Proyecto) Tj
+ET
+406.36 190.28 135.00 31.52 re S
+BT
+447.44 215.08 TD
+(Presupuesto) Tj
+-21.60 -9.08 TD
+(Autorizado Anual por) Tj
+28.80 -9.12 TD
+(Proyecto) Tj
+ET
+32.84 104.80 211.52 49.52 re S
+BT
+121.80 138.48 TD
+(ELABORO) Tj
+ET
+545.84 104.80 211.52 49.52 re S
+BT
+632.40 138.48 TD
+(AUTORIZO) Tj
+ET
+289.36 104.80 211.52 49.52 re S
+BT
+380.68 138.48 TD
+(REVISO) Tj
+ET
+437.84 463.48 72.00 13.52 re S
+BT
+464.24 470.28 TD
+(0502) Tj
+-136.80 0.00 TD
+(FUNCION Y SUBFUNCION : ) Tj
+ET
+509.84 463.48 247.52 13.52 re S
+BT
+509.84 470.28 TD
+(Asuntos hacendarios) Tj
+ET
+437.84 436.48 72.00 13.52 re S
+BT
+469.04 443.28 TD
+(07) Tj
+-84.00 0.00 TD
+(PROYECTO : ) Tj
+ET
+509.84 436.48 247.52 13.52 re S
+q
+509.84 436.48 247.52 13.52 re W n
+BT
+509.84 443.28 TD
+(Planeación y evaluación para el desarrollo municipa) Tj
+ET
+Q 0 g 0 G
+endstream
+endobj
+15 0 obj
+8356
+endobj
+13 0 obj
+<<
+/Type /Page
+/MediaBox [0 0 792 612]
+/Parent 3 0 R
+/Resources <</ProcSet [ /PDF /Text /ImageC ] /Font << /F0 9 0 R /F1 10 0 R >> /XObject << /im2530 11 0 R >> >>
+/Contents 14 0 R
+/CropBox [0 0 792 612]
+>>
+endobj
+17 0 obj
+<</Length 18 0 R>>
+stream
+BT
+367.20 29.64 TD
+/F0 8.00 Tf
+(Hoja ) Tj
+(3) Tj
+( de ) Tj
+(16) Tj
+-34.96 400.16 TD
+/F1 8.00 Tf
+(DEPENDENCIA GENERAL : ) Tj
+ET
+0.00 w
+0 J
+0 j
+406.36 202.48 135.00 18.00 re S
+BT
+434.84 212.48 TD
+/F1 10.00 Tf
+( 4,917,592.00) Tj
+ET
+541.36 202.48 135.00 18.00 re S
+BT
+569.84 212.48 TD
+( 1,196,629.93) Tj
+ET
+676.36 202.48 81.00 18.00 re S
+BT
+698.84 212.48 TD
+( 24.33) Tj
+ET
+437.84 409.48 72.00 13.52 re S
+BT
+466.64 416.28 TD
+/F1 8.00 Tf
+(307) Tj
+-139.20 0.00 TD
+(DEPENDENCIA AUXILIAR : ) Tj
+ET
+509.84 409.48 247.52 13.52 re S
+BT
+509.84 416.28 TD
+(AREA DE ADMINISTRACION) Tj
+ET
+437.84 476.96 72.00 13.52 re S
+BT
+469.04 483.80 TD
+(01) Tj
+-88.80 0.00 TD
+(FINALIDAD : ) Tj
+ET
+509.84 476.96 247.52 13.52 re S
+BT
+509.84 483.80 TD
+(Gobierno) Tj
+ET
+437.84 449.96 72.00 13.52 re S
+BT
+464.24 456.80 TD
+(0601) Tj
+-146.40 0.00 TD
+(PROGRAMA Y SUBPROGRAMA : ) Tj
+ET
+509.84 449.96 247.52 13.52 re S
+q
+509.84 449.96 247.52 13.52 re W n
+BT
+509.84 456.80 TD
+(Administración, capacitación y desarrollo de los ser) Tj
+ET
+Q 0 g 0 G
+0.00 w
+0 J
+0 j
+437.84 422.96 72.00 13.52 re S
+BT
+466.64 429.80 TD
+/F1 8.00 Tf
+(C00) Tj
+ET
+509.84 422.96 247.52 13.52 re S
+BT
+509.84 429.80 TD
+(TESORERIA) Tj
+ET
+32.84 310.48 724.52 58.52 re S
+86.84 310.48 211.52 45.00 re S
+BT
+159.00 340.64 TD
+/F0 8.00 Tf
+(Descripción de) Tj
+14.40 -8.52 TD
+(Acciones) Tj
+ET
+32.84 310.48 54.00 45.00 re S
+BT
+38.24 340.64 TD
+(Código de) Tj
+7.20 -8.52 TD
+(Acción) Tj
+ET
+298.36 310.48 81.00 45.00 re S
+BT
+324.44 340.64 TD
+(Unidad) Tj
+7.20 -8.52 TD
+( de) Tj
+-7.20 -8.48 TD
+(Medida) Tj
+ET
+433.36 341.96 324.00 13.52 re S
+BT
+552.16 349.16 TD
+(Periodo Trimestral) Tj
+ET
+379.36 310.48 54.00 45.00 re S
+BT
+382.36 340.64 TD
+(Programada) Tj
+12.00 -8.52 TD
+(Anual) Tj
+ET
+433.36 310.48 54.00 31.52 re S
+BT
+436.36 327.12 TD
+(Programado) Tj
+ET
+487.36 310.48 54.00 31.52 re S
+BT
+499.96 327.12 TD
+(Avance) Tj
+ET
+676.36 310.48 54.00 18.00 re S
+BT
+693.76 322.16 TD
+(Abs.) Tj
+ET
+730.36 310.48 27.00 18.00 re S
+BT
+741.44 322.16 TD
+(%) Tj
+ET
+622.36 310.48 54.00 31.52 re S
+BT
+634.96 335.64 TD
+(Avance) Tj
+2.40 -8.52 TD
+(Acum.) Tj
+-2.40 -8.48 TD
+( Anual) Tj
+ET
+676.36 220.48 81.00 31.52 re S
+BT
+690.44 236.16 TD
+/F1 8.00 Tf
+(Variacion %) Tj
+ET
+q 54.00 0 0 28.44 37.36 547.56 cm /im2530 Do Q
+32.84 265.48 724.52 40.52 re S
+32.84 292.48 54.00 13.52 re S
+BT
+57.44 299.64 TD
+/F0 8.00 Tf
+(1) Tj
+ET
+32.84 278.96 54.00 13.52 re S
+BT
+57.44 286.16 TD
+(2) Tj
+ET
+32.84 265.48 54.00 13.52 re S
+BT
+57.44 272.64 TD
+(3) Tj
+ET
+86.84 292.48 211.52 13.52 re S
+BT
+86.84 301.32 TD
+/F0 6.00 Tf
+(TASA DE VARIACION DE LOS SERVIDORES PUBLICOS MUNICIPALES) Tj
+0.00 -6.36 TD
+(EN FUNCIONES) Tj
+ET
+86.84 278.96 211.52 13.52 re S
+BT
+86.84 287.84 TD
+(TASA DE VARIACION EN LAS INCIDENCIAS DETERMINADAS POR) Tj
+0.00 -6.36 TD
+(CONCEPTO DE LOS REGISTROS DE PUNTUALIDAD Y ASISTENCIA.) Tj
+ET
+86.84 265.48 211.52 13.52 re S
+BT
+86.84 274.32 TD
+(PORCENTAJE DE MOVIMIENTOS DEL PERSONAL) Tj
+ET
+379.36 292.48 54.00 13.52 re S
+BT
+411.76 301.32 TD
+( 24.00) Tj
+ET
+379.36 278.96 54.00 13.52 re S
+BT
+408.16 287.84 TD
+( 400.00) Tj
+ET
+379.36 265.48 54.00 13.52 re S
+BT
+411.76 274.32 TD
+( 20.00) Tj
+ET
+487.36 292.48 54.00 13.52 re S
+BT
+523.36 301.32 TD
+( 6.00) Tj
+ET
+487.36 278.96 54.00 13.52 re S
+BT
+516.16 287.84 TD
+( 100.00) Tj
+ET
+487.36 265.48 54.00 13.52 re S
+BT
+523.36 274.32 TD
+( 5.00) Tj
+ET
+595.36 292.48 27.00 13.52 re S
+BT
+597.16 301.32 TD
+( 100.00) Tj
+ET
+595.36 278.96 27.00 13.52 re S
+BT
+597.16 287.84 TD
+( 100.00) Tj
+ET
+595.36 265.48 27.00 13.52 re S
+BT
+597.16 274.32 TD
+( 100.00) Tj
+ET
+622.36 292.48 54.00 13.52 re S
+BT
+658.36 301.32 TD
+( 6.00) Tj
+ET
+622.36 278.96 54.00 13.52 re S
+BT
+651.16 287.84 TD
+( 100.00) Tj
+ET
+622.36 265.48 54.00 13.52 re S
+BT
+658.36 274.32 TD
+( 5.00) Tj
+ET
+676.36 292.48 54.00 13.52 re S
+BT
+708.76 301.32 TD
+( 18.00) Tj
+ET
+676.36 278.96 54.00 13.52 re S
+BT
+705.16 287.84 TD
+( 300.00) Tj
+ET
+676.36 265.48 54.00 13.52 re S
+BT
+708.76 274.32 TD
+( 15.00) Tj
+ET
+730.36 292.48 27.00 13.52 re S
+BT
+735.76 301.32 TD
+( 25.00) Tj
+ET
+730.36 278.96 27.00 13.52 re S
+BT
+735.76 287.84 TD
+( 25.00) Tj
+ET
+730.36 265.48 27.00 13.52 re S
+BT
+735.76 274.32 TD
+( 25.00) Tj
+ET
+541.36 292.48 54.00 13.52 re S
+BT
+577.36 301.32 TD
+( 0.00) Tj
+ET
+541.36 278.96 54.00 13.52 re S
+BT
+577.36 287.84 TD
+( 0.00) Tj
+ET
+541.36 265.48 54.00 13.52 re S
+BT
+577.36 274.32 TD
+( 0.00) Tj
+ET
+433.36 292.48 54.00 13.52 re S
+BT
+469.36 301.32 TD
+( 6.00) Tj
+ET
+433.36 278.96 54.00 13.52 re S
+BT
+462.16 287.84 TD
+( 100.00) Tj
+ET
+433.36 265.48 54.00 13.52 re S
+BT
+469.36 274.32 TD
+( 5.00) Tj
+ET
+32.84 382.48 364.52 13.52 re S
+BT
+32.84 386.40 TD
+/F0 12.00 Tf
+(ENTE PUBLICO: ) Tj
+(NICOLAS ROMERO) Tj
+(       ) Tj
+ET
+95.84 418.48 198.00 27.00 re S
+BT
+101.84 437.48 TD
+/F1 10.00 Tf
+(  AVANCE TRIMESTRAL DE METAS DE) Tj
+36.00 -11.04 TD
+(ACCION POR PROYECTO) Tj
+ET
+32.84 418.48 63.00 27.00 re S
+BT
+32.84 437.48 TD
+( PbRM 08c) Tj
+ET
+397.36 382.48 94.52 13.52 re S
+BT
+397.36 386.40 TD
+/F0 12.00 Tf
+( No.: ) Tj
+(098) Tj
+-128.28 132.08 TD
+/F1 10.00 Tf
+(Presupuesto Basado en Resultados Municipal) Tj
+ET
+437.84 490.48 72.00 13.52 re S
+BT
+442.64 497.64 TD
+/F0 8.00 Tf
+(Identificador) Tj
+ET
+509.84 490.48 247.52 13.52 re S
+BT
+509.84 497.64 TD
+( Denominación) Tj
+ET
+32.84 355.48 724.52 13.52 re S
+BT
+216.28 359.40 TD
+/F0 12.00 Tf
+(Avance Trimestral de Metas de Acción por Proyecto) Tj
+/F0 8.00 Tf
+( ) Tj
+ET
+541.36 328.48 81.00 13.52 re S
+BT
+545.84 335.64 TD
+(Var. Trimestral) Tj
+ET
+676.36 328.48 81.00 13.52 re S
+BT
+692.84 335.64 TD
+(Var. Anual) Tj
+ET
+541.36 310.48 54.00 18.00 re S
+BT
+558.76 322.16 TD
+(Abs.) Tj
+ET
+595.36 310.48 27.00 18.00 re S
+BT
+606.44 322.16 TD
+(%) Tj
+ET
+298.36 292.48 81.00 13.52 re S
+BT
+298.36 301.32 TD
+/F0 6.00 Tf
+(TRABAJADOR) Tj
+ET
+298.36 278.96 81.00 13.52 re S
+BT
+298.36 287.84 TD
+(INCIDENCIA) Tj
+ET
+298.36 265.48 81.00 13.52 re S
+BT
+298.36 274.32 TD
+(MOVIMIENTOS) Tj
+ET
+541.36 220.48 135.00 31.52 re S
+BT
+560.84 245.28 TD
+/F1 8.00 Tf
+(Presupuesto Ejercido) Tj
+-4.80 -9.12 TD
+(Acumulado al Trimestre) Tj
+24.00 -9.12 TD
+(por Proyecto) Tj
+ET
+406.36 220.48 135.00 31.52 re S
+BT
+447.44 245.28 TD
+(Presupuesto) Tj
+-21.60 -9.12 TD
+(Autorizado Anual por) Tj
+28.80 -9.12 TD
+(Proyecto) Tj
+ET
+32.84 134.96 211.52 49.52 re S
+BT
+121.80 168.68 TD
+(ELABORO) Tj
+ET
+545.84 134.96 211.52 49.52 re S
+BT
+632.40 168.68 TD
+(AUTORIZO) Tj
+ET
+289.36 134.96 211.52 49.52 re S
+BT
+380.68 168.68 TD
+(REVISO) Tj
+ET
+437.84 463.48 72.00 13.52 re S
+BT
+464.24 470.28 TD
+(0502) Tj
+-136.80 0.00 TD
+(FUNCION Y SUBFUNCION : ) Tj
+ET
+509.84 463.48 247.52 13.52 re S
+BT
+509.84 470.28 TD
+(Asuntos hacendarios) Tj
+ET
+437.84 436.48 72.00 13.52 re S
+BT
+469.04 443.28 TD
+(01) Tj
+-84.00 0.00 TD
+(PROYECTO : ) Tj
+ET
+509.84 436.48 247.52 13.52 re S
+BT
+509.84 443.28 TD
+(Administración de personal) Tj
+ET
+endstream
+endobj
+18 0 obj
+7084
+endobj
+16 0 obj
+<<
+/Type /Page
+/MediaBox [0 0 792 612]
+/Parent 3 0 R
+/Resources <</ProcSet [ /PDF /Text /ImageC ] /Font << /F0 9 0 R /F1 10 0 R >> /XObject << /im2530 11 0 R >> >>
+/Contents 17 0 R
+/CropBox [0 0 792 612]
+>>
+endobj
+20 0 obj
+<</Length 21 0 R>>
+stream
+BT
+367.20 29.64 TD
+/F0 8.00 Tf
+(Hoja ) Tj
+(4) Tj
+( de ) Tj
+(16) Tj
+-34.96 400.16 TD
+/F1 8.00 Tf
+(DEPENDENCIA GENERAL : ) Tj
+ET
+0.00 w
+0 J
+0 j
+406.36 196.92 135.00 18.00 re S
+BT
+434.84 206.92 TD
+/F1 10.00 Tf
+( 1,030,912.00) Tj
+ET
+541.36 196.92 135.00 18.00 re S
+BT
+575.84 206.92 TD
+( 172,929.74) Tj
+ET
+676.36 196.92 81.00 18.00 re S
+BT
+698.84 206.92 TD
+( 16.77) Tj
+ET
+437.84 409.48 72.00 13.52 re S
+BT
+466.64 416.28 TD
+/F1 8.00 Tf
+(306) Tj
+-139.20 0.00 TD
+(DEPENDENCIA AUXILIAR : ) Tj
+ET
+509.84 409.48 247.52 13.52 re S
+BT
+509.84 416.28 TD
+(AREA DE FINANZAS) Tj
+ET
+437.84 476.96 72.00 13.52 re S
+BT
+469.04 483.80 TD
+(01) Tj
+-88.80 0.00 TD
+(FINALIDAD : ) Tj
+ET
+509.84 476.96 247.52 13.52 re S
+BT
+509.84 483.80 TD
+(Gobierno) Tj
+ET
+437.84 449.96 72.00 13.52 re S
+BT
+464.24 456.80 TD
+(0602) Tj
+-146.40 0.00 TD
+(PROGRAMA Y SUBPROGRAMA : ) Tj
+ET
+509.84 449.96 247.52 13.52 re S
+q
+509.84 449.96 247.52 13.52 re W n
+BT
+509.84 456.80 TD
+(Administración de los recursos materiales y servicio) Tj
+ET
+Q 0 g 0 G
+0.00 w
+0 J
+0 j
+437.84 422.96 72.00 13.52 re S
+BT
+466.64 429.80 TD
+/F1 8.00 Tf
+(C00) Tj
+ET
+509.84 422.96 247.52 13.52 re S
+BT
+509.84 429.80 TD
+(TESORERIA) Tj
+ET
+32.84 310.48 724.52 58.52 re S
+86.84 310.48 211.52 45.00 re S
+BT
+159.00 340.64 TD
+/F0 8.00 Tf
+(Descripción de) Tj
+14.40 -8.52 TD
+(Acciones) Tj
+ET
+32.84 310.48 54.00 45.00 re S
+BT
+38.24 340.64 TD
+(Código de) Tj
+7.20 -8.52 TD
+(Acción) Tj
+ET
+298.36 310.48 81.00 45.00 re S
+BT
+324.44 340.64 TD
+(Unidad) Tj
+7.20 -8.52 TD
+( de) Tj
+-7.20 -8.48 TD
+(Medida) Tj
+ET
+433.36 341.96 324.00 13.52 re S
+BT
+552.16 349.16 TD
+(Periodo Trimestral) Tj
+ET
+379.36 310.48 54.00 45.00 re S
+BT
+382.36 340.64 TD
+(Programada) Tj
+12.00 -8.52 TD
+(Anual) Tj
+ET
+433.36 310.48 54.00 31.52 re S
+BT
+436.36 327.12 TD
+(Programado) Tj
+ET
+487.36 310.48 54.00 31.52 re S
+BT
+499.96 327.12 TD
+(Avance) Tj
+ET
+676.36 310.48 54.00 18.00 re S
+BT
+693.76 322.16 TD
+(Abs.) Tj
+ET
+730.36 310.48 27.00 18.00 re S
+BT
+741.44 322.16 TD
+(%) Tj
+ET
+622.36 310.48 54.00 31.52 re S
+BT
+634.96 335.64 TD
+(Avance) Tj
+2.40 -8.52 TD
+(Acum.) Tj
+-2.40 -8.48 TD
+( Anual) Tj
+ET
+676.36 214.92 81.00 31.52 re S
+BT
+690.44 230.60 TD
+/F1 8.00 Tf
+(Variacion %) Tj
+ET
+q 54.00 0 0 28.44 37.36 547.56 cm /im2530 Do Q
+32.84 259.92 724.52 46.08 re S
+32.84 292.48 54.00 13.52 re S
+BT
+57.44 299.64 TD
+/F0 8.00 Tf
+(1) Tj
+ET
+32.84 278.96 54.00 13.52 re S
+BT
+57.44 286.16 TD
+(2) Tj
+ET
+32.84 265.48 54.00 13.52 re S
+BT
+57.44 272.64 TD
+(3) Tj
+ET
+86.84 292.48 211.52 13.52 re S
+BT
+86.84 301.32 TD
+/F0 6.00 Tf
+(TASA DE VARIACION EN EL GASTO POR CONCEPTO DE) Tj
+0.00 -6.36 TD
+(ADQUISICIONES, BIENES Y SERVICIOS) Tj
+ET
+86.84 278.96 211.52 13.52 re S
+BT
+86.84 287.84 TD
+(PORCENTAJE EN LA EJECUCION DEL PROGRAMA ANUAL DE) Tj
+0.00 -6.36 TD
+(ADQUISICIONES) Tj
+ET
+86.84 259.92 211.52 19.08 re S
+BT
+86.84 274.32 TD
+(TASA DE VARIACION EN LA DISTRIBUCION DE INSUMOS A LAS) Tj
+0.00 -6.36 TD
+(AREAS ADMINISTRATIVAS PARA LA PRESTACION Y OTORGAMIENTO DE) Tj
+0.00 -6.36 TD
+(BIENES Y SERVICIOS) Tj
+ET
+379.36 292.48 54.00 13.52 re S
+BT
+386.56 301.32 TD
+( 7,552,584.70) Tj
+ET
+379.36 278.96 54.00 13.52 re S
+BT
+408.16 287.84 TD
+( 100.00) Tj
+ET
+379.36 265.48 54.00 13.52 re S
+BT
+408.16 274.32 TD
+( 100.00) Tj
+ET
+487.36 292.48 54.00 13.52 re S
+BT
+494.56 301.32 TD
+( 1,032,666.17) Tj
+ET
+487.36 278.96 54.00 13.52 re S
+BT
+519.76 287.84 TD
+( 14.00) Tj
+ET
+487.36 265.48 54.00 13.52 re S
+BT
+523.36 274.32 TD
+( 0.00) Tj
+ET
+595.36 292.48 27.00 13.52 re S
+BT
+600.76 301.32 TD
+( 53.15) Tj
+ET
+595.36 278.96 27.00 13.52 re S
+BT
+600.76 287.84 TD
+( 53.85) Tj
+ET
+595.36 265.48 27.00 13.52 re S
+BT
+604.36 274.32 TD
+( 0.00) Tj
+ET
+622.36 292.48 54.00 13.52 re S
+BT
+629.56 301.32 TD
+( 1,032,666.17) Tj
+ET
+622.36 278.96 54.00 13.52 re S
+BT
+654.76 287.84 TD
+( 14.00) Tj
+ET
+622.36 265.48 54.00 13.52 re S
+BT
+658.36 274.32 TD
+( 0.00) Tj
+ET
+676.36 292.48 54.00 13.52 re S
+BT
+683.56 301.32 TD
+( 6,519,918.53) Tj
+ET
+676.36 278.96 54.00 13.52 re S
+BT
+708.76 287.84 TD
+( 86.00) Tj
+ET
+676.36 265.48 54.00 13.52 re S
+BT
+712.36 274.32 TD
+( 0.00) Tj
+ET
+730.36 292.48 27.00 13.52 re S
+BT
+735.76 301.32 TD
+( 13.67) Tj
+ET
+730.36 278.96 27.00 13.52 re S
+BT
+735.76 287.84 TD
+( 14.00) Tj
+ET
+730.36 265.48 27.00 13.52 re S
+BT
+735.76 274.32 TD
+( 14.00) Tj
+ET
+541.36 292.48 54.00 13.52 re S
+BT
+555.76 301.32 TD
+( 910,122.33) Tj
+ET
+541.36 278.96 54.00 13.52 re S
+BT
+573.76 287.84 TD
+( 12.00) Tj
+ET
+541.36 265.48 54.00 13.52 re S
+BT
+577.36 274.32 TD
+( 0.00) Tj
+ET
+433.36 292.48 54.00 13.52 re S
+BT
+440.56 301.32 TD
+( 1,942,788.50) Tj
+ET
+433.36 278.96 54.00 13.52 re S
+BT
+465.76 287.84 TD
+( 26.00) Tj
+ET
+433.36 265.48 54.00 13.52 re S
+BT
+469.36 274.32 TD
+( 0.00) Tj
+ET
+32.84 382.48 364.52 13.52 re S
+BT
+32.84 386.40 TD
+/F0 12.00 Tf
+(ENTE PUBLICO: ) Tj
+(NICOLAS ROMERO) Tj
+(       ) Tj
+ET
+95.84 418.48 198.00 27.00 re S
+BT
+101.84 437.48 TD
+/F1 10.00 Tf
+(  AVANCE TRIMESTRAL DE METAS DE) Tj
+36.00 -11.04 TD
+(ACCION POR PROYECTO) Tj
+ET
+32.84 418.48 63.00 27.00 re S
+BT
+32.84 437.48 TD
+( PbRM 08c) Tj
+ET
+397.36 382.48 94.52 13.52 re S
+BT
+397.36 386.40 TD
+/F0 12.00 Tf
+( No.: ) Tj
+(098) Tj
+-128.28 132.08 TD
+/F1 10.00 Tf
+(Presupuesto Basado en Resultados Municipal) Tj
+ET
+437.84 490.48 72.00 13.52 re S
+BT
+442.64 497.64 TD
+/F0 8.00 Tf
+(Identificador) Tj
+ET
+509.84 490.48 247.52 13.52 re S
+BT
+509.84 497.64 TD
+( Denominación) Tj
+ET
+32.84 355.48 724.52 13.52 re S
+BT
+216.28 359.40 TD
+/F0 12.00 Tf
+(Avance Trimestral de Metas de Acción por Proyecto) Tj
+/F0 8.00 Tf
+( ) Tj
+ET
+541.36 328.48 81.00 13.52 re S
+BT
+545.84 335.64 TD
+(Var. Trimestral) Tj
+ET
+676.36 328.48 81.00 13.52 re S
+BT
+692.84 335.64 TD
+(Var. Anual) Tj
+ET
+541.36 310.48 54.00 18.00 re S
+BT
+558.76 322.16 TD
+(Abs.) Tj
+ET
+595.36 310.48 27.00 18.00 re S
+BT
+606.44 322.16 TD
+(%) Tj
+ET
+298.36 292.48 81.00 13.52 re S
+BT
+298.36 301.32 TD
+/F0 6.00 Tf
+(PESOS) Tj
+ET
+298.36 278.96 81.00 13.52 re S
+BT
+298.36 287.84 TD
+(PORCENTAJE) Tj
+ET
+298.36 265.48 81.00 13.52 re S
+BT
+298.36 274.32 TD
+(0) Tj
+ET
+541.36 214.92 135.00 31.52 re S
+BT
+560.84 239.72 TD
+/F1 8.00 Tf
+(Presupuesto Ejercido) Tj
+-4.80 -9.12 TD
+(Acumulado al Trimestre) Tj
+24.00 -9.12 TD
+(por Proyecto) Tj
+ET
+406.36 214.92 135.00 31.52 re S
+BT
+447.44 239.72 TD
+(Presupuesto) Tj
+-21.60 -9.12 TD
+(Autorizado Anual por) Tj
+28.80 -9.12 TD
+(Proyecto) Tj
+ET
+32.84 129.40 211.52 49.52 re S
+BT
+121.80 163.12 TD
+(ELABORO) Tj
+ET
+545.84 129.40 211.52 49.52 re S
+BT
+632.40 163.12 TD
+(AUTORIZO) Tj
+ET
+289.36 129.40 211.52 49.52 re S
+BT
+380.68 163.12 TD
+(REVISO) Tj
+ET
+437.84 463.48 72.00 13.52 re S
+BT
+464.24 470.28 TD
+(0502) Tj
+-136.80 0.00 TD
+(FUNCION Y SUBFUNCION : ) Tj
+ET
+509.84 463.48 247.52 13.52 re S
+BT
+509.84 470.28 TD
+(Asuntos hacendarios) Tj
+ET
+437.84 436.48 72.00 13.52 re S
+BT
+469.04 443.28 TD
+(01) Tj
+-84.00 0.00 TD
+(PROYECTO : ) Tj
+ET
+509.84 436.48 247.52 13.52 re S
+BT
+509.84 443.28 TD
+(Adquisiciones y servicios) Tj
+ET
+endstream
+endobj
+21 0 obj
+7196
+endobj
+19 0 obj
+<<
+/Type /Page
+/MediaBox [0 0 792 612]
+/Parent 3 0 R
+/Resources <</ProcSet [ /PDF /Text /ImageC ] /Font << /F0 9 0 R /F1 10 0 R >> /XObject << /im2530 11 0 R >> >>
+/Contents 20 0 R
+/CropBox [0 0 792 612]
+>>
+endobj
+23 0 obj
+<</Length 24 0 R>>
+stream
+BT
+367.20 29.64 TD
+/F0 8.00 Tf
+(Hoja ) Tj
+(5) Tj
+( de ) Tj
+(16) Tj
+-34.96 400.16 TD
+/F1 8.00 Tf
+(DEPENDENCIA GENERAL : ) Tj
+ET
+0.00 w
+0 J
+0 j
+406.36 202.48 135.00 18.00 re S
+BT
+434.84 212.48 TD
+/F1 10.00 Tf
+( 2,478,000.00) Tj
+ET
+541.36 202.48 135.00 18.00 re S
+BT
+575.84 212.48 TD
+( 470,369.34) Tj
+ET
+676.36 202.48 81.00 18.00 re S
+BT
+698.84 212.48 TD
+( 18.98) Tj
+ET
+437.84 409.48 72.00 13.52 re S
+BT
+466.64 416.28 TD
+/F1 8.00 Tf
+(300) Tj
+-139.20 0.00 TD
+(DEPENDENCIA AUXILIAR : ) Tj
+ET
+509.84 409.48 247.52 13.52 re S
+BT
+509.84 416.28 TD
+(SECRETARIA PARTICULAR) Tj
+ET
+437.84 476.96 72.00 13.52 re S
+BT
+469.04 483.80 TD
+(02) Tj
+-88.80 0.00 TD
+(FINALIDAD : ) Tj
+ET
+509.84 476.96 247.52 13.52 re S
+BT
+509.84 483.80 TD
+(Desarrollo social) Tj
+ET
+437.84 449.96 72.00 13.52 re S
+BT
+464.24 456.80 TD
+(0103) Tj
+-146.40 0.00 TD
+(PROGRAMA Y SUBPROGRAMA : ) Tj
+ET
+509.84 449.96 247.52 13.52 re S
+BT
+509.84 456.80 TD
+(Coordinación para servicios públicos municipales) Tj
+ET
+437.84 422.96 72.00 13.52 re S
+BT
+466.64 429.80 TD
+(B00) Tj
+ET
+509.84 422.96 247.52 13.52 re S
+BT
+509.84 429.80 TD
+(DIRECCION GENERAL) Tj
+ET
+32.84 310.48 724.52 58.52 re S
+86.84 310.48 211.52 45.00 re S
+BT
+159.00 340.64 TD
+/F0 8.00 Tf
+(Descripción de) Tj
+14.40 -8.52 TD
+(Acciones) Tj
+ET
+32.84 310.48 54.00 45.00 re S
+BT
+38.24 340.64 TD
+(Código de) Tj
+7.20 -8.52 TD
+(Acción) Tj
+ET
+298.36 310.48 81.00 45.00 re S
+BT
+324.44 340.64 TD
+(Unidad) Tj
+7.20 -8.52 TD
+( de) Tj
+-7.20 -8.48 TD
+(Medida) Tj
+ET
+433.36 341.96 324.00 13.52 re S
+BT
+552.16 349.16 TD
+(Periodo Trimestral) Tj
+ET
+379.36 310.48 54.00 45.00 re S
+BT
+382.36 340.64 TD
+(Programada) Tj
+12.00 -8.52 TD
+(Anual) Tj
+ET
+433.36 310.48 54.00 31.52 re S
+BT
+436.36 327.12 TD
+(Programado) Tj
+ET
+487.36 310.48 54.00 31.52 re S
+BT
+499.96 327.12 TD
+(Avance) Tj
+ET
+676.36 310.48 54.00 18.00 re S
+BT
+693.76 322.16 TD
+(Abs.) Tj
+ET
+730.36 310.48 27.00 18.00 re S
+BT
+741.44 322.16 TD
+(%) Tj
+ET
+622.36 310.48 54.00 31.52 re S
+BT
+634.96 335.64 TD
+(Avance) Tj
+2.40 -8.52 TD
+(Acum.) Tj
+-2.40 -8.48 TD
+( Anual) Tj
+ET
+676.36 220.48 81.00 31.52 re S
+BT
+690.44 236.16 TD
+/F1 8.00 Tf
+(Variacion %) Tj
+ET
+q 54.00 0 0 28.44 37.36 547.56 cm /im2530 Do Q
+32.84 265.48 724.52 40.52 re S
+32.84 292.48 54.00 13.52 re S
+BT
+57.44 299.64 TD
+/F0 8.00 Tf
+(1) Tj
+ET
+32.84 278.96 54.00 13.52 re S
+BT
+57.44 286.16 TD
+(2) Tj
+ET
+32.84 265.48 54.00 13.52 re S
+BT
+57.44 272.64 TD
+(3) Tj
+ET
+86.84 292.48 211.52 13.52 re S
+BT
+86.84 301.32 TD
+/F0 6.00 Tf
+(porcentaje de variacion en el mantenimiento a los centros) Tj
+0.00 -6.36 TD
+(de espacimiento publico municipal) Tj
+ET
+86.84 278.96 211.52 13.52 re S
+BT
+86.84 287.84 TD
+(porcentaje en la programacion de mantenimento a los) Tj
+0.00 -6.36 TD
+(centros de esparcimiento publico municipal) Tj
+ET
+86.84 265.48 211.52 13.52 re S
+BT
+86.84 274.32 TD
+(porcentaje en el mantenimiento a los centros de) Tj
+0.00 -6.36 TD
+(esparcimiento publico municipal) Tj
+ET
+379.36 292.48 54.00 13.52 re S
+BT
+408.16 301.32 TD
+( 720.00) Tj
+ET
+379.36 278.96 54.00 13.52 re S
+BT
+408.16 287.84 TD
+( 720.00) Tj
+ET
+379.36 265.48 54.00 13.52 re S
+BT
+408.16 274.32 TD
+( 720.00) Tj
+ET
+487.36 292.48 54.00 13.52 re S
+BT
+516.16 301.32 TD
+( 180.00) Tj
+ET
+487.36 278.96 54.00 13.52 re S
+BT
+516.16 287.84 TD
+( 180.00) Tj
+ET
+487.36 265.48 54.00 13.52 re S
+BT
+516.16 274.32 TD
+( 180.00) Tj
+ET
+595.36 292.48 27.00 13.52 re S
+BT
+597.16 301.32 TD
+( 100.00) Tj
+ET
+595.36 278.96 27.00 13.52 re S
+BT
+597.16 287.84 TD
+( 100.00) Tj
+ET
+595.36 265.48 27.00 13.52 re S
+BT
+597.16 274.32 TD
+( 100.00) Tj
+ET
+622.36 292.48 54.00 13.52 re S
+BT
+651.16 301.32 TD
+( 180.00) Tj
+ET
+622.36 278.96 54.00 13.52 re S
+BT
+651.16 287.84 TD
+( 180.00) Tj
+ET
+622.36 265.48 54.00 13.52 re S
+BT
+651.16 274.32 TD
+( 180.00) Tj
+ET
+676.36 292.48 54.00 13.52 re S
+BT
+705.16 301.32 TD
+( 540.00) Tj
+ET
+676.36 278.96 54.00 13.52 re S
+BT
+705.16 287.84 TD
+( 540.00) Tj
+ET
+676.36 265.48 54.00 13.52 re S
+BT
+705.16 274.32 TD
+( 540.00) Tj
+ET
+730.36 292.48 27.00 13.52 re S
+BT
+735.76 301.32 TD
+( 25.00) Tj
+ET
+730.36 278.96 27.00 13.52 re S
+BT
+735.76 287.84 TD
+( 25.00) Tj
+ET
+730.36 265.48 27.00 13.52 re S
+BT
+735.76 274.32 TD
+( 25.00) Tj
+ET
+541.36 292.48 54.00 13.52 re S
+BT
+577.36 301.32 TD
+( 0.00) Tj
+ET
+541.36 278.96 54.00 13.52 re S
+BT
+577.36 287.84 TD
+( 0.00) Tj
+ET
+541.36 265.48 54.00 13.52 re S
+BT
+577.36 274.32 TD
+( 0.00) Tj
+ET
+433.36 292.48 54.00 13.52 re S
+BT
+462.16 301.32 TD
+( 180.00) Tj
+ET
+433.36 278.96 54.00 13.52 re S
+BT
+462.16 287.84 TD
+( 180.00) Tj
+ET
+433.36 265.48 54.00 13.52 re S
+BT
+462.16 274.32 TD
+( 180.00) Tj
+ET
+32.84 382.48 364.52 13.52 re S
+BT
+32.84 386.40 TD
+/F0 12.00 Tf
+(ENTE PUBLICO: ) Tj
+(NICOLAS ROMERO) Tj
+(       ) Tj
+ET
+95.84 418.48 198.00 27.00 re S
+BT
+101.84 437.48 TD
+/F1 10.00 Tf
+(  AVANCE TRIMESTRAL DE METAS DE) Tj
+36.00 -11.04 TD
+(ACCION POR PROYECTO) Tj
+ET
+32.84 418.48 63.00 27.00 re S
+BT
+32.84 437.48 TD
+( PbRM 08c) Tj
+ET
+397.36 382.48 94.52 13.52 re S
+BT
+397.36 386.40 TD
+/F0 12.00 Tf
+( No.: ) Tj
+(098) Tj
+-128.28 132.08 TD
+/F1 10.00 Tf
+(Presupuesto Basado en Resultados Municipal) Tj
+ET
+437.84 490.48 72.00 13.52 re S
+BT
+442.64 497.64 TD
+/F0 8.00 Tf
+(Identificador) Tj
+ET
+509.84 490.48 247.52 13.52 re S
+BT
+509.84 497.64 TD
+( Denominación) Tj
+ET
+32.84 355.48 724.52 13.52 re S
+BT
+216.28 359.40 TD
+/F0 12.00 Tf
+(Avance Trimestral de Metas de Acción por Proyecto) Tj
+/F0 8.00 Tf
+( ) Tj
+ET
+541.36 328.48 81.00 13.52 re S
+BT
+545.84 335.64 TD
+(Var. Trimestral) Tj
+ET
+676.36 328.48 81.00 13.52 re S
+BT
+692.84 335.64 TD
+(Var. Anual) Tj
+ET
+541.36 310.48 54.00 18.00 re S
+BT
+558.76 322.16 TD
+(Abs.) Tj
+ET
+595.36 310.48 27.00 18.00 re S
+BT
+606.44 322.16 TD
+(%) Tj
+ET
+298.36 292.48 81.00 13.52 re S
+BT
+298.36 301.32 TD
+/F0 6.00 Tf
+(MANTENIMIENTO) Tj
+ET
+298.36 278.96 81.00 13.52 re S
+BT
+298.36 287.84 TD
+(MANTENIMIENTO) Tj
+ET
+298.36 265.48 81.00 13.52 re S
+BT
+298.36 274.32 TD
+(MANTENIMIENTO) Tj
+ET
+541.36 220.48 135.00 31.52 re S
+BT
+560.84 245.28 TD
+/F1 8.00 Tf
+(Presupuesto Ejercido) Tj
+-4.80 -9.12 TD
+(Acumulado al Trimestre) Tj
+24.00 -9.12 TD
+(por Proyecto) Tj
+ET
+406.36 220.48 135.00 31.52 re S
+BT
+447.44 245.28 TD
+(Presupuesto) Tj
+-21.60 -9.12 TD
+(Autorizado Anual por) Tj
+28.80 -9.12 TD
+(Proyecto) Tj
+ET
+32.84 134.96 211.52 49.52 re S
+BT
+121.80 168.68 TD
+(ELABORO) Tj
+ET
+545.84 134.96 211.52 49.52 re S
+BT
+632.40 168.68 TD
+(AUTORIZO) Tj
+ET
+289.36 134.96 211.52 49.52 re S
+BT
+380.68 168.68 TD
+(REVISO) Tj
+ET
+437.84 463.48 72.00 13.52 re S
+BT
+464.24 470.28 TD
+(0206) Tj
+-136.80 0.00 TD
+(FUNCION Y SUBFUNCION : ) Tj
+ET
+509.84 463.48 247.52 13.52 re S
+BT
+509.84 470.28 TD
+(Servicios comunales) Tj
+ET
+437.84 436.48 72.00 13.52 re S
+BT
+469.04 443.28 TD
+(01) Tj
+-84.00 0.00 TD
+(PROYECTO : ) Tj
+ET
+509.84 436.48 247.52 13.52 re S
+q
+509.84 436.48 247.52 13.52 re W n
+BT
+509.84 443.28 TD
+(Coordinación para la conservación de parques y jardi) Tj
+ET
+Q 0 g 0 G
+endstream
+endobj
+24 0 obj
+7183
+endobj
+22 0 obj
+<<
+/Type /Page
+/MediaBox [0 0 792 612]
+/Parent 3 0 R
+/Resources <</ProcSet [ /PDF /Text /ImageC ] /Font << /F0 9 0 R /F1 10 0 R >> /XObject << /im2530 11 0 R >> >>
+/Contents 23 0 R
+/CropBox [0 0 792 612]
+>>
+endobj
+26 0 obj
+<</Length 27 0 R>>
+stream
+BT
+367.20 29.64 TD
+/F0 8.00 Tf
+(Hoja ) Tj
+(6) Tj
+( de ) Tj
+(16) Tj
+-34.96 400.16 TD
+/F1 8.00 Tf
+(DEPENDENCIA GENERAL : ) Tj
+ET
+0.00 w
+0 J
+0 j
+406.36 94.48 135.00 18.00 re S
+BT
+434.84 104.48 TD
+/F1 10.00 Tf
+( 3,188,400.00) Tj
+ET
+541.36 94.48 135.00 18.00 re S
+BT
+575.84 104.48 TD
+( 668,160.21) Tj
+ET
+676.36 94.48 81.00 18.00 re S
+BT
+698.84 104.48 TD
+( 20.96) Tj
+ET
+437.84 409.48 72.00 13.52 re S
+BT
+466.64 416.28 TD
+/F1 8.00 Tf
+(310) Tj
+-139.20 0.00 TD
+(DEPENDENCIA AUXILIAR : ) Tj
+ET
+509.84 409.48 247.52 13.52 re S
+BT
+509.84 416.28 TD
+(AREA DE SALUD Y DEPORTE) Tj
+ET
+437.84 476.96 72.00 13.52 re S
+BT
+469.04 483.80 TD
+(02) Tj
+-88.80 0.00 TD
+(FINALIDAD : ) Tj
+ET
+509.84 476.96 247.52 13.52 re S
+BT
+509.84 483.80 TD
+(Desarrollo social) Tj
+ET
+437.84 449.96 72.00 13.52 re S
+BT
+464.24 456.80 TD
+(0102) Tj
+-146.40 0.00 TD
+(PROGRAMA Y SUBPROGRAMA : ) Tj
+ET
+509.84 449.96 247.52 13.52 re S
+BT
+509.84 456.80 TD
+(Promoción cultural de  la salud) Tj
+ET
+437.84 422.96 72.00 13.52 re S
+BT
+466.64 429.80 TD
+(B00) Tj
+ET
+509.84 422.96 247.52 13.52 re S
+BT
+509.84 429.80 TD
+(DIRECCION GENERAL) Tj
+ET
+32.84 310.48 724.52 58.52 re S
+86.84 310.48 211.52 45.00 re S
+BT
+159.00 340.64 TD
+/F0 8.00 Tf
+(Descripción de) Tj
+14.40 -8.52 TD
+(Acciones) Tj
+ET
+32.84 310.48 54.00 45.00 re S
+BT
+38.24 340.64 TD
+(Código de) Tj
+7.20 -8.52 TD
+(Acción) Tj
+ET
+298.36 310.48 81.00 45.00 re S
+BT
+324.44 340.64 TD
+(Unidad) Tj
+7.20 -8.52 TD
+( de) Tj
+-7.20 -8.48 TD
+(Medida) Tj
+ET
+433.36 341.96 324.00 13.52 re S
+BT
+552.16 349.16 TD
+(Periodo Trimestral) Tj
+ET
+379.36 310.48 54.00 45.00 re S
+BT
+382.36 340.64 TD
+(Programada) Tj
+12.00 -8.52 TD
+(Anual) Tj
+ET
+433.36 310.48 54.00 31.52 re S
+BT
+436.36 327.12 TD
+(Programado) Tj
+ET
+487.36 310.48 54.00 31.52 re S
+BT
+499.96 327.12 TD
+(Avance) Tj
+ET
+676.36 310.48 54.00 18.00 re S
+BT
+693.76 322.16 TD
+(Abs.) Tj
+ET
+730.36 310.48 27.00 18.00 re S
+BT
+741.44 322.16 TD
+(%) Tj
+ET
+622.36 310.48 54.00 31.52 re S
+BT
+634.96 335.64 TD
+(Avance) Tj
+2.40 -8.52 TD
+(Acum.) Tj
+-2.40 -8.48 TD
+( Anual) Tj
+ET
+676.36 112.48 81.00 31.52 re S
+BT
+690.44 128.16 TD
+/F1 8.00 Tf
+(Variacion %) Tj
+ET
+q 54.00 0 0 28.44 37.36 547.56 cm /im2530 Do Q
+32.84 157.48 724.52 148.52 re S
+32.84 292.48 54.00 13.52 re S
+BT
+57.44 299.64 TD
+/F0 8.00 Tf
+(1) Tj
+ET
+32.84 278.96 54.00 13.52 re S
+BT
+57.44 286.16 TD
+(2) Tj
+ET
+32.84 265.48 54.00 13.52 re S
+BT
+57.44 272.64 TD
+(3) Tj
+ET
+32.84 251.96 54.00 13.52 re S
+BT
+57.44 259.16 TD
+(4) Tj
+ET
+32.84 238.48 54.00 13.52 re S
+BT
+57.44 245.64 TD
+(5) Tj
+ET
+32.84 224.96 54.00 13.52 re S
+BT
+57.44 232.16 TD
+(6) Tj
+ET
+32.84 211.48 54.00 13.52 re S
+BT
+57.44 218.64 TD
+(7) Tj
+ET
+32.84 197.96 54.00 13.52 re S
+BT
+57.44 205.16 TD
+(8) Tj
+ET
+32.84 184.48 54.00 13.52 re S
+BT
+57.44 191.64 TD
+(9) Tj
+ET
+32.84 170.96 54.00 13.52 re S
+BT
+55.04 178.16 TD
+(10) Tj
+ET
+32.84 157.48 54.00 13.52 re S
+BT
+55.04 164.64 TD
+(11) Tj
+ET
+86.84 292.48 211.52 13.52 re S
+BT
+86.84 301.32 TD
+/F0 6.00 Tf
+(CONSULTA MEDICA DE PRIMER NIVEL OTORGADA) Tj
+ET
+86.84 278.96 211.52 13.52 re S
+BT
+86.84 287.84 TD
+(SISTEMAS DIFUNDIDOS DE PREVENCION DE LA SALUD APLICADOS) Tj
+ET
+86.84 265.48 211.52 13.52 re S
+BT
+86.84 274.32 TD
+(GESTION PARA LA ADQUISICION DE INSUMOS MEDICOS PARA) Tj
+0.00 -6.36 TD
+(OTORGAR LOS SERVICIOS DE SALUD REALIZADOS) Tj
+ET
+86.84 251.96 211.52 13.52 re S
+BT
+86.84 260.84 TD
+(OTORGAMIENTO DE CONSULTAS MEDICAS MOVILES A LA POBLACION) Tj
+0.00 -6.36 TD
+(NO DERECHOHABIENTE Y VULNERALBLE.) Tj
+ET
+86.84 238.48 211.52 13.52 re S
+BT
+86.84 247.32 TD
+(OTORGAMIENTO DE CONSULTAS MEDICAS FIJAS A LA POBLACION NO) Tj
+0.00 -6.36 TD
+(DECHOHABIENTE Y VULNERABLE.) Tj
+ET
+86.84 224.96 211.52 13.52 re S
+BT
+86.84 233.84 TD
+(OTORGAMIENTO DE CONULTAS ODONTOLOGICAS MOVILES A LA) Tj
+0.00 -6.36 TD
+(POBLACION NO DERECHOHABIENTE Y VULNERABLE.) Tj
+ET
+86.84 211.48 211.52 13.52 re S
+BT
+86.84 220.32 TD
+(OTORGAMIENTO DE CONSULTAS ODONTOLOGICAS FIJAS A LA) Tj
+0.00 -6.36 TD
+(POBLACION NO DERECHOHABIENTE Y VULNERABLE.) Tj
+ET
+86.84 197.96 211.52 13.52 re S
+BT
+86.84 206.84 TD
+(DISTRIBUCION DE ILUSTRATIVOS PARA LA PREVENCION DE LA) Tj
+0.00 -6.36 TD
+(SALUD, EN LUGARES CON AFLUENCIA MASIVA DE PERSONAS) Tj
+ET
+86.84 184.48 211.52 13.52 re S
+BT
+86.84 193.32 TD
+(REALIZACION DE JORNADAS PARA LA PREVENCION DE LA SALUD, EN) Tj
+0.00 -6.36 TD
+(ZONAS MARGINADAS.) Tj
+ET
+86.84 170.96 211.52 13.52 re S
+BT
+86.84 179.84 TD
+(PROGRAMACION PARA LA DISTRIBUCION DE LOS INSUMOS MEDICOS A) Tj
+0.00 -6.36 TD
+(LAS UNIDADES DE ATENCION MEDICA.) Tj
+ET
+86.84 157.48 211.52 13.52 re S
+BT
+86.84 166.32 TD
+(DISTRIBUCION DE INSUMOS MEDICOS A LAS UNIDADES DE ATENCION) Tj
+0.00 -6.36 TD
+(MEDICA.) Tj
+ET
+379.36 292.48 54.00 13.52 re S
+BT
+397.36 301.32 TD
+( 24,000.00) Tj
+ET
+379.36 278.96 54.00 13.52 re S
+BT
+411.76 287.84 TD
+( 80.00) Tj
+ET
+379.36 265.48 54.00 13.52 re S
+BT
+408.16 274.32 TD
+( 120.00) Tj
+ET
+379.36 251.96 54.00 13.52 re S
+BT
+400.96 260.84 TD
+( 2,000.00) Tj
+ET
+379.36 238.48 54.00 13.52 re S
+BT
+397.36 247.32 TD
+( 24,000.00) Tj
+ET
+379.36 224.96 54.00 13.52 re S
+BT
+400.96 233.84 TD
+( 2,000.00) Tj
+ET
+379.36 211.48 54.00 13.52 re S
+BT
+400.96 220.32 TD
+( 6,000.00) Tj
+ET
+379.36 197.96 54.00 13.52 re S
+BT
+411.76 206.84 TD
+( 60.00) Tj
+ET
+379.36 184.48 54.00 13.52 re S
+BT
+408.16 193.32 TD
+( 100.00) Tj
+ET
+379.36 170.96 54.00 13.52 re S
+BT
+408.16 179.84 TD
+( 120.00) Tj
+ET
+379.36 157.48 54.00 13.52 re S
+BT
+408.16 166.32 TD
+( 120.00) Tj
+ET
+487.36 292.48 54.00 13.52 re S
+BT
+508.96 301.32 TD
+( 6,000.00) Tj
+ET
+487.36 278.96 54.00 13.52 re S
+BT
+519.76 287.84 TD
+( 20.00) Tj
+ET
+487.36 265.48 54.00 13.52 re S
+BT
+519.76 274.32 TD
+( 30.00) Tj
+ET
+487.36 251.96 54.00 13.52 re S
+BT
+516.16 260.84 TD
+( 500.00) Tj
+ET
+487.36 238.48 54.00 13.52 re S
+BT
+508.96 247.32 TD
+( 6,000.00) Tj
+ET
+487.36 224.96 54.00 13.52 re S
+BT
+519.76 233.84 TD
+( 21.00) Tj
+ET
+487.36 211.48 54.00 13.52 re S
+BT
+523.36 220.32 TD
+( 0.00) Tj
+ET
+487.36 197.96 54.00 13.52 re S
+BT
+523.36 206.84 TD
+( 0.00) Tj
+ET
+487.36 184.48 54.00 13.52 re S
+BT
+523.36 193.32 TD
+( 0.00) Tj
+ET
+487.36 170.96 54.00 13.52 re S
+BT
+523.36 179.84 TD
+( 0.00) Tj
+ET
+487.36 157.48 54.00 13.52 re S
+BT
+523.36 166.32 TD
+( 0.00) Tj
+ET
+595.36 292.48 27.00 13.52 re S
+BT
+597.16 301.32 TD
+( 100.00) Tj
+ET
+595.36 278.96 27.00 13.52 re S
+BT
+597.16 287.84 TD
+( 100.00) Tj
+ET
+595.36 265.48 27.00 13.52 re S
+BT
+597.16 274.32 TD
+( 100.00) Tj
+ET
+595.36 251.96 27.00 13.52 re S
+BT
+597.16 260.84 TD
+( 100.00) Tj
+ET
+595.36 238.48 27.00 13.52 re S
+BT
+597.16 247.32 TD
+( 100.00) Tj
+ET
+595.36 224.96 27.00 13.52 re S
+BT
+604.36 233.84 TD
+( 4.20) Tj
+ET
+595.36 211.48 27.00 13.52 re S
+BT
+604.36 220.32 TD
+( 0.00) Tj
+ET
+595.36 197.96 27.00 13.52 re S
+BT
+604.36 206.84 TD
+( 0.00) Tj
+ET
+595.36 184.48 27.00 13.52 re S
+BT
+604.36 193.32 TD
+( 0.00) Tj
+ET
+595.36 170.96 27.00 13.52 re S
+BT
+604.36 179.84 TD
+( 0.00) Tj
+ET
+595.36 157.48 27.00 13.52 re S
+BT
+604.36 166.32 TD
+( 0.00) Tj
+ET
+622.36 292.48 54.00 13.52 re S
+BT
+643.96 301.32 TD
+( 6,000.00) Tj
+ET
+622.36 278.96 54.00 13.52 re S
+BT
+654.76 287.84 TD
+( 20.00) Tj
+ET
+622.36 265.48 54.00 13.52 re S
+BT
+654.76 274.32 TD
+( 30.00) Tj
+ET
+622.36 251.96 54.00 13.52 re S
+BT
+651.16 260.84 TD
+( 500.00) Tj
+ET
+622.36 238.48 54.00 13.52 re S
+BT
+643.96 247.32 TD
+( 6,000.00) Tj
+ET
+622.36 224.96 54.00 13.52 re S
+BT
+654.76 233.84 TD
+( 21.00) Tj
+ET
+622.36 211.48 54.00 13.52 re S
+BT
+658.36 220.32 TD
+( 0.00) Tj
+ET
+622.36 197.96 54.00 13.52 re S
+BT
+658.36 206.84 TD
+( 0.00) Tj
+ET
+622.36 184.48 54.00 13.52 re S
+BT
+658.36 193.32 TD
+( 0.00) Tj
+ET
+622.36 170.96 54.00 13.52 re S
+BT
+658.36 179.84 TD
+( 0.00) Tj
+ET
+622.36 157.48 54.00 13.52 re S
+BT
+658.36 166.32 TD
+( 0.00) Tj
+ET
+676.36 292.48 54.00 13.52 re S
+BT
+694.36 301.32 TD
+( 18,000.00) Tj
+ET
+676.36 278.96 54.00 13.52 re S
+BT
+708.76 287.84 TD
+( 60.00) Tj
+ET
+676.36 265.48 54.00 13.52 re S
+BT
+708.76 274.32 TD
+( 90.00) Tj
+ET
+676.36 251.96 54.00 13.52 re S
+BT
+697.96 260.84 TD
+( 1,500.00) Tj
+ET
+676.36 238.48 54.00 13.52 re S
+BT
+694.36 247.32 TD
+( 18,000.00) Tj
+ET
+676.36 224.96 54.00 13.52 re S
+BT
+697.96 233.84 TD
+( 1,979.00) Tj
+ET
+676.36 211.48 54.00 13.52 re S
+BT
+697.96 220.32 TD
+( 6,000.00) Tj
+ET
+676.36 197.96 54.00 13.52 re S
+BT
+708.76 206.84 TD
+( 60.00) Tj
+ET
+676.36 184.48 54.00 13.52 re S
+BT
+705.16 193.32 TD
+( 100.00) Tj
+ET
+676.36 170.96 54.00 13.52 re S
+BT
+705.16 179.84 TD
+( 120.00) Tj
+ET
+676.36 157.48 54.00 13.52 re S
+BT
+705.16 166.32 TD
+( 120.00) Tj
+ET
+730.36 292.48 27.00 13.52 re S
+BT
+735.76 301.32 TD
+( 25.00) Tj
+ET
+730.36 278.96 27.00 13.52 re S
+BT
+735.76 287.84 TD
+( 25.00) Tj
+ET
+730.36 265.48 27.00 13.52 re S
+BT
+735.76 274.32 TD
+( 25.00) Tj
+ET
+730.36 251.96 27.00 13.52 re S
+BT
+735.76 260.84 TD
+( 25.00) Tj
+ET
+730.36 238.48 27.00 13.52 re S
+BT
+735.76 247.32 TD
+( 25.00) Tj
+ET
+730.36 224.96 27.00 13.52 re S
+BT
+739.36 233.84 TD
+( 1.05) Tj
+ET
+730.36 211.48 27.00 13.52 re S
+BT
+739.36 220.32 TD
+( 0.00) Tj
+ET
+730.36 197.96 27.00 13.52 re S
+BT
+739.36 206.84 TD
+( 0.00) Tj
+ET
+730.36 184.48 27.00 13.52 re S
+BT
+739.36 193.32 TD
+( 0.00) Tj
+ET
+730.36 170.96 27.00 13.52 re S
+BT
+739.36 179.84 TD
+( 0.00) Tj
+ET
+730.36 157.48 27.00 13.52 re S
+BT
+739.36 166.32 TD
+( 0.00) Tj
+ET
+541.36 292.48 54.00 13.52 re S
+BT
+577.36 301.32 TD
+( 0.00) Tj
+ET
+541.36 278.96 54.00 13.52 re S
+BT
+577.36 287.84 TD
+( 0.00) Tj
+ET
+541.36 265.48 54.00 13.52 re S
+BT
+577.36 274.32 TD
+( 0.00) Tj
+ET
+541.36 251.96 54.00 13.52 re S
+BT
+577.36 260.84 TD
+( 0.00) Tj
+ET
+541.36 238.48 54.00 13.52 re S
+BT
+577.36 247.32 TD
+( 0.00) Tj
+ET
+541.36 224.96 54.00 13.52 re S
+BT
+570.16 233.84 TD
+( 479.00) Tj
+ET
+541.36 211.48 54.00 13.52 re S
+BT
+562.96 220.32 TD
+( 1,500.00) Tj
+ET
+541.36 197.96 54.00 13.52 re S
+BT
+573.76 206.84 TD
+( 15.00) Tj
+ET
+541.36 184.48 54.00 13.52 re S
+BT
+573.76 193.32 TD
+( 25.00) Tj
+ET
+541.36 170.96 54.00 13.52 re S
+BT
+573.76 179.84 TD
+( 30.00) Tj
+ET
+541.36 157.48 54.00 13.52 re S
+BT
+573.76 166.32 TD
+( 30.00) Tj
+ET
+433.36 292.48 54.00 13.52 re S
+BT
+454.96 301.32 TD
+( 6,000.00) Tj
+ET
+433.36 278.96 54.00 13.52 re S
+BT
+465.76 287.84 TD
+( 20.00) Tj
+ET
+433.36 265.48 54.00 13.52 re S
+BT
+465.76 274.32 TD
+( 30.00) Tj
+ET
+433.36 251.96 54.00 13.52 re S
+BT
+462.16 260.84 TD
+( 500.00) Tj
+ET
+433.36 238.48 54.00 13.52 re S
+BT
+454.96 247.32 TD
+( 6,000.00) Tj
+ET
+433.36 224.96 54.00 13.52 re S
+BT
+462.16 233.84 TD
+( 500.00) Tj
+ET
+433.36 211.48 54.00 13.52 re S
+BT
+454.96 220.32 TD
+( 1,500.00) Tj
+ET
+433.36 197.96 54.00 13.52 re S
+BT
+465.76 206.84 TD
+( 15.00) Tj
+ET
+433.36 184.48 54.00 13.52 re S
+BT
+465.76 193.32 TD
+( 25.00) Tj
+ET
+433.36 170.96 54.00 13.52 re S
+BT
+465.76 179.84 TD
+( 30.00) Tj
+ET
+433.36 157.48 54.00 13.52 re S
+BT
+465.76 166.32 TD
+( 30.00) Tj
+ET
+32.84 382.48 364.52 13.52 re S
+BT
+32.84 386.40 TD
+/F0 12.00 Tf
+(ENTE PUBLICO: ) Tj
+(NICOLAS ROMERO) Tj
+(       ) Tj
+ET
+95.84 418.48 198.00 27.00 re S
+BT
+101.84 437.48 TD
+/F1 10.00 Tf
+(  AVANCE TRIMESTRAL DE METAS DE) Tj
+36.00 -11.04 TD
+(ACCION POR PROYECTO) Tj
+ET
+32.84 418.48 63.00 27.00 re S
+BT
+32.84 437.48 TD
+( PbRM 08c) Tj
+ET
+397.36 382.48 94.52 13.52 re S
+BT
+397.36 386.40 TD
+/F0 12.00 Tf
+( No.: ) Tj
+(098) Tj
+-128.28 132.08 TD
+/F1 10.00 Tf
+(Presupuesto Basado en Resultados Municipal) Tj
+ET
+437.84 490.48 72.00 13.52 re S
+BT
+442.64 497.64 TD
+/F0 8.00 Tf
+(Identificador) Tj
+ET
+509.84 490.48 247.52 13.52 re S
+BT
+509.84 497.64 TD
+( Denominación) Tj
+ET
+32.84 355.48 724.52 13.52 re S
+BT
+216.28 359.40 TD
+/F0 12.00 Tf
+(Avance Trimestral de Metas de Acción por Proyecto) Tj
+/F0 8.00 Tf
+( ) Tj
+ET
+541.36 328.48 81.00 13.52 re S
+BT
+545.84 335.64 TD
+(Var. Trimestral) Tj
+ET
+676.36 328.48 81.00 13.52 re S
+BT
+692.84 335.64 TD
+(Var. Anual) Tj
+ET
+541.36 310.48 54.00 18.00 re S
+BT
+558.76 322.16 TD
+(Abs.) Tj
+ET
+595.36 310.48 27.00 18.00 re S
+BT
+606.44 322.16 TD
+(%) Tj
+ET
+298.36 292.48 81.00 13.52 re S
+BT
+298.36 301.32 TD
+/F0 6.00 Tf
+(CONSULTA) Tj
+ET
+298.36 278.96 81.00 13.52 re S
+BT
+298.36 287.84 TD
+(PLÁTICA) Tj
+ET
+298.36 265.48 81.00 13.52 re S
+BT
+298.36 274.32 TD
+(DOSIS) Tj
+ET
+298.36 251.96 81.00 13.52 re S
+BT
+298.36 260.84 TD
+(JORNADA) Tj
+ET
+298.36 238.48 81.00 13.52 re S
+BT
+298.36 247.32 TD
+(PLÁTICA) Tj
+ET
+298.36 224.96 81.00 13.52 re S
+BT
+298.36 233.84 TD
+(PLÁTICA) Tj
+ET
+298.36 211.48 81.00 13.52 re S
+BT
+298.36 220.32 TD
+(0) Tj
+ET
+298.36 197.96 81.00 13.52 re S
+BT
+298.36 206.84 TD
+(0) Tj
+ET
+298.36 184.48 81.00 13.52 re S
+BT
+298.36 193.32 TD
+(0) Tj
+ET
+298.36 170.96 81.00 13.52 re S
+BT
+298.36 179.84 TD
+(0) Tj
+ET
+298.36 157.48 81.00 13.52 re S
+BT
+298.36 166.32 TD
+(0) Tj
+ET
+541.36 112.48 135.00 31.52 re S
+BT
+560.84 137.28 TD
+/F1 8.00 Tf
+(Presupuesto Ejercido) Tj
+-4.80 -9.12 TD
+(Acumulado al Trimestre) Tj
+24.00 -9.12 TD
+(por Proyecto) Tj
+ET
+406.36 112.48 135.00 31.52 re S
+BT
+447.44 137.28 TD
+(Presupuesto) Tj
+-21.60 -9.12 TD
+(Autorizado Anual por) Tj
+28.80 -9.12 TD
+(Proyecto) Tj
+ET
+437.84 463.48 72.00 13.52 re S
+BT
+464.24 470.28 TD
+(0301) Tj
+-136.80 0.00 TD
+(FUNCION Y SUBFUNCION : ) Tj
+ET
+509.84 463.48 247.52 13.52 re S
+BT
+509.84 470.28 TD
+(Prestación de  servicios de  salud a la comunidad) Tj
+ET
+437.84 436.48 72.00 13.52 re S
+BT
+469.04 443.28 TD
+(01) Tj
+-84.00 0.00 TD
+(PROYECTO : ) Tj
+ET
+509.84 436.48 247.52 13.52 re S
+BT
+509.84 443.28 TD
+(Promoción de la salud) Tj
+ET
+endstream
+endobj
+27 0 obj
+13777
+endobj
+25 0 obj
+<<
+/Type /Page
+/MediaBox [0 0 792 612]
+/Parent 3 0 R
+/Resources <</ProcSet [ /PDF /Text /ImageC ] /Font << /F0 9 0 R /F1 10 0 R >> /XObject << /im2530 11 0 R >> >>
+/Contents 26 0 R
+/CropBox [0 0 792 612]
+>>
+endobj
+29 0 obj
+<</Length 30 0 R>>
+stream
+BT
+367.20 29.64 TD
+/F0 8.00 Tf
+(Hoja ) Tj
+(7) Tj
+( de ) Tj
+(16) Tj
+-34.96 400.16 TD
+/F1 8.00 Tf
+(DEPENDENCIA GENERAL : ) Tj
+ET
+0.00 w
+0 J
+0 j
+437.84 409.48 72.00 13.52 re S
+BT
+466.64 416.28 TD
+(310) Tj
+-139.20 0.00 TD
+(DEPENDENCIA AUXILIAR : ) Tj
+ET
+509.84 409.48 247.52 13.52 re S
+BT
+509.84 416.28 TD
+(AREA DE SALUD Y DEPORTE) Tj
+ET
+437.84 476.96 72.00 13.52 re S
+BT
+469.04 483.80 TD
+(02) Tj
+-88.80 0.00 TD
+(FINALIDAD : ) Tj
+ET
+509.84 476.96 247.52 13.52 re S
+BT
+509.84 483.80 TD
+(Desarrollo social) Tj
+ET
+437.84 449.96 72.00 13.52 re S
+BT
+464.24 456.80 TD
+(0102) Tj
+-146.40 0.00 TD
+(PROGRAMA Y SUBPROGRAMA : ) Tj
+ET
+509.84 449.96 247.52 13.52 re S
+BT
+509.84 456.80 TD
+(Promoción cultural de  la salud) Tj
+ET
+437.84 422.96 72.00 13.52 re S
+BT
+466.64 429.80 TD
+(B00) Tj
+ET
+509.84 422.96 247.52 13.52 re S
+BT
+509.84 429.80 TD
+(DIRECCION GENERAL) Tj
+ET
+q 54.00 0 0 28.44 37.36 547.56 cm /im2530 Do Q
+BT
+269.08 518.48 TD
+/F1 10.00 Tf
+(Presupuesto Basado en Resultados Municipal) Tj
+ET
+32.84 319.48 211.52 49.52 re S
+BT
+121.80 353.16 TD
+/F1 8.00 Tf
+(ELABORO) Tj
+ET
+545.84 319.48 211.52 49.52 re S
+BT
+632.40 353.16 TD
+(AUTORIZO) Tj
+ET
+289.36 319.48 211.52 49.52 re S
+BT
+380.68 353.16 TD
+(REVISO) Tj
+ET
+437.84 463.48 72.00 13.52 re S
+BT
+464.24 470.28 TD
+(0301) Tj
+-136.80 0.00 TD
+(FUNCION Y SUBFUNCION : ) Tj
+ET
+509.84 463.48 247.52 13.52 re S
+BT
+509.84 470.28 TD
+(Prestación de  servicios de  salud a la comunidad) Tj
+ET
+437.84 436.48 72.00 13.52 re S
+BT
+469.04 443.28 TD
+(01) Tj
+-84.00 0.00 TD
+(PROYECTO : ) Tj
+ET
+509.84 436.48 247.52 13.52 re S
+BT
+509.84 443.28 TD
+(Promoción de la salud) Tj
+ET
+endstream
+endobj
+30 0 obj
+1698
+endobj
+28 0 obj
+<<
+/Type /Page
+/MediaBox [0 0 792 612]
+/Parent 3 0 R
+/Resources <</ProcSet [ /PDF /Text /ImageC ] /Font << /F0 9 0 R /F1 10 0 R >> /XObject << /im2530 11 0 R >> >>
+/Contents 29 0 R
+/CropBox [0 0 792 612]
+>>
+endobj
+32 0 obj
+<</Length 33 0 R>>
+stream
+BT
+367.20 29.64 TD
+/F0 8.00 Tf
+(Hoja ) Tj
+(8) Tj
+( de ) Tj
+(16) Tj
+-34.96 400.16 TD
+/F1 8.00 Tf
+(DEPENDENCIA GENERAL : ) Tj
+ET
+0.00 w
+0 J
+0 j
+406.36 189.00 135.00 18.00 re S
+BT
+434.84 198.96 TD
+/F1 10.00 Tf
+( 3,793,389.00) Tj
+ET
+541.36 189.00 135.00 18.00 re S
+BT
+575.84 198.96 TD
+( 847,581.06) Tj
+ET
+676.36 189.00 81.00 18.00 re S
+BT
+698.84 198.96 TD
+( 22.34) Tj
+ET
+437.84 409.48 72.00 13.52 re S
+BT
+466.64 416.28 TD
+/F1 8.00 Tf
+(313) Tj
+-139.20 0.00 TD
+(DEPENDENCIA AUXILIAR : ) Tj
+ET
+509.84 409.48 247.52 13.52 re S
+BT
+509.84 416.28 TD
+(AREA DE DESARROLLO COMUNITARIO) Tj
+ET
+437.84 476.96 72.00 13.52 re S
+BT
+469.04 483.80 TD
+(02) Tj
+-88.80 0.00 TD
+(FINALIDAD : ) Tj
+ET
+509.84 476.96 247.52 13.52 re S
+BT
+509.84 483.80 TD
+(Desarrollo social) Tj
+ET
+437.84 449.96 72.00 13.52 re S
+BT
+464.24 456.80 TD
+(0101) Tj
+-146.40 0.00 TD
+(PROGRAMA Y SUBPROGRAMA : ) Tj
+ET
+509.84 449.96 247.52 13.52 re S
+BT
+509.84 456.80 TD
+(Educación para los adultos) Tj
+ET
+437.84 422.96 72.00 13.52 re S
+BT
+466.64 429.80 TD
+(B00) Tj
+ET
+509.84 422.96 247.52 13.52 re S
+BT
+509.84 429.80 TD
+(DIRECCION GENERAL) Tj
+ET
+32.84 310.48 724.52 58.52 re S
+86.84 310.48 211.52 45.00 re S
+BT
+159.00 340.64 TD
+/F0 8.00 Tf
+(Descripción de) Tj
+14.40 -8.52 TD
+(Acciones) Tj
+ET
+32.84 310.48 54.00 45.00 re S
+BT
+38.24 340.64 TD
+(Código de) Tj
+7.20 -8.52 TD
+(Acción) Tj
+ET
+298.36 310.48 81.00 45.00 re S
+BT
+324.44 340.64 TD
+(Unidad) Tj
+7.20 -8.52 TD
+( de) Tj
+-7.20 -8.48 TD
+(Medida) Tj
+ET
+433.36 341.96 324.00 13.52 re S
+BT
+552.16 349.16 TD
+(Periodo Trimestral) Tj
+ET
+379.36 310.48 54.00 45.00 re S
+BT
+382.36 340.64 TD
+(Programada) Tj
+12.00 -8.52 TD
+(Anual) Tj
+ET
+433.36 310.48 54.00 31.52 re S
+BT
+436.36 327.12 TD
+(Programado) Tj
+ET
+487.36 310.48 54.00 31.52 re S
+BT
+499.96 327.12 TD
+(Avance) Tj
+ET
+676.36 310.48 54.00 18.00 re S
+BT
+693.76 322.16 TD
+(Abs.) Tj
+ET
+730.36 310.48 27.00 18.00 re S
+BT
+741.44 322.16 TD
+(%) Tj
+ET
+622.36 310.48 54.00 31.52 re S
+BT
+634.96 335.64 TD
+(Avance) Tj
+2.40 -8.52 TD
+(Acum.) Tj
+-2.40 -8.48 TD
+( Anual) Tj
+ET
+676.36 206.96 81.00 31.52 re S
+BT
+690.44 222.68 TD
+/F1 8.00 Tf
+(Variacion %) Tj
+ET
+q 54.00 0 0 28.44 37.36 547.56 cm /im2530 Do Q
+32.84 252.00 724.52 54.00 re S
+32.84 292.48 54.00 13.52 re S
+BT
+57.44 299.64 TD
+/F0 8.00 Tf
+(1) Tj
+ET
+32.84 278.96 54.00 13.52 re S
+BT
+57.44 286.16 TD
+(2) Tj
+ET
+32.84 265.48 54.00 13.52 re S
+BT
+57.44 272.64 TD
+(3) Tj
+ET
+32.84 251.96 54.00 13.52 re S
+BT
+57.44 259.16 TD
+(4) Tj
+ET
+86.84 292.48 211.52 13.52 re S
+BT
+86.84 301.32 TD
+/F0 6.00 Tf
+(CURSOS DEL INEA EN LAS LOCALIDADES IMPARTIDOS) Tj
+ET
+86.84 278.96 211.52 13.52 re S
+BT
+86.84 287.84 TD
+(PROGRAMAS DE ATENCIÓN A LA DEMANDA DE DUCACIÓN OTORGADOS A) Tj
+0.00 -6.36 TD
+(ADULTOS EN CONDICIÓN DE REZAGO EDUCATIVO) Tj
+ET
+86.84 265.48 211.52 13.52 re S
+BT
+86.84 274.32 TD
+(IMPARTICIÓN DE PLÁTICAS DE INVITACIÓN A LOS CURSOS DE INEA) Tj
+ET
+86.84 251.96 211.52 13.52 re S
+BT
+86.84 260.84 TD
+(APLICACIÓN DE ENCUESTAS DE SATISFACCIÓN A LA POBLACIÓN) Tj
+0.00 -6.36 TD
+(ADULTA INSCRITA EN EL PROGRAMA EDUCATIVO) Tj
+ET
+379.36 292.48 54.00 13.52 re S
+BT
+408.16 301.32 TD
+( 560.00) Tj
+ET
+379.36 278.96 54.00 13.52 re S
+BT
+408.16 287.84 TD
+( 377.00) Tj
+ET
+379.36 265.48 54.00 13.52 re S
+BT
+411.76 274.32 TD
+( 12.00) Tj
+ET
+379.36 251.96 54.00 13.52 re S
+BT
+411.76 260.84 TD
+( 12.00) Tj
+ET
+487.36 292.48 54.00 13.52 re S
+BT
+516.16 301.32 TD
+( 140.00) Tj
+ET
+487.36 278.96 54.00 13.52 re S
+BT
+519.76 287.84 TD
+( 64.00) Tj
+ET
+487.36 265.48 54.00 13.52 re S
+BT
+523.36 274.32 TD
+( 3.00) Tj
+ET
+487.36 251.96 54.00 13.52 re S
+BT
+523.36 260.84 TD
+( 3.00) Tj
+ET
+595.36 292.48 27.00 13.52 re S
+BT
+597.16 301.32 TD
+( 100.00) Tj
+ET
+595.36 278.96 27.00 13.52 re S
+BT
+597.16 287.84 TD
+( 100.00) Tj
+ET
+595.36 265.48 27.00 13.52 re S
+BT
+597.16 274.32 TD
+( 100.00) Tj
+ET
+595.36 251.96 27.00 13.52 re S
+BT
+597.16 260.84 TD
+( 100.00) Tj
+ET
+622.36 292.48 54.00 13.52 re S
+BT
+651.16 301.32 TD
+( 140.00) Tj
+ET
+622.36 278.96 54.00 13.52 re S
+BT
+654.76 287.84 TD
+( 64.00) Tj
+ET
+622.36 265.48 54.00 13.52 re S
+BT
+658.36 274.32 TD
+( 3.00) Tj
+ET
+622.36 251.96 54.00 13.52 re S
+BT
+658.36 260.84 TD
+( 3.00) Tj
+ET
+676.36 292.48 54.00 13.52 re S
+BT
+705.16 301.32 TD
+( 420.00) Tj
+ET
+676.36 278.96 54.00 13.52 re S
+BT
+705.16 287.84 TD
+( 313.00) Tj
+ET
+676.36 265.48 54.00 13.52 re S
+BT
+712.36 274.32 TD
+( 9.00) Tj
+ET
+676.36 251.96 54.00 13.52 re S
+BT
+712.36 260.84 TD
+( 9.00) Tj
+ET
+730.36 292.48 27.00 13.52 re S
+BT
+735.76 301.32 TD
+( 25.00) Tj
+ET
+730.36 278.96 27.00 13.52 re S
+BT
+735.76 287.84 TD
+( 16.98) Tj
+ET
+730.36 265.48 27.00 13.52 re S
+BT
+735.76 274.32 TD
+( 25.00) Tj
+ET
+730.36 251.96 27.00 13.52 re S
+BT
+735.76 260.84 TD
+( 25.00) Tj
+ET
+541.36 292.48 54.00 13.52 re S
+BT
+577.36 301.32 TD
+( 0.00) Tj
+ET
+541.36 278.96 54.00 13.52 re S
+BT
+577.36 287.84 TD
+( 0.00) Tj
+ET
+541.36 265.48 54.00 13.52 re S
+BT
+577.36 274.32 TD
+( 0.00) Tj
+ET
+541.36 251.96 54.00 13.52 re S
+BT
+577.36 260.84 TD
+( 0.00) Tj
+ET
+433.36 292.48 54.00 13.52 re S
+BT
+462.16 301.32 TD
+( 140.00) Tj
+ET
+433.36 278.96 54.00 13.52 re S
+BT
+465.76 287.84 TD
+( 64.00) Tj
+ET
+433.36 265.48 54.00 13.52 re S
+BT
+469.36 274.32 TD
+( 3.00) Tj
+ET
+433.36 251.96 54.00 13.52 re S
+BT
+469.36 260.84 TD
+( 3.00) Tj
+ET
+32.84 382.48 364.52 13.52 re S
+BT
+32.84 386.40 TD
+/F0 12.00 Tf
+(ENTE PUBLICO: ) Tj
+(NICOLAS ROMERO) Tj
+(       ) Tj
+ET
+95.84 418.48 198.00 27.00 re S
+BT
+101.84 437.48 TD
+/F1 10.00 Tf
+(  AVANCE TRIMESTRAL DE METAS DE) Tj
+36.00 -11.04 TD
+(ACCION POR PROYECTO) Tj
+ET
+32.84 418.48 63.00 27.00 re S
+BT
+32.84 437.48 TD
+( PbRM 08c) Tj
+ET
+397.36 382.48 94.52 13.52 re S
+BT
+397.36 386.40 TD
+/F0 12.00 Tf
+( No.: ) Tj
+(098) Tj
+-128.28 132.08 TD
+/F1 10.00 Tf
+(Presupuesto Basado en Resultados Municipal) Tj
+ET
+437.84 490.48 72.00 13.52 re S
+BT
+442.64 497.64 TD
+/F0 8.00 Tf
+(Identificador) Tj
+ET
+509.84 490.48 247.52 13.52 re S
+BT
+509.84 497.64 TD
+( Denominación) Tj
+ET
+32.84 355.48 724.52 13.52 re S
+BT
+216.28 359.40 TD
+/F0 12.00 Tf
+(Avance Trimestral de Metas de Acción por Proyecto) Tj
+/F0 8.00 Tf
+( ) Tj
+ET
+541.36 328.48 81.00 13.52 re S
+BT
+545.84 335.64 TD
+(Var. Trimestral) Tj
+ET
+676.36 328.48 81.00 13.52 re S
+BT
+692.84 335.64 TD
+(Var. Anual) Tj
+ET
+541.36 310.48 54.00 18.00 re S
+BT
+558.76 322.16 TD
+(Abs.) Tj
+ET
+595.36 310.48 27.00 18.00 re S
+BT
+606.44 322.16 TD
+(%) Tj
+ET
+298.36 292.48 81.00 13.52 re S
+BT
+298.36 301.32 TD
+/F0 6.00 Tf
+(TALLER / CURSO) Tj
+ET
+298.36 278.96 81.00 13.52 re S
+BT
+298.36 287.84 TD
+(ACTIVIDADES) Tj
+ET
+298.36 265.48 81.00 13.52 re S
+BT
+298.36 274.32 TD
+(PLATICAS INFORMATIVAS) Tj
+ET
+298.36 251.96 81.00 13.52 re S
+BT
+298.36 260.84 TD
+(NUMERO DE ENCUESTAS) Tj
+ET
+541.36 206.96 135.00 31.52 re S
+BT
+560.84 231.80 TD
+/F1 8.00 Tf
+(Presupuesto Ejercido) Tj
+-4.80 -9.12 TD
+(Acumulado al Trimestre) Tj
+24.00 -9.12 TD
+(por Proyecto) Tj
+ET
+406.36 206.96 135.00 31.52 re S
+BT
+447.44 231.80 TD
+(Presupuesto) Tj
+-21.60 -9.12 TD
+(Autorizado Anual por) Tj
+28.80 -9.12 TD
+(Proyecto) Tj
+ET
+32.84 121.48 211.52 49.52 re S
+BT
+121.80 155.16 TD
+(ELABORO) Tj
+ET
+545.84 121.48 211.52 49.52 re S
+BT
+632.40 155.16 TD
+(AUTORIZO) Tj
+ET
+289.36 121.48 211.52 49.52 re S
+BT
+380.68 155.16 TD
+(REVISO) Tj
+ET
+437.84 463.48 72.00 13.52 re S
+BT
+464.24 470.28 TD
+(0505) Tj
+-136.80 0.00 TD
+(FUNCION Y SUBFUNCION : ) Tj
+ET
+509.84 463.48 247.52 13.52 re S
+BT
+509.84 470.28 TD
+(Educación para adultos) Tj
+ET
+437.84 436.48 72.00 13.52 re S
+BT
+469.04 443.28 TD
+(02) Tj
+-84.00 0.00 TD
+(PROYECTO : ) Tj
+ET
+509.84 436.48 247.52 13.52 re S
+BT
+509.84 443.28 TD
+(Capacitación no formal para el trabajo) Tj
+ET
+endstream
+endobj
+33 0 obj
+7893
+endobj
+31 0 obj
+<<
+/Type /Page
+/MediaBox [0 0 792 612]
+/Parent 3 0 R
+/Resources <</ProcSet [ /PDF /Text /ImageC ] /Font << /F0 9 0 R /F1 10 0 R >> /XObject << /im2530 11 0 R >> >>
+/Contents 32 0 R
+/CropBox [0 0 792 612]
+>>
+endobj
+35 0 obj
+<</Length 36 0 R>>
+stream
+BT
+367.20 29.64 TD
+/F0 8.00 Tf
+(Hoja ) Tj
+(9) Tj
+( de ) Tj
+(16) Tj
+-34.96 400.16 TD
+/F1 8.00 Tf
+(DEPENDENCIA GENERAL : ) Tj
+ET
+0.00 w
+0 J
+0 j
+406.36 162.00 135.00 18.00 re S
+BT
+434.84 171.96 TD
+/F1 10.00 Tf
+( 2,780,000.00) Tj
+ET
+541.36 162.00 135.00 18.00 re S
+BT
+575.84 171.96 TD
+( 282,483.30) Tj
+ET
+676.36 162.00 81.00 18.00 re S
+BT
+698.84 171.96 TD
+( 10.16) Tj
+ET
+437.84 409.48 72.00 13.52 re S
+BT
+466.64 416.28 TD
+/F1 8.00 Tf
+(311) Tj
+-139.20 0.00 TD
+(DEPENDENCIA AUXILIAR : ) Tj
+ET
+509.84 409.48 247.52 13.52 re S
+BT
+509.84 416.28 TD
+(AREA DE SERVICIOS NUTRICIONALES) Tj
+ET
+437.84 476.96 72.00 13.52 re S
+BT
+469.04 483.80 TD
+(02) Tj
+-88.80 0.00 TD
+(FINALIDAD : ) Tj
+ET
+509.84 476.96 247.52 13.52 re S
+BT
+509.84 483.80 TD
+(Desarrollo social) Tj
+ET
+437.84 449.96 72.00 13.52 re S
+BT
+464.24 456.80 TD
+(0301) Tj
+-146.40 0.00 TD
+(PROGRAMA Y SUBPROGRAMA : ) Tj
+ET
+509.84 449.96 247.52 13.52 re S
+BT
+509.84 456.80 TD
+(Asistencia alimentaria a menores) Tj
+ET
+437.84 422.96 72.00 13.52 re S
+BT
+466.64 429.80 TD
+(B00) Tj
+ET
+509.84 422.96 247.52 13.52 re S
+BT
+509.84 429.80 TD
+(DIRECCION GENERAL) Tj
+ET
+32.84 310.48 724.52 58.52 re S
+86.84 310.48 211.52 45.00 re S
+BT
+159.00 340.64 TD
+/F0 8.00 Tf
+(Descripción de) Tj
+14.40 -8.52 TD
+(Acciones) Tj
+ET
+32.84 310.48 54.00 45.00 re S
+BT
+38.24 340.64 TD
+(Código de) Tj
+7.20 -8.52 TD
+(Acción) Tj
+ET
+298.36 310.48 81.00 45.00 re S
+BT
+324.44 340.64 TD
+(Unidad) Tj
+7.20 -8.52 TD
+( de) Tj
+-7.20 -8.48 TD
+(Medida) Tj
+ET
+433.36 341.96 324.00 13.52 re S
+BT
+552.16 349.16 TD
+(Periodo Trimestral) Tj
+ET
+379.36 310.48 54.00 45.00 re S
+BT
+382.36 340.64 TD
+(Programada) Tj
+12.00 -8.52 TD
+(Anual) Tj
+ET
+433.36 310.48 54.00 31.52 re S
+BT
+436.36 327.12 TD
+(Programado) Tj
+ET
+487.36 310.48 54.00 31.52 re S
+BT
+499.96 327.12 TD
+(Avance) Tj
+ET
+676.36 310.48 54.00 18.00 re S
+BT
+693.76 322.16 TD
+(Abs.) Tj
+ET
+730.36 310.48 27.00 18.00 re S
+BT
+741.44 322.16 TD
+(%) Tj
+ET
+622.36 310.48 54.00 31.52 re S
+BT
+634.96 335.64 TD
+(Avance) Tj
+2.40 -8.52 TD
+(Acum.) Tj
+-2.40 -8.48 TD
+( Anual) Tj
+ET
+676.36 179.96 81.00 31.52 re S
+BT
+690.44 195.68 TD
+/F1 8.00 Tf
+(Variacion %) Tj
+ET
+q 54.00 0 0 28.44 37.36 547.56 cm /im2530 Do Q
+32.84 225.00 724.52 81.00 re S
+32.84 292.48 54.00 13.52 re S
+BT
+57.44 299.64 TD
+/F0 8.00 Tf
+(1) Tj
+ET
+32.84 278.96 54.00 13.52 re S
+BT
+57.44 286.16 TD
+(2) Tj
+ET
+32.84 265.48 54.00 13.52 re S
+BT
+57.44 272.64 TD
+(3) Tj
+ET
+32.84 251.96 54.00 13.52 re S
+BT
+57.44 259.16 TD
+(4) Tj
+ET
+32.84 238.48 54.00 13.52 re S
+BT
+57.44 245.64 TD
+(5) Tj
+ET
+32.84 224.96 54.00 13.52 re S
+BT
+57.44 232.16 TD
+(6) Tj
+ET
+86.84 292.48 211.52 13.52 re S
+BT
+86.84 301.32 TD
+/F0 6.00 Tf
+(DESAYUNOS ESCOLARES GESTIONADOS.) Tj
+ET
+86.84 278.96 211.52 13.52 re S
+BT
+86.84 287.84 TD
+(RACIONES ALIMENTARIAS GESTIONADAS.) Tj
+ET
+86.84 265.48 211.52 13.52 re S
+BT
+86.84 274.32 TD
+(INTEGRACIÓN DEL PADRON DE ESCUELAS BENEFICIARIAS DEL) Tj
+0.00 -6.36 TD
+(PROGRAMA DE DESAYUNOS ESCOLARES.) Tj
+ET
+86.84 251.96 211.52 13.52 re S
+BT
+86.84 260.84 TD
+(SUPERVISIÓN DE LA ENTREGA DE DESAYUNOS ESCOLARES.) Tj
+ET
+86.84 238.48 211.52 13.52 re S
+BT
+86.84 247.32 TD
+(INTEGRACIÓN DEL PADRON DE ESCUELAS BENEFICIARIAS DEL) Tj
+0.00 -6.36 TD
+(PROGRAMA DE RACIONES ALIMENTARIAS.) Tj
+ET
+86.84 224.96 211.52 13.52 re S
+BT
+86.84 233.84 TD
+(SUPERVISIÓN DE LA ENTREGA DE RACIONES ALIMENTARIAS.) Tj
+ET
+379.36 292.48 54.00 13.52 re S
+BT
+386.56 301.32 TD
+( 1,380,400.00) Tj
+ET
+379.36 278.96 54.00 13.52 re S
+BT
+393.76 287.84 TD
+( 505,600.00) Tj
+ET
+379.36 265.48 54.00 13.52 re S
+BT
+411.76 274.32 TD
+( 65.00) Tj
+ET
+379.36 251.96 54.00 13.52 re S
+BT
+408.16 260.84 TD
+( 400.00) Tj
+ET
+379.36 238.48 54.00 13.52 re S
+BT
+411.76 247.32 TD
+( 17.00) Tj
+ET
+379.36 224.96 54.00 13.52 re S
+BT
+408.16 233.84 TD
+( 110.00) Tj
+ET
+487.36 292.48 54.00 13.52 re S
+BT
+501.76 301.32 TD
+( 345,100.00) Tj
+ET
+487.36 278.96 54.00 13.52 re S
+BT
+501.76 287.84 TD
+( 126,400.00) Tj
+ET
+487.36 265.48 54.00 13.52 re S
+BT
+519.76 274.32 TD
+( 65.00) Tj
+ET
+487.36 251.96 54.00 13.52 re S
+BT
+516.16 260.84 TD
+( 100.00) Tj
+ET
+487.36 238.48 54.00 13.52 re S
+BT
+519.76 247.32 TD
+( 17.00) Tj
+ET
+487.36 224.96 54.00 13.52 re S
+BT
+519.76 233.84 TD
+( 25.00) Tj
+ET
+595.36 292.48 27.00 13.52 re S
+BT
+597.16 301.32 TD
+( 100.00) Tj
+ET
+595.36 278.96 27.00 13.52 re S
+BT
+597.16 287.84 TD
+( 100.00) Tj
+ET
+595.36 265.48 27.00 13.52 re S
+BT
+597.16 274.32 TD
+( 100.00) Tj
+ET
+595.36 251.96 27.00 13.52 re S
+BT
+597.16 260.84 TD
+( 100.00) Tj
+ET
+595.36 238.48 27.00 13.52 re S
+BT
+597.16 247.32 TD
+( 100.00) Tj
+ET
+595.36 224.96 27.00 13.52 re S
+BT
+597.16 233.84 TD
+( 100.00) Tj
+ET
+622.36 292.48 54.00 13.52 re S
+BT
+636.76 301.32 TD
+( 345,100.00) Tj
+ET
+622.36 278.96 54.00 13.52 re S
+BT
+636.76 287.84 TD
+( 126,400.00) Tj
+ET
+622.36 265.48 54.00 13.52 re S
+BT
+654.76 274.32 TD
+( 65.00) Tj
+ET
+622.36 251.96 54.00 13.52 re S
+BT
+651.16 260.84 TD
+( 100.00) Tj
+ET
+622.36 238.48 54.00 13.52 re S
+BT
+654.76 247.32 TD
+( 17.00) Tj
+ET
+622.36 224.96 54.00 13.52 re S
+BT
+654.76 233.84 TD
+( 25.00) Tj
+ET
+676.36 292.48 54.00 13.52 re S
+BT
+683.56 301.32 TD
+( 1,035,300.00) Tj
+ET
+676.36 278.96 54.00 13.52 re S
+BT
+690.76 287.84 TD
+( 379,200.00) Tj
+ET
+676.36 265.48 54.00 13.52 re S
+BT
+712.36 274.32 TD
+( 0.00) Tj
+ET
+676.36 251.96 54.00 13.52 re S
+BT
+705.16 260.84 TD
+( 300.00) Tj
+ET
+676.36 238.48 54.00 13.52 re S
+BT
+712.36 247.32 TD
+( 0.00) Tj
+ET
+676.36 224.96 54.00 13.52 re S
+BT
+708.76 233.84 TD
+( 85.00) Tj
+ET
+730.36 292.48 27.00 13.52 re S
+BT
+735.76 301.32 TD
+( 25.00) Tj
+ET
+730.36 278.96 27.00 13.52 re S
+BT
+735.76 287.84 TD
+( 25.00) Tj
+ET
+730.36 265.48 27.00 13.52 re S
+BT
+732.16 274.32 TD
+( 100.00) Tj
+ET
+730.36 251.96 27.00 13.52 re S
+BT
+735.76 260.84 TD
+( 25.00) Tj
+ET
+730.36 238.48 27.00 13.52 re S
+BT
+732.16 247.32 TD
+( 100.00) Tj
+ET
+730.36 224.96 27.00 13.52 re S
+BT
+735.76 233.84 TD
+( 22.73) Tj
+ET
+541.36 292.48 54.00 13.52 re S
+BT
+577.36 301.32 TD
+( 0.00) Tj
+ET
+541.36 278.96 54.00 13.52 re S
+BT
+577.36 287.84 TD
+( 0.00) Tj
+ET
+541.36 265.48 54.00 13.52 re S
+BT
+577.36 274.32 TD
+( 0.00) Tj
+ET
+541.36 251.96 54.00 13.52 re S
+BT
+577.36 260.84 TD
+( 0.00) Tj
+ET
+541.36 238.48 54.00 13.52 re S
+BT
+577.36 247.32 TD
+( 0.00) Tj
+ET
+541.36 224.96 54.00 13.52 re S
+BT
+577.36 233.84 TD
+( 0.00) Tj
+ET
+433.36 292.48 54.00 13.52 re S
+BT
+447.76 301.32 TD
+( 345,100.00) Tj
+ET
+433.36 278.96 54.00 13.52 re S
+BT
+447.76 287.84 TD
+( 126,400.00) Tj
+ET
+433.36 265.48 54.00 13.52 re S
+BT
+465.76 274.32 TD
+( 65.00) Tj
+ET
+433.36 251.96 54.00 13.52 re S
+BT
+462.16 260.84 TD
+( 100.00) Tj
+ET
+433.36 238.48 54.00 13.52 re S
+BT
+465.76 247.32 TD
+( 17.00) Tj
+ET
+433.36 224.96 54.00 13.52 re S
+BT
+465.76 233.84 TD
+( 25.00) Tj
+ET
+32.84 382.48 364.52 13.52 re S
+BT
+32.84 386.40 TD
+/F0 12.00 Tf
+(ENTE PUBLICO: ) Tj
+(NICOLAS ROMERO) Tj
+(       ) Tj
+ET
+95.84 418.48 198.00 27.00 re S
+BT
+101.84 437.48 TD
+/F1 10.00 Tf
+(  AVANCE TRIMESTRAL DE METAS DE) Tj
+36.00 -11.04 TD
+(ACCION POR PROYECTO) Tj
+ET
+32.84 418.48 63.00 27.00 re S
+BT
+32.84 437.48 TD
+( PbRM 08c) Tj
+ET
+397.36 382.48 94.52 13.52 re S
+BT
+397.36 386.40 TD
+/F0 12.00 Tf
+( No.: ) Tj
+(098) Tj
+-128.28 132.08 TD
+/F1 10.00 Tf
+(Presupuesto Basado en Resultados Municipal) Tj
+ET
+437.84 490.48 72.00 13.52 re S
+BT
+442.64 497.64 TD
+/F0 8.00 Tf
+(Identificador) Tj
+ET
+509.84 490.48 247.52 13.52 re S
+BT
+509.84 497.64 TD
+( Denominación) Tj
+ET
+32.84 355.48 724.52 13.52 re S
+BT
+216.28 359.40 TD
+/F0 12.00 Tf
+(Avance Trimestral de Metas de Acción por Proyecto) Tj
+/F0 8.00 Tf
+( ) Tj
+ET
+541.36 328.48 81.00 13.52 re S
+BT
+545.84 335.64 TD
+(Var. Trimestral) Tj
+ET
+676.36 328.48 81.00 13.52 re S
+BT
+692.84 335.64 TD
+(Var. Anual) Tj
+ET
+541.36 310.48 54.00 18.00 re S
+BT
+558.76 322.16 TD
+(Abs.) Tj
+ET
+595.36 310.48 27.00 18.00 re S
+BT
+606.44 322.16 TD
+(%) Tj
+ET
+298.36 292.48 81.00 13.52 re S
+BT
+298.36 301.32 TD
+/F0 6.00 Tf
+(DESAYUNO FRIO) Tj
+ET
+298.36 278.96 81.00 13.52 re S
+BT
+298.36 287.84 TD
+(RACION VESPERTINA) Tj
+ET
+298.36 265.48 81.00 13.52 re S
+BT
+298.36 274.32 TD
+(PADRON) Tj
+ET
+298.36 251.96 81.00 13.52 re S
+BT
+298.36 260.84 TD
+(INSPECCION) Tj
+ET
+298.36 238.48 81.00 13.52 re S
+BT
+298.36 247.32 TD
+(PADRON) Tj
+ET
+298.36 224.96 81.00 13.52 re S
+BT
+298.36 233.84 TD
+(INSPECCIÓN) Tj
+ET
+541.36 179.96 135.00 31.52 re S
+BT
+560.84 204.80 TD
+/F1 8.00 Tf
+(Presupuesto Ejercido) Tj
+-4.80 -9.12 TD
+(Acumulado al Trimestre) Tj
+24.00 -9.12 TD
+(por Proyecto) Tj
+ET
+406.36 179.96 135.00 31.52 re S
+BT
+447.44 204.80 TD
+(Presupuesto) Tj
+-21.60 -9.12 TD
+(Autorizado Anual por) Tj
+28.80 -9.12 TD
+(Proyecto) Tj
+ET
+32.84 94.48 211.52 49.52 re S
+BT
+121.80 128.16 TD
+(ELABORO) Tj
+ET
+545.84 94.48 211.52 49.52 re S
+BT
+632.40 128.16 TD
+(AUTORIZO) Tj
+ET
+289.36 94.48 211.52 49.52 re S
+BT
+380.68 128.16 TD
+(REVISO) Tj
+ET
+437.84 463.48 72.00 13.52 re S
+BT
+464.24 470.28 TD
+(0506) Tj
+-136.80 0.00 TD
+(FUNCION Y SUBFUNCION : ) Tj
+ET
+509.84 463.48 247.52 13.52 re S
+BT
+509.84 470.28 TD
+(Otros servicios educativos y actividades inherentes) Tj
+ET
+437.84 436.48 72.00 13.52 re S
+BT
+469.04 443.28 TD
+(01) Tj
+-84.00 0.00 TD
+(PROYECTO : ) Tj
+ET
+509.84 436.48 247.52 13.52 re S
+BT
+509.84 443.28 TD
+(Desayunos escolares) Tj
+ET
+endstream
+endobj
+36 0 obj
+9528
+endobj
+34 0 obj
+<<
+/Type /Page
+/MediaBox [0 0 792 612]
+/Parent 3 0 R
+/Resources <</ProcSet [ /PDF /Text /ImageC ] /Font << /F0 9 0 R /F1 10 0 R >> /XObject << /im2530 11 0 R >> >>
+/Contents 35 0 R
+/CropBox [0 0 792 612]
+>>
+endobj
+38 0 obj
+<</Length 39 0 R>>
+stream
+BT
+364.80 29.64 TD
+/F0 8.00 Tf
+(Hoja ) Tj
+(10) Tj
+( de ) Tj
+(16) Tj
+-32.56 400.16 TD
+/F1 8.00 Tf
+(DEPENDENCIA GENERAL : ) Tj
+ET
+0.00 w
+0 J
+0 j
+406.36 216.00 135.00 18.00 re S
+BT
+443.84 225.96 TD
+/F1 10.00 Tf
+( 27,995.00) Tj
+ET
+541.36 216.00 135.00 18.00 re S
+BT
+581.84 225.96 TD
+( 5,292.44) Tj
+ET
+676.36 216.00 81.00 18.00 re S
+BT
+698.84 225.96 TD
+( 18.90) Tj
+ET
+437.84 409.48 72.00 13.52 re S
+BT
+466.64 416.28 TD
+/F1 8.00 Tf
+(311) Tj
+-139.20 0.00 TD
+(DEPENDENCIA AUXILIAR : ) Tj
+ET
+509.84 409.48 247.52 13.52 re S
+BT
+509.84 416.28 TD
+(AREA DE SERVICIOS NUTRICIONALES) Tj
+ET
+437.84 476.96 72.00 13.52 re S
+BT
+469.04 483.80 TD
+(02) Tj
+-88.80 0.00 TD
+(FINALIDAD : ) Tj
+ET
+509.84 476.96 247.52 13.52 re S
+BT
+509.84 483.80 TD
+(Desarrollo social) Tj
+ET
+437.84 449.96 72.00 13.52 re S
+BT
+464.24 456.80 TD
+(0101) Tj
+-146.40 0.00 TD
+(PROGRAMA Y SUBPROGRAMA : ) Tj
+ET
+509.84 449.96 247.52 13.52 re S
+BT
+509.84 456.80 TD
+(Alimentación y nutrición para la familia) Tj
+ET
+437.84 422.96 72.00 13.52 re S
+BT
+466.64 429.80 TD
+(B00) Tj
+ET
+509.84 422.96 247.52 13.52 re S
+BT
+509.84 429.80 TD
+(DIRECCION GENERAL) Tj
+ET
+32.84 310.48 724.52 58.52 re S
+86.84 310.48 211.52 45.00 re S
+BT
+159.00 340.64 TD
+/F0 8.00 Tf
+(Descripción de) Tj
+14.40 -8.52 TD
+(Acciones) Tj
+ET
+32.84 310.48 54.00 45.00 re S
+BT
+38.24 340.64 TD
+(Código de) Tj
+7.20 -8.52 TD
+(Acción) Tj
+ET
+298.36 310.48 81.00 45.00 re S
+BT
+324.44 340.64 TD
+(Unidad) Tj
+7.20 -8.52 TD
+( de) Tj
+-7.20 -8.48 TD
+(Medida) Tj
+ET
+433.36 341.96 324.00 13.52 re S
+BT
+552.16 349.16 TD
+(Periodo Trimestral) Tj
+ET
+379.36 310.48 54.00 45.00 re S
+BT
+382.36 340.64 TD
+(Programada) Tj
+12.00 -8.52 TD
+(Anual) Tj
+ET
+433.36 310.48 54.00 31.52 re S
+BT
+436.36 327.12 TD
+(Programado) Tj
+ET
+487.36 310.48 54.00 31.52 re S
+BT
+499.96 327.12 TD
+(Avance) Tj
+ET
+676.36 310.48 54.00 18.00 re S
+BT
+693.76 322.16 TD
+(Abs.) Tj
+ET
+730.36 310.48 27.00 18.00 re S
+BT
+741.44 322.16 TD
+(%) Tj
+ET
+622.36 310.48 54.00 31.52 re S
+BT
+634.96 335.64 TD
+(Avance) Tj
+2.40 -8.52 TD
+(Acum.) Tj
+-2.40 -8.48 TD
+( Anual) Tj
+ET
+676.36 233.96 81.00 31.52 re S
+BT
+690.44 249.68 TD
+/F1 8.00 Tf
+(Variacion %) Tj
+ET
+q 54.00 0 0 28.44 37.36 547.56 cm /im2530 Do Q
+32.84 279.00 724.52 27.00 re S
+32.84 292.48 54.00 13.52 re S
+BT
+57.44 299.64 TD
+/F0 8.00 Tf
+(1) Tj
+ET
+32.84 278.96 54.00 13.52 re S
+BT
+57.44 286.16 TD
+(2) Tj
+ET
+86.84 292.48 211.52 13.52 re S
+BT
+86.84 301.32 TD
+/F0 6.00 Tf
+(SELECCIÓN DE FAMILIAS QUE SON SUCEPTIBLES DE RECIBIR) Tj
+0.00 -6.36 TD
+(APOYOS ALIMENTARIOS.) Tj
+ET
+86.84 278.96 211.52 13.52 re S
+BT
+86.84 287.84 TD
+(ESTUDIOS SOCIOECONOMICOS APLICADOS.) Tj
+ET
+379.36 292.48 54.00 13.52 re S
+BT
+400.96 301.32 TD
+( 2,070.00) Tj
+ET
+379.36 278.96 54.00 13.52 re S
+BT
+400.96 287.84 TD
+( 2,070.00) Tj
+ET
+487.36 292.48 54.00 13.52 re S
+BT
+508.96 301.32 TD
+( 2,070.00) Tj
+ET
+487.36 278.96 54.00 13.52 re S
+BT
+516.16 287.84 TD
+( 535.00) Tj
+ET
+595.36 292.48 27.00 13.52 re S
+BT
+597.16 301.32 TD
+( 100.00) Tj
+ET
+595.36 278.96 27.00 13.52 re S
+BT
+597.16 287.84 TD
+( 100.00) Tj
+ET
+622.36 292.48 54.00 13.52 re S
+BT
+643.96 301.32 TD
+( 2,070.00) Tj
+ET
+622.36 278.96 54.00 13.52 re S
+BT
+651.16 287.84 TD
+( 535.00) Tj
+ET
+676.36 292.48 54.00 13.52 re S
+BT
+712.36 301.32 TD
+( 0.00) Tj
+ET
+676.36 278.96 54.00 13.52 re S
+BT
+697.96 287.84 TD
+( 1,535.00) Tj
+ET
+730.36 292.48 27.00 13.52 re S
+BT
+732.16 301.32 TD
+( 100.00) Tj
+ET
+730.36 278.96 27.00 13.52 re S
+BT
+735.76 287.84 TD
+( 25.85) Tj
+ET
+541.36 292.48 54.00 13.52 re S
+BT
+577.36 301.32 TD
+( 0.00) Tj
+ET
+541.36 278.96 54.00 13.52 re S
+BT
+577.36 287.84 TD
+( 0.00) Tj
+ET
+433.36 292.48 54.00 13.52 re S
+BT
+454.96 301.32 TD
+( 2,070.00) Tj
+ET
+433.36 278.96 54.00 13.52 re S
+BT
+462.16 287.84 TD
+( 535.00) Tj
+ET
+32.84 382.48 364.52 13.52 re S
+BT
+32.84 386.40 TD
+/F0 12.00 Tf
+(ENTE PUBLICO: ) Tj
+(NICOLAS ROMERO) Tj
+(       ) Tj
+ET
+95.84 418.48 198.00 27.00 re S
+BT
+101.84 437.48 TD
+/F1 10.00 Tf
+(  AVANCE TRIMESTRAL DE METAS DE) Tj
+36.00 -11.04 TD
+(ACCION POR PROYECTO) Tj
+ET
+32.84 418.48 63.00 27.00 re S
+BT
+32.84 437.48 TD
+( PbRM 08c) Tj
+ET
+397.36 382.48 94.52 13.52 re S
+BT
+397.36 386.40 TD
+/F0 12.00 Tf
+( No.: ) Tj
+(098) Tj
+-128.28 132.08 TD
+/F1 10.00 Tf
+(Presupuesto Basado en Resultados Municipal) Tj
+ET
+437.84 490.48 72.00 13.52 re S
+BT
+442.64 497.64 TD
+/F0 8.00 Tf
+(Identificador) Tj
+ET
+509.84 490.48 247.52 13.52 re S
+BT
+509.84 497.64 TD
+( Denominación) Tj
+ET
+32.84 355.48 724.52 13.52 re S
+BT
+216.28 359.40 TD
+/F0 12.00 Tf
+(Avance Trimestral de Metas de Acción por Proyecto) Tj
+/F0 8.00 Tf
+( ) Tj
+ET
+541.36 328.48 81.00 13.52 re S
+BT
+545.84 335.64 TD
+(Var. Trimestral) Tj
+ET
+676.36 328.48 81.00 13.52 re S
+BT
+692.84 335.64 TD
+(Var. Anual) Tj
+ET
+541.36 310.48 54.00 18.00 re S
+BT
+558.76 322.16 TD
+(Abs.) Tj
+ET
+595.36 310.48 27.00 18.00 re S
+BT
+606.44 322.16 TD
+(%) Tj
+ET
+298.36 292.48 81.00 13.52 re S
+BT
+298.36 301.32 TD
+/F0 6.00 Tf
+(PADRON DE FAMILIAS) Tj
+ET
+298.36 278.96 81.00 13.52 re S
+BT
+298.36 287.84 TD
+(ESTUDIOS) Tj
+0.00 -6.36 TD
+(SOCIOECONOMICOS) Tj
+ET
+541.36 233.96 135.00 31.52 re S
+BT
+560.84 258.80 TD
+/F1 8.00 Tf
+(Presupuesto Ejercido) Tj
+-4.80 -9.12 TD
+(Acumulado al Trimestre) Tj
+24.00 -9.12 TD
+(por Proyecto) Tj
+ET
+406.36 233.96 135.00 31.52 re S
+BT
+447.44 258.80 TD
+(Presupuesto) Tj
+-21.60 -9.12 TD
+(Autorizado Anual por) Tj
+28.80 -9.12 TD
+(Proyecto) Tj
+ET
+32.84 148.48 211.52 49.52 re S
+BT
+121.80 182.16 TD
+(ELABORO) Tj
+ET
+545.84 148.48 211.52 49.52 re S
+BT
+632.40 182.16 TD
+(AUTORIZO) Tj
+ET
+289.36 148.48 211.52 49.52 re S
+BT
+380.68 182.16 TD
+(REVISO) Tj
+ET
+437.84 463.48 72.00 13.52 re S
+BT
+464.24 470.28 TD
+(0605) Tj
+-136.80 0.00 TD
+(FUNCION Y SUBFUNCION : ) Tj
+ET
+509.84 463.48 247.52 13.52 re S
+BT
+509.84 470.28 TD
+(Alimentación y nutrición) Tj
+ET
+437.84 436.48 72.00 13.52 re S
+BT
+469.04 443.28 TD
+(04) Tj
+-84.00 0.00 TD
+(PROYECTO : ) Tj
+ET
+509.84 436.48 247.52 13.52 re S
+BT
+509.84 443.28 TD
+(Asistencia alimentaria a familias) Tj
+ET
+endstream
+endobj
+39 0 obj
+6189
+endobj
+37 0 obj
+<<
+/Type /Page
+/MediaBox [0 0 792 612]
+/Parent 3 0 R
+/Resources <</ProcSet [ /PDF /Text /ImageC ] /Font << /F0 9 0 R /F1 10 0 R >> /XObject << /im2530 11 0 R >> >>
+/Contents 38 0 R
+/CropBox [0 0 792 612]
+>>
+endobj
+41 0 obj
+<</Length 42 0 R>>
+stream
+BT
+364.80 29.64 TD
+/F0 8.00 Tf
+(Hoja ) Tj
+(11) Tj
+( de ) Tj
+(16) Tj
+-32.56 400.16 TD
+/F1 8.00 Tf
+(DEPENDENCIA GENERAL : ) Tj
+ET
+0.00 w
+0 J
+0 j
+406.36 108.00 135.00 18.00 re S
+BT
+434.84 117.96 TD
+/F1 10.00 Tf
+( 1,100,150.00) Tj
+ET
+541.36 108.00 135.00 18.00 re S
+BT
+575.84 117.96 TD
+( 228,368.39) Tj
+ET
+676.36 108.00 81.00 18.00 re S
+BT
+698.84 117.96 TD
+( 20.76) Tj
+ET
+437.84 409.48 72.00 13.52 re S
+BT
+466.64 416.28 TD
+/F1 8.00 Tf
+(314) Tj
+-139.20 0.00 TD
+(DEPENDENCIA AUXILIAR : ) Tj
+ET
+509.84 409.48 247.52 13.52 re S
+BT
+509.84 416.28 TD
+(AREA DE ASISTENCIA A DISCAPACITADOS) Tj
+ET
+437.84 476.96 72.00 13.52 re S
+BT
+469.04 483.80 TD
+(02) Tj
+-88.80 0.00 TD
+(FINALIDAD : ) Tj
+ET
+509.84 476.96 247.52 13.52 re S
+BT
+509.84 483.80 TD
+(Desarrollo social) Tj
+ET
+437.84 449.96 72.00 13.52 re S
+BT
+464.24 456.80 TD
+(0203) Tj
+-146.40 0.00 TD
+(PROGRAMA Y SUBPROGRAMA : ) Tj
+ET
+509.84 449.96 247.52 13.52 re S
+BT
+509.84 456.80 TD
+(Rehabilitación a personas con discapacidad) Tj
+ET
+437.84 422.96 72.00 13.52 re S
+BT
+466.64 429.80 TD
+(B00) Tj
+ET
+509.84 422.96 247.52 13.52 re S
+BT
+509.84 429.80 TD
+(DIRECCION GENERAL) Tj
+ET
+32.84 310.48 724.52 58.52 re S
+86.84 310.48 211.52 45.00 re S
+BT
+159.00 340.64 TD
+/F0 8.00 Tf
+(Descripción de) Tj
+14.40 -8.52 TD
+(Acciones) Tj
+ET
+32.84 310.48 54.00 45.00 re S
+BT
+38.24 340.64 TD
+(Código de) Tj
+7.20 -8.52 TD
+(Acción) Tj
+ET
+298.36 310.48 81.00 45.00 re S
+BT
+324.44 340.64 TD
+(Unidad) Tj
+7.20 -8.52 TD
+( de) Tj
+-7.20 -8.48 TD
+(Medida) Tj
+ET
+433.36 341.96 324.00 13.52 re S
+BT
+552.16 349.16 TD
+(Periodo Trimestral) Tj
+ET
+379.36 310.48 54.00 45.00 re S
+BT
+382.36 340.64 TD
+(Programada) Tj
+12.00 -8.52 TD
+(Anual) Tj
+ET
+433.36 310.48 54.00 31.52 re S
+BT
+436.36 327.12 TD
+(Programado) Tj
+ET
+487.36 310.48 54.00 31.52 re S
+BT
+499.96 327.12 TD
+(Avance) Tj
+ET
+676.36 310.48 54.00 18.00 re S
+BT
+693.76 322.16 TD
+(Abs.) Tj
+ET
+730.36 310.48 27.00 18.00 re S
+BT
+741.44 322.16 TD
+(%) Tj
+ET
+622.36 310.48 54.00 31.52 re S
+BT
+634.96 335.64 TD
+(Avance) Tj
+2.40 -8.52 TD
+(Acum.) Tj
+-2.40 -8.48 TD
+( Anual) Tj
+ET
+676.36 125.96 81.00 31.52 re S
+BT
+690.44 141.68 TD
+/F1 8.00 Tf
+(Variacion %) Tj
+ET
+q 54.00 0 0 28.44 37.36 547.56 cm /im2530 Do Q
+32.84 171.00 724.52 135.00 re S
+32.84 292.48 54.00 13.52 re S
+BT
+57.44 299.64 TD
+/F0 8.00 Tf
+(1) Tj
+ET
+32.84 278.96 54.00 13.52 re S
+BT
+57.44 286.16 TD
+(2) Tj
+ET
+32.84 265.48 54.00 13.52 re S
+BT
+57.44 272.64 TD
+(3) Tj
+ET
+32.84 251.96 54.00 13.52 re S
+BT
+57.44 259.16 TD
+(4) Tj
+ET
+32.84 238.48 54.00 13.52 re S
+BT
+57.44 245.64 TD
+(5) Tj
+ET
+32.84 224.96 54.00 13.52 re S
+BT
+57.44 232.16 TD
+(6) Tj
+ET
+32.84 211.48 54.00 13.52 re S
+BT
+57.44 218.64 TD
+(7) Tj
+ET
+32.84 197.96 54.00 13.52 re S
+BT
+57.44 205.16 TD
+(8) Tj
+ET
+32.84 184.48 54.00 13.52 re S
+BT
+57.44 191.64 TD
+(9) Tj
+ET
+32.84 170.96 54.00 13.52 re S
+BT
+55.04 178.16 TD
+(10) Tj
+ET
+86.84 292.48 211.52 13.52 re S
+BT
+86.84 301.32 TD
+/F0 6.00 Tf
+(Rehabilitación Otorgada.) Tj
+ET
+86.84 278.96 211.52 13.52 re S
+BT
+86.84 287.84 TD
+(Insumos asistenciales Gestionados.) Tj
+ET
+86.84 265.48 211.52 13.52 re S
+BT
+86.84 274.32 TD
+(Orientación para la prevención de la discapacidad) Tj
+0.00 -6.36 TD
+(otorgada.) Tj
+ET
+86.84 251.96 211.52 13.52 re S
+BT
+86.84 260.84 TD
+(Expedición de consulta diagnóstico) Tj
+ET
+86.84 238.48 211.52 13.52 re S
+BT
+86.84 247.32 TD
+(Otorgamiento de Terapia de Rehabilitación) Tj
+ET
+86.84 224.96 211.52 13.52 re S
+BT
+86.84 233.84 TD
+(Otorgamiento de apoyos funcionales para tención de la) Tj
+0.00 -6.36 TD
+(población con discapacidad.) Tj
+ET
+86.84 211.48 211.52 13.52 re S
+BT
+86.84 220.32 TD
+(Gestión de empleo a personas con discapacidad) Tj
+ET
+86.84 197.96 211.52 13.52 re S
+BT
+86.84 206.84 TD
+(Gestión de espacios de educación especial o regular) Tj
+ET
+86.84 184.48 211.52 13.52 re S
+BT
+86.84 193.32 TD
+(Gestión de espacios de educación especial o regular) Tj
+ET
+86.84 170.96 211.52 13.52 re S
+BT
+86.84 179.84 TD
+(Distribución de material de orientación sobre la cultura) Tj
+ET
+379.36 292.48 54.00 13.52 re S
+BT
+400.96 301.32 TD
+( 9,600.00) Tj
+ET
+379.36 278.96 54.00 13.52 re S
+BT
+415.36 287.84 TD
+( 6.00) Tj
+ET
+379.36 265.48 54.00 13.52 re S
+BT
+408.16 274.32 TD
+( 360.00) Tj
+ET
+379.36 251.96 54.00 13.52 re S
+BT
+408.16 260.84 TD
+( 600.00) Tj
+ET
+379.36 238.48 54.00 13.52 re S
+BT
+400.96 247.32 TD
+( 3,200.00) Tj
+ET
+379.36 224.96 54.00 13.52 re S
+BT
+408.16 233.84 TD
+( 400.00) Tj
+ET
+379.36 211.48 54.00 13.52 re S
+BT
+411.76 220.32 TD
+( 12.00) Tj
+ET
+379.36 197.96 54.00 13.52 re S
+BT
+411.76 206.84 TD
+( 12.00) Tj
+ET
+379.36 184.48 54.00 13.52 re S
+BT
+411.76 193.32 TD
+( 48.00) Tj
+ET
+379.36 170.96 54.00 13.52 re S
+BT
+400.96 179.84 TD
+( 2,400.00) Tj
+ET
+487.36 292.48 54.00 13.52 re S
+BT
+508.96 301.32 TD
+( 2,400.00) Tj
+ET
+487.36 278.96 54.00 13.52 re S
+BT
+523.36 287.84 TD
+( 1.00) Tj
+ET
+487.36 265.48 54.00 13.52 re S
+BT
+519.76 274.32 TD
+( 90.00) Tj
+ET
+487.36 251.96 54.00 13.52 re S
+BT
+516.16 260.84 TD
+( 150.00) Tj
+ET
+487.36 238.48 54.00 13.52 re S
+BT
+516.16 247.32 TD
+( 800.00) Tj
+ET
+487.36 224.96 54.00 13.52 re S
+BT
+516.16 233.84 TD
+( 100.00) Tj
+ET
+487.36 211.48 54.00 13.52 re S
+BT
+523.36 220.32 TD
+( 3.00) Tj
+ET
+487.36 197.96 54.00 13.52 re S
+BT
+523.36 206.84 TD
+( 3.00) Tj
+ET
+487.36 184.48 54.00 13.52 re S
+BT
+519.76 193.32 TD
+( 12.00) Tj
+ET
+487.36 170.96 54.00 13.52 re S
+BT
+516.16 179.84 TD
+( 600.00) Tj
+ET
+595.36 292.48 27.00 13.52 re S
+BT
+597.16 301.32 TD
+( 100.00) Tj
+ET
+595.36 278.96 27.00 13.52 re S
+BT
+597.16 287.84 TD
+( 100.00) Tj
+ET
+595.36 265.48 27.00 13.52 re S
+BT
+597.16 274.32 TD
+( 100.00) Tj
+ET
+595.36 251.96 27.00 13.52 re S
+BT
+597.16 260.84 TD
+( 100.00) Tj
+ET
+595.36 238.48 27.00 13.52 re S
+BT
+597.16 247.32 TD
+( 100.00) Tj
+ET
+595.36 224.96 27.00 13.52 re S
+BT
+597.16 233.84 TD
+( 100.00) Tj
+ET
+595.36 211.48 27.00 13.52 re S
+BT
+597.16 220.32 TD
+( 100.00) Tj
+ET
+595.36 197.96 27.00 13.52 re S
+BT
+597.16 206.84 TD
+( 100.00) Tj
+ET
+595.36 184.48 27.00 13.52 re S
+BT
+597.16 193.32 TD
+( 100.00) Tj
+ET
+595.36 170.96 27.00 13.52 re S
+BT
+597.16 179.84 TD
+( 100.00) Tj
+ET
+622.36 292.48 54.00 13.52 re S
+BT
+643.96 301.32 TD
+( 2,400.00) Tj
+ET
+622.36 278.96 54.00 13.52 re S
+BT
+658.36 287.84 TD
+( 1.00) Tj
+ET
+622.36 265.48 54.00 13.52 re S
+BT
+654.76 274.32 TD
+( 90.00) Tj
+ET
+622.36 251.96 54.00 13.52 re S
+BT
+651.16 260.84 TD
+( 150.00) Tj
+ET
+622.36 238.48 54.00 13.52 re S
+BT
+651.16 247.32 TD
+( 800.00) Tj
+ET
+622.36 224.96 54.00 13.52 re S
+BT
+651.16 233.84 TD
+( 100.00) Tj
+ET
+622.36 211.48 54.00 13.52 re S
+BT
+658.36 220.32 TD
+( 3.00) Tj
+ET
+622.36 197.96 54.00 13.52 re S
+BT
+658.36 206.84 TD
+( 3.00) Tj
+ET
+622.36 184.48 54.00 13.52 re S
+BT
+654.76 193.32 TD
+( 12.00) Tj
+ET
+622.36 170.96 54.00 13.52 re S
+BT
+651.16 179.84 TD
+( 600.00) Tj
+ET
+676.36 292.48 54.00 13.52 re S
+BT
+697.96 301.32 TD
+( 7,200.00) Tj
+ET
+676.36 278.96 54.00 13.52 re S
+BT
+712.36 287.84 TD
+( 5.00) Tj
+ET
+676.36 265.48 54.00 13.52 re S
+BT
+705.16 274.32 TD
+( 270.00) Tj
+ET
+676.36 251.96 54.00 13.52 re S
+BT
+705.16 260.84 TD
+( 450.00) Tj
+ET
+676.36 238.48 54.00 13.52 re S
+BT
+697.96 247.32 TD
+( 2,400.00) Tj
+ET
+676.36 224.96 54.00 13.52 re S
+BT
+705.16 233.84 TD
+( 300.00) Tj
+ET
+676.36 211.48 54.00 13.52 re S
+BT
+712.36 220.32 TD
+( 9.00) Tj
+ET
+676.36 197.96 54.00 13.52 re S
+BT
+712.36 206.84 TD
+( 9.00) Tj
+ET
+676.36 184.48 54.00 13.52 re S
+BT
+708.76 193.32 TD
+( 36.00) Tj
+ET
+676.36 170.96 54.00 13.52 re S
+BT
+697.96 179.84 TD
+( 1,800.00) Tj
+ET
+730.36 292.48 27.00 13.52 re S
+BT
+735.76 301.32 TD
+( 25.00) Tj
+ET
+730.36 278.96 27.00 13.52 re S
+BT
+735.76 287.84 TD
+( 16.67) Tj
+ET
+730.36 265.48 27.00 13.52 re S
+BT
+735.76 274.32 TD
+( 25.00) Tj
+ET
+730.36 251.96 27.00 13.52 re S
+BT
+735.76 260.84 TD
+( 25.00) Tj
+ET
+730.36 238.48 27.00 13.52 re S
+BT
+735.76 247.32 TD
+( 25.00) Tj
+ET
+730.36 224.96 27.00 13.52 re S
+BT
+735.76 233.84 TD
+( 25.00) Tj
+ET
+730.36 211.48 27.00 13.52 re S
+BT
+735.76 220.32 TD
+( 25.00) Tj
+ET
+730.36 197.96 27.00 13.52 re S
+BT
+735.76 206.84 TD
+( 25.00) Tj
+ET
+730.36 184.48 27.00 13.52 re S
+BT
+735.76 193.32 TD
+( 25.00) Tj
+ET
+730.36 170.96 27.00 13.52 re S
+BT
+735.76 179.84 TD
+( 25.00) Tj
+ET
+541.36 292.48 54.00 13.52 re S
+BT
+577.36 301.32 TD
+( 0.00) Tj
+ET
+541.36 278.96 54.00 13.52 re S
+BT
+577.36 287.84 TD
+( 0.00) Tj
+ET
+541.36 265.48 54.00 13.52 re S
+BT
+577.36 274.32 TD
+( 0.00) Tj
+ET
+541.36 251.96 54.00 13.52 re S
+BT
+577.36 260.84 TD
+( 0.00) Tj
+ET
+541.36 238.48 54.00 13.52 re S
+BT
+577.36 247.32 TD
+( 0.00) Tj
+ET
+541.36 224.96 54.00 13.52 re S
+BT
+577.36 233.84 TD
+( 0.00) Tj
+ET
+541.36 211.48 54.00 13.52 re S
+BT
+577.36 220.32 TD
+( 0.00) Tj
+ET
+541.36 197.96 54.00 13.52 re S
+BT
+577.36 206.84 TD
+( 0.00) Tj
+ET
+541.36 184.48 54.00 13.52 re S
+BT
+577.36 193.32 TD
+( 0.00) Tj
+ET
+541.36 170.96 54.00 13.52 re S
+BT
+577.36 179.84 TD
+( 0.00) Tj
+ET
+433.36 292.48 54.00 13.52 re S
+BT
+454.96 301.32 TD
+( 2,400.00) Tj
+ET
+433.36 278.96 54.00 13.52 re S
+BT
+469.36 287.84 TD
+( 1.00) Tj
+ET
+433.36 265.48 54.00 13.52 re S
+BT
+465.76 274.32 TD
+( 90.00) Tj
+ET
+433.36 251.96 54.00 13.52 re S
+BT
+462.16 260.84 TD
+( 150.00) Tj
+ET
+433.36 238.48 54.00 13.52 re S
+BT
+462.16 247.32 TD
+( 800.00) Tj
+ET
+433.36 224.96 54.00 13.52 re S
+BT
+462.16 233.84 TD
+( 100.00) Tj
+ET
+433.36 211.48 54.00 13.52 re S
+BT
+469.36 220.32 TD
+( 3.00) Tj
+ET
+433.36 197.96 54.00 13.52 re S
+BT
+469.36 206.84 TD
+( 3.00) Tj
+ET
+433.36 184.48 54.00 13.52 re S
+BT
+465.76 193.32 TD
+( 12.00) Tj
+ET
+433.36 170.96 54.00 13.52 re S
+BT
+462.16 179.84 TD
+( 600.00) Tj
+ET
+32.84 382.48 364.52 13.52 re S
+BT
+32.84 386.40 TD
+/F0 12.00 Tf
+(ENTE PUBLICO: ) Tj
+(NICOLAS ROMERO) Tj
+(       ) Tj
+ET
+95.84 418.48 198.00 27.00 re S
+BT
+101.84 437.48 TD
+/F1 10.00 Tf
+(  AVANCE TRIMESTRAL DE METAS DE) Tj
+36.00 -11.04 TD
+(ACCION POR PROYECTO) Tj
+ET
+32.84 418.48 63.00 27.00 re S
+BT
+32.84 437.48 TD
+( PbRM 08c) Tj
+ET
+397.36 382.48 94.52 13.52 re S
+BT
+397.36 386.40 TD
+/F0 12.00 Tf
+( No.: ) Tj
+(098) Tj
+-128.28 132.08 TD
+/F1 10.00 Tf
+(Presupuesto Basado en Resultados Municipal) Tj
+ET
+437.84 490.48 72.00 13.52 re S
+BT
+442.64 497.64 TD
+/F0 8.00 Tf
+(Identificador) Tj
+ET
+509.84 490.48 247.52 13.52 re S
+BT
+509.84 497.64 TD
+( Denominación) Tj
+ET
+32.84 355.48 724.52 13.52 re S
+BT
+216.28 359.40 TD
+/F0 12.00 Tf
+(Avance Trimestral de Metas de Acción por Proyecto) Tj
+/F0 8.00 Tf
+( ) Tj
+ET
+541.36 328.48 81.00 13.52 re S
+BT
+545.84 335.64 TD
+(Var. Trimestral) Tj
+ET
+676.36 328.48 81.00 13.52 re S
+BT
+692.84 335.64 TD
+(Var. Anual) Tj
+ET
+541.36 310.48 54.00 18.00 re S
+BT
+558.76 322.16 TD
+(Abs.) Tj
+ET
+595.36 310.48 27.00 18.00 re S
+BT
+606.44 322.16 TD
+(%) Tj
+ET
+298.36 292.48 81.00 13.52 re S
+BT
+298.36 301.32 TD
+/F0 6.00 Tf
+(TERAPIA) Tj
+ET
+298.36 278.96 81.00 13.52 re S
+BT
+298.36 287.84 TD
+(INSUMOS) Tj
+ET
+298.36 265.48 81.00 13.52 re S
+BT
+298.36 274.32 TD
+(ORIENTACIONES) Tj
+ET
+298.36 251.96 81.00 13.52 re S
+BT
+298.36 260.84 TD
+(CONSULTA) Tj
+ET
+298.36 238.48 81.00 13.52 re S
+BT
+298.36 247.32 TD
+(TERAPIA) Tj
+ET
+298.36 224.96 81.00 13.52 re S
+BT
+298.36 233.84 TD
+(APOYOS FUNCIONALES) Tj
+ET
+298.36 211.48 81.00 13.52 re S
+BT
+298.36 220.32 TD
+(PERSONAS) Tj
+ET
+298.36 197.96 81.00 13.52 re S
+BT
+298.36 206.84 TD
+(GESTION) Tj
+ET
+298.36 184.48 81.00 13.52 re S
+BT
+298.36 193.32 TD
+(PLATICAS) Tj
+ET
+298.36 170.96 81.00 13.52 re S
+BT
+298.36 179.84 TD
+(TRIPTICOS) Tj
+ET
+541.36 125.96 135.00 31.52 re S
+BT
+560.84 150.80 TD
+/F1 8.00 Tf
+(Presupuesto Ejercido) Tj
+-4.80 -9.12 TD
+(Acumulado al Trimestre) Tj
+24.00 -9.12 TD
+(por Proyecto) Tj
+ET
+406.36 125.96 135.00 31.52 re S
+BT
+447.44 150.80 TD
+(Presupuesto) Tj
+-21.60 -9.12 TD
+(Autorizado Anual por) Tj
+28.80 -9.12 TD
+(Proyecto) Tj
+ET
+32.84 40.48 211.52 49.52 re S
+BT
+121.80 74.16 TD
+(ELABORO) Tj
+ET
+545.84 40.48 211.52 49.52 re S
+BT
+632.40 74.16 TD
+(AUTORIZO) Tj
+ET
+289.36 40.48 211.52 49.52 re S
+BT
+380.68 74.16 TD
+(REVISO) Tj
+ET
+437.84 463.48 72.00 13.52 re S
+BT
+464.24 470.28 TD
+(0608) Tj
+-136.80 0.00 TD
+(FUNCION Y SUBFUNCION : ) Tj
+ET
+509.84 463.48 247.52 13.52 re S
+BT
+509.84 470.28 TD
+(Otros grupos vulnerables) Tj
+ET
+437.84 436.48 72.00 13.52 re S
+BT
+469.04 443.28 TD
+(02) Tj
+-84.00 0.00 TD
+(PROYECTO : ) Tj
+ET
+509.84 436.48 247.52 13.52 re S
+BT
+509.84 443.28 TD
+(Atención terapéutica a personas con discapacidad) Tj
+ET
+endstream
+endobj
+42 0 obj
+12728
+endobj
+40 0 obj
+<<
+/Type /Page
+/MediaBox [0 0 792 612]
+/Parent 3 0 R
+/Resources <</ProcSet [ /PDF /Text /ImageC ] /Font << /F0 9 0 R /F1 10 0 R >> /XObject << /im2530 11 0 R >> >>
+/Contents 41 0 R
+/CropBox [0 0 792 612]
+>>
+endobj
+44 0 obj
+<</Length 45 0 R>>
+stream
+BT
+364.80 29.64 TD
+/F0 8.00 Tf
+(Hoja ) Tj
+(12) Tj
+( de ) Tj
+(16) Tj
+-32.56 400.16 TD
+/F1 8.00 Tf
+(DEPENDENCIA GENERAL : ) Tj
+ET
+0.00 w
+0 J
+0 j
+406.36 216.00 135.00 18.00 re S
+BT
+434.84 225.96 TD
+/F1 10.00 Tf
+( 1,622,700.00) Tj
+ET
+541.36 216.00 135.00 18.00 re S
+BT
+575.84 225.96 TD
+( 350,738.72) Tj
+ET
+676.36 216.00 81.00 18.00 re S
+BT
+698.84 225.96 TD
+( 21.61) Tj
+ET
+437.84 409.48 72.00 13.52 re S
+BT
+466.64 416.28 TD
+/F1 8.00 Tf
+(301) Tj
+-139.20 0.00 TD
+(DEPENDENCIA AUXILIAR : ) Tj
+ET
+509.84 409.48 247.52 13.52 re S
+BT
+509.84 416.28 TD
+(UNIDAD DE ASISTENCIA SOCIAL) Tj
+ET
+437.84 476.96 72.00 13.52 re S
+BT
+469.04 483.80 TD
+(02) Tj
+-88.80 0.00 TD
+(FINALIDAD : ) Tj
+ET
+509.84 476.96 247.52 13.52 re S
+BT
+509.84 483.80 TD
+(Desarrollo social) Tj
+ET
+437.84 449.96 72.00 13.52 re S
+BT
+464.24 456.80 TD
+(0301) Tj
+-146.40 0.00 TD
+(PROGRAMA Y SUBPROGRAMA : ) Tj
+ET
+509.84 449.96 247.52 13.52 re S
+BT
+509.84 456.80 TD
+(Respeto y apoyo a los adultos mayores) Tj
+ET
+437.84 422.96 72.00 13.52 re S
+BT
+466.64 429.80 TD
+(B00) Tj
+ET
+509.84 422.96 247.52 13.52 re S
+BT
+509.84 429.80 TD
+(DIRECCION GENERAL) Tj
+ET
+32.84 310.48 724.52 58.52 re S
+86.84 310.48 211.52 45.00 re S
+BT
+159.00 340.64 TD
+/F0 8.00 Tf
+(Descripción de) Tj
+14.40 -8.52 TD
+(Acciones) Tj
+ET
+32.84 310.48 54.00 45.00 re S
+BT
+38.24 340.64 TD
+(Código de) Tj
+7.20 -8.52 TD
+(Acción) Tj
+ET
+298.36 310.48 81.00 45.00 re S
+BT
+324.44 340.64 TD
+(Unidad) Tj
+7.20 -8.52 TD
+( de) Tj
+-7.20 -8.48 TD
+(Medida) Tj
+ET
+433.36 341.96 324.00 13.52 re S
+BT
+552.16 349.16 TD
+(Periodo Trimestral) Tj
+ET
+379.36 310.48 54.00 45.00 re S
+BT
+382.36 340.64 TD
+(Programada) Tj
+12.00 -8.52 TD
+(Anual) Tj
+ET
+433.36 310.48 54.00 31.52 re S
+BT
+436.36 327.12 TD
+(Programado) Tj
+ET
+487.36 310.48 54.00 31.52 re S
+BT
+499.96 327.12 TD
+(Avance) Tj
+ET
+676.36 310.48 54.00 18.00 re S
+BT
+693.76 322.16 TD
+(Abs.) Tj
+ET
+730.36 310.48 27.00 18.00 re S
+BT
+741.44 322.16 TD
+(%) Tj
+ET
+622.36 310.48 54.00 31.52 re S
+BT
+634.96 335.64 TD
+(Avance) Tj
+2.40 -8.52 TD
+(Acum.) Tj
+-2.40 -8.48 TD
+( Anual) Tj
+ET
+676.36 233.96 81.00 31.52 re S
+BT
+690.44 249.68 TD
+/F1 8.00 Tf
+(Variacion %) Tj
+ET
+q 54.00 0 0 28.44 37.36 547.56 cm /im2530 Do Q
+32.84 279.00 724.52 27.00 re S
+32.84 292.48 54.00 13.52 re S
+BT
+57.44 299.64 TD
+/F0 8.00 Tf
+(1) Tj
+ET
+32.84 278.96 54.00 13.52 re S
+BT
+57.44 286.16 TD
+(2) Tj
+ET
+86.84 292.48 211.52 13.52 re S
+BT
+86.84 301.32 TD
+/F0 6.00 Tf
+(Apoyos municipales para adultos mayores gestionados) Tj
+ET
+86.84 278.96 211.52 13.52 re S
+BT
+86.84 287.84 TD
+(Entrega de apoyos a adultos mayores) Tj
+ET
+379.36 292.48 54.00 13.52 re S
+BT
+400.96 301.32 TD
+( 2,400.00) Tj
+ET
+379.36 278.96 54.00 13.52 re S
+BT
+400.96 287.84 TD
+( 2,400.00) Tj
+ET
+487.36 292.48 54.00 13.52 re S
+BT
+516.16 301.32 TD
+( 450.00) Tj
+ET
+487.36 278.96 54.00 13.52 re S
+BT
+516.16 287.84 TD
+( 450.00) Tj
+ET
+595.36 292.48 27.00 13.52 re S
+BT
+600.76 301.32 TD
+( 75.00) Tj
+ET
+595.36 278.96 27.00 13.52 re S
+BT
+600.76 287.84 TD
+( 75.00) Tj
+ET
+622.36 292.48 54.00 13.52 re S
+BT
+651.16 301.32 TD
+( 450.00) Tj
+ET
+622.36 278.96 54.00 13.52 re S
+BT
+651.16 287.84 TD
+( 450.00) Tj
+ET
+676.36 292.48 54.00 13.52 re S
+BT
+697.96 301.32 TD
+( 1,950.00) Tj
+ET
+676.36 278.96 54.00 13.52 re S
+BT
+697.96 287.84 TD
+( 1,950.00) Tj
+ET
+730.36 292.48 27.00 13.52 re S
+BT
+735.76 301.32 TD
+( 18.75) Tj
+ET
+730.36 278.96 27.00 13.52 re S
+BT
+735.76 287.84 TD
+( 18.75) Tj
+ET
+541.36 292.48 54.00 13.52 re S
+BT
+570.16 301.32 TD
+( 150.00) Tj
+ET
+541.36 278.96 54.00 13.52 re S
+BT
+570.16 287.84 TD
+( 150.00) Tj
+ET
+433.36 292.48 54.00 13.52 re S
+BT
+462.16 301.32 TD
+( 600.00) Tj
+ET
+433.36 278.96 54.00 13.52 re S
+BT
+462.16 287.84 TD
+( 600.00) Tj
+ET
+32.84 382.48 364.52 13.52 re S
+BT
+32.84 386.40 TD
+/F0 12.00 Tf
+(ENTE PUBLICO: ) Tj
+(NICOLAS ROMERO) Tj
+(       ) Tj
+ET
+95.84 418.48 198.00 27.00 re S
+BT
+101.84 437.48 TD
+/F1 10.00 Tf
+(  AVANCE TRIMESTRAL DE METAS DE) Tj
+36.00 -11.04 TD
+(ACCION POR PROYECTO) Tj
+ET
+32.84 418.48 63.00 27.00 re S
+BT
+32.84 437.48 TD
+( PbRM 08c) Tj
+ET
+397.36 382.48 94.52 13.52 re S
+BT
+397.36 386.40 TD
+/F0 12.00 Tf
+( No.: ) Tj
+(098) Tj
+-128.28 132.08 TD
+/F1 10.00 Tf
+(Presupuesto Basado en Resultados Municipal) Tj
+ET
+437.84 490.48 72.00 13.52 re S
+BT
+442.64 497.64 TD
+/F0 8.00 Tf
+(Identificador) Tj
+ET
+509.84 490.48 247.52 13.52 re S
+BT
+509.84 497.64 TD
+( Denominación) Tj
+ET
+32.84 355.48 724.52 13.52 re S
+BT
+216.28 359.40 TD
+/F0 12.00 Tf
+(Avance Trimestral de Metas de Acción por Proyecto) Tj
+/F0 8.00 Tf
+( ) Tj
+ET
+541.36 328.48 81.00 13.52 re S
+BT
+545.84 335.64 TD
+(Var. Trimestral) Tj
+ET
+676.36 328.48 81.00 13.52 re S
+BT
+692.84 335.64 TD
+(Var. Anual) Tj
+ET
+541.36 310.48 54.00 18.00 re S
+BT
+558.76 322.16 TD
+(Abs.) Tj
+ET
+595.36 310.48 27.00 18.00 re S
+BT
+606.44 322.16 TD
+(%) Tj
+ET
+298.36 292.48 81.00 13.52 re S
+BT
+298.36 301.32 TD
+/F0 6.00 Tf
+(APOYO) Tj
+ET
+298.36 278.96 81.00 13.52 re S
+BT
+298.36 287.84 TD
+(APOYO) Tj
+ET
+541.36 233.96 135.00 31.52 re S
+BT
+560.84 258.80 TD
+/F1 8.00 Tf
+(Presupuesto Ejercido) Tj
+-4.80 -9.12 TD
+(Acumulado al Trimestre) Tj
+24.00 -9.12 TD
+(por Proyecto) Tj
+ET
+406.36 233.96 135.00 31.52 re S
+BT
+447.44 258.80 TD
+(Presupuesto) Tj
+-21.60 -9.12 TD
+(Autorizado Anual por) Tj
+28.80 -9.12 TD
+(Proyecto) Tj
+ET
+32.84 148.48 211.52 49.52 re S
+BT
+121.80 182.16 TD
+(ELABORO) Tj
+ET
+545.84 148.48 211.52 49.52 re S
+BT
+632.40 182.16 TD
+(AUTORIZO) Tj
+ET
+289.36 148.48 211.52 49.52 re S
+BT
+380.68 182.16 TD
+(REVISO) Tj
+ET
+437.84 463.48 72.00 13.52 re S
+BT
+464.24 470.28 TD
+(0608) Tj
+-136.80 0.00 TD
+(FUNCION Y SUBFUNCION : ) Tj
+ET
+509.84 463.48 247.52 13.52 re S
+BT
+509.84 470.28 TD
+(Otros grupos vulnerables) Tj
+ET
+437.84 436.48 72.00 13.52 re S
+BT
+469.04 443.28 TD
+(02) Tj
+-84.00 0.00 TD
+(PROYECTO : ) Tj
+ET
+509.84 436.48 247.52 13.52 re S
+BT
+509.84 443.28 TD
+(Asistencia social a los adultos mayores) Tj
+ET
+endstream
+endobj
+45 0 obj
+6096
+endobj
+43 0 obj
+<<
+/Type /Page
+/MediaBox [0 0 792 612]
+/Parent 3 0 R
+/Resources <</ProcSet [ /PDF /Text /ImageC ] /Font << /F0 9 0 R /F1 10 0 R >> /XObject << /im2530 11 0 R >> >>
+/Contents 44 0 R
+/CropBox [0 0 792 612]
+>>
+endobj
+47 0 obj
+<</Length 48 0 R>>
+stream
+BT
+364.80 29.64 TD
+/F0 8.00 Tf
+(Hoja ) Tj
+(13) Tj
+( de ) Tj
+(16) Tj
+-32.56 400.16 TD
+/F1 8.00 Tf
+(DEPENDENCIA GENERAL : ) Tj
+ET
+0.00 w
+0 J
+0 j
+406.36 183.44 135.00 18.00 re S
+BT
+434.84 193.40 TD
+/F1 10.00 Tf
+( 2,795,624.00) Tj
+ET
+541.36 183.44 135.00 18.00 re S
+BT
+575.84 193.40 TD
+( 602,092.02) Tj
+ET
+676.36 183.44 81.00 18.00 re S
+BT
+698.84 193.40 TD
+( 21.54) Tj
+ET
+437.84 409.48 72.00 13.52 re S
+BT
+466.64 416.28 TD
+/F1 8.00 Tf
+(300) Tj
+-139.20 0.00 TD
+(DEPENDENCIA AUXILIAR : ) Tj
+ET
+509.84 409.48 247.52 13.52 re S
+BT
+509.84 416.28 TD
+(SECRETARIA PARTICULAR) Tj
+ET
+437.84 476.96 72.00 13.52 re S
+BT
+469.04 483.80 TD
+(02) Tj
+-88.80 0.00 TD
+(FINALIDAD : ) Tj
+ET
+509.84 476.96 247.52 13.52 re S
+BT
+509.84 483.80 TD
+(Desarrollo social) Tj
+ET
+437.84 449.96 72.00 13.52 re S
+BT
+464.24 456.80 TD
+(0401) Tj
+-146.40 0.00 TD
+(PROGRAMA Y SUBPROGRAMA : ) Tj
+ET
+509.84 449.96 247.52 13.52 re S
+BT
+509.84 456.80 TD
+(Prevención y bienestar familiar) Tj
+ET
+437.84 422.96 72.00 13.52 re S
+BT
+466.64 429.80 TD
+(B00) Tj
+ET
+509.84 422.96 247.52 13.52 re S
+BT
+509.84 429.80 TD
+(DIRECCION GENERAL) Tj
+ET
+32.84 310.48 724.52 58.52 re S
+86.84 310.48 211.52 45.00 re S
+BT
+159.00 340.64 TD
+/F0 8.00 Tf
+(Descripción de) Tj
+14.40 -8.52 TD
+(Acciones) Tj
+ET
+32.84 310.48 54.00 45.00 re S
+BT
+38.24 340.64 TD
+(Código de) Tj
+7.20 -8.52 TD
+(Acción) Tj
+ET
+298.36 310.48 81.00 45.00 re S
+BT
+324.44 340.64 TD
+(Unidad) Tj
+7.20 -8.52 TD
+( de) Tj
+-7.20 -8.48 TD
+(Medida) Tj
+ET
+433.36 341.96 324.00 13.52 re S
+BT
+552.16 349.16 TD
+(Periodo Trimestral) Tj
+ET
+379.36 310.48 54.00 45.00 re S
+BT
+382.36 340.64 TD
+(Programada) Tj
+12.00 -8.52 TD
+(Anual) Tj
+ET
+433.36 310.48 54.00 31.52 re S
+BT
+436.36 327.12 TD
+(Programado) Tj
+ET
+487.36 310.48 54.00 31.52 re S
+BT
+499.96 327.12 TD
+(Avance) Tj
+ET
+676.36 310.48 54.00 18.00 re S
+BT
+693.76 322.16 TD
+(Abs.) Tj
+ET
+730.36 310.48 27.00 18.00 re S
+BT
+741.44 322.16 TD
+(%) Tj
+ET
+622.36 310.48 54.00 31.52 re S
+BT
+634.96 335.64 TD
+(Avance) Tj
+2.40 -8.52 TD
+(Acum.) Tj
+-2.40 -8.48 TD
+( Anual) Tj
+ET
+676.36 201.40 81.00 31.52 re S
+BT
+690.44 217.12 TD
+/F1 8.00 Tf
+(Variacion %) Tj
+ET
+q 54.00 0 0 28.44 37.36 547.56 cm /im2530 Do Q
+32.84 246.44 724.52 59.56 re S
+32.84 292.48 54.00 13.52 re S
+BT
+57.44 299.64 TD
+/F0 8.00 Tf
+(1) Tj
+ET
+32.84 273.40 54.00 13.52 re S
+BT
+57.44 280.60 TD
+(2) Tj
+ET
+32.84 259.92 54.00 13.52 re S
+BT
+57.44 267.08 TD
+(3) Tj
+ET
+32.84 246.40 54.00 13.52 re S
+BT
+57.44 253.60 TD
+(4) Tj
+ET
+86.84 286.92 211.52 19.08 re S
+BT
+86.84 301.32 TD
+/F0 6.00 Tf
+(Porcentaje en la prestación de servicios asistenciales) Tj
+0.00 -6.36 TD
+(orientados al apoyo de familias vulnerables o/y sujetas a) Tj
+0.00 -6.36 TD
+(asistencia social) Tj
+ET
+86.84 273.40 211.52 13.52 re S
+BT
+86.84 282.28 TD
+(Porcentaje en el otorgamiento de Consultas médicas) Tj
+ET
+86.84 259.92 211.52 13.52 re S
+BT
+86.84 268.76 TD
+(Porcentaje en el otorgamiento de apoyo psicológico) Tj
+ET
+86.84 246.40 211.52 13.52 re S
+BT
+86.84 255.28 TD
+(Porcentaje en el otorgamiento de Asesoría Jurídica) Tj
+ET
+379.36 292.48 54.00 13.52 re S
+BT
+397.36 301.32 TD
+( 31,848.00) Tj
+ET
+379.36 273.40 54.00 13.52 re S
+BT
+397.36 282.28 TD
+( 26,000.00) Tj
+ET
+379.36 259.92 54.00 13.52 re S
+BT
+400.96 268.76 TD
+( 3,000.00) Tj
+ET
+379.36 246.40 54.00 13.52 re S
+BT
+400.96 255.28 TD
+( 2,850.00) Tj
+ET
+487.36 292.48 54.00 13.52 re S
+BT
+508.96 301.32 TD
+( 7,962.00) Tj
+ET
+487.36 273.40 54.00 13.52 re S
+BT
+508.96 282.28 TD
+( 6,500.00) Tj
+ET
+487.36 259.92 54.00 13.52 re S
+BT
+516.16 268.76 TD
+( 750.00) Tj
+ET
+487.36 246.40 54.00 13.52 re S
+BT
+516.16 255.28 TD
+( 600.00) Tj
+ET
+595.36 292.48 27.00 13.52 re S
+BT
+597.16 301.32 TD
+( 100.00) Tj
+ET
+595.36 273.40 27.00 13.52 re S
+BT
+597.16 282.28 TD
+( 100.00) Tj
+ET
+595.36 259.92 27.00 13.52 re S
+BT
+597.16 268.76 TD
+( 100.00) Tj
+ET
+595.36 246.40 27.00 13.52 re S
+BT
+597.16 255.28 TD
+( 100.00) Tj
+ET
+622.36 292.48 54.00 13.52 re S
+BT
+643.96 301.32 TD
+( 7,962.00) Tj
+ET
+622.36 273.40 54.00 13.52 re S
+BT
+643.96 282.28 TD
+( 6,500.00) Tj
+ET
+622.36 259.92 54.00 13.52 re S
+BT
+651.16 268.76 TD
+( 750.00) Tj
+ET
+622.36 246.40 54.00 13.52 re S
+BT
+651.16 255.28 TD
+( 600.00) Tj
+ET
+676.36 292.48 54.00 13.52 re S
+BT
+694.36 301.32 TD
+( 23,886.00) Tj
+ET
+676.36 273.40 54.00 13.52 re S
+BT
+694.36 282.28 TD
+( 19,500.00) Tj
+ET
+676.36 259.92 54.00 13.52 re S
+BT
+697.96 268.76 TD
+( 2,250.00) Tj
+ET
+676.36 246.40 54.00 13.52 re S
+BT
+697.96 255.28 TD
+( 2,250.00) Tj
+ET
+730.36 292.48 27.00 13.52 re S
+BT
+735.76 301.32 TD
+( 25.00) Tj
+ET
+730.36 273.40 27.00 13.52 re S
+BT
+735.76 282.28 TD
+( 25.00) Tj
+ET
+730.36 259.92 27.00 13.52 re S
+BT
+735.76 268.76 TD
+( 25.00) Tj
+ET
+730.36 246.40 27.00 13.52 re S
+BT
+735.76 255.28 TD
+( 21.05) Tj
+ET
+541.36 292.48 54.00 13.52 re S
+BT
+577.36 301.32 TD
+( 0.00) Tj
+ET
+541.36 273.40 54.00 13.52 re S
+BT
+577.36 282.28 TD
+( 0.00) Tj
+ET
+541.36 259.92 54.00 13.52 re S
+BT
+577.36 268.76 TD
+( 0.00) Tj
+ET
+541.36 246.40 54.00 13.52 re S
+BT
+577.36 255.28 TD
+( 0.00) Tj
+ET
+433.36 292.48 54.00 13.52 re S
+BT
+454.96 301.32 TD
+( 7,962.00) Tj
+ET
+433.36 273.40 54.00 13.52 re S
+BT
+454.96 282.28 TD
+( 6,500.00) Tj
+ET
+433.36 259.92 54.00 13.52 re S
+BT
+462.16 268.76 TD
+( 750.00) Tj
+ET
+433.36 246.40 54.00 13.52 re S
+BT
+462.16 255.28 TD
+( 600.00) Tj
+ET
+32.84 382.48 364.52 13.52 re S
+BT
+32.84 386.40 TD
+/F0 12.00 Tf
+(ENTE PUBLICO: ) Tj
+(NICOLAS ROMERO) Tj
+(       ) Tj
+ET
+95.84 418.48 198.00 27.00 re S
+BT
+101.84 437.48 TD
+/F1 10.00 Tf
+(  AVANCE TRIMESTRAL DE METAS DE) Tj
+36.00 -11.04 TD
+(ACCION POR PROYECTO) Tj
+ET
+32.84 418.48 63.00 27.00 re S
+BT
+32.84 437.48 TD
+( PbRM 08c) Tj
+ET
+397.36 382.48 94.52 13.52 re S
+BT
+397.36 386.40 TD
+/F0 12.00 Tf
+( No.: ) Tj
+(098) Tj
+-128.28 132.08 TD
+/F1 10.00 Tf
+(Presupuesto Basado en Resultados Municipal) Tj
+ET
+437.84 490.48 72.00 13.52 re S
+BT
+442.64 497.64 TD
+/F0 8.00 Tf
+(Identificador) Tj
+ET
+509.84 490.48 247.52 13.52 re S
+BT
+509.84 497.64 TD
+( Denominación) Tj
+ET
+32.84 355.48 724.52 13.52 re S
+BT
+216.28 359.40 TD
+/F0 12.00 Tf
+(Avance Trimestral de Metas de Acción por Proyecto) Tj
+/F0 8.00 Tf
+( ) Tj
+ET
+541.36 328.48 81.00 13.52 re S
+BT
+545.84 335.64 TD
+(Var. Trimestral) Tj
+ET
+676.36 328.48 81.00 13.52 re S
+BT
+692.84 335.64 TD
+(Var. Anual) Tj
+ET
+541.36 310.48 54.00 18.00 re S
+BT
+558.76 322.16 TD
+(Abs.) Tj
+ET
+595.36 310.48 27.00 18.00 re S
+BT
+606.44 322.16 TD
+(%) Tj
+ET
+298.36 292.48 81.00 13.52 re S
+BT
+298.36 301.32 TD
+/F0 6.00 Tf
+(servicios) Tj
+ET
+298.36 273.40 81.00 13.52 re S
+BT
+298.36 282.28 TD
+(consultas) Tj
+ET
+298.36 259.92 81.00 13.52 re S
+BT
+298.36 268.76 TD
+(apoyo) Tj
+ET
+298.36 246.40 81.00 13.52 re S
+BT
+298.36 255.28 TD
+(asesorias) Tj
+ET
+541.36 201.40 135.00 31.52 re S
+BT
+560.84 226.24 TD
+/F1 8.00 Tf
+(Presupuesto Ejercido) Tj
+-4.80 -9.12 TD
+(Acumulado al Trimestre) Tj
+24.00 -9.12 TD
+(por Proyecto) Tj
+ET
+406.36 201.40 135.00 31.52 re S
+BT
+447.44 226.24 TD
+(Presupuesto) Tj
+-21.60 -9.12 TD
+(Autorizado Anual por) Tj
+28.80 -9.12 TD
+(Proyecto) Tj
+ET
+32.84 115.92 211.52 49.52 re S
+BT
+121.80 149.60 TD
+(ELABORO) Tj
+ET
+545.84 115.92 211.52 49.52 re S
+BT
+632.40 149.60 TD
+(AUTORIZO) Tj
+ET
+289.36 115.92 211.52 49.52 re S
+BT
+380.68 149.60 TD
+(REVISO) Tj
+ET
+437.84 463.48 72.00 13.52 re S
+BT
+464.24 470.28 TD
+(0608) Tj
+-136.80 0.00 TD
+(FUNCION Y SUBFUNCION : ) Tj
+ET
+509.84 463.48 247.52 13.52 re S
+BT
+509.84 470.28 TD
+(Otros grupos vulnerables) Tj
+ET
+437.84 436.48 72.00 13.52 re S
+BT
+469.04 443.28 TD
+(01) Tj
+-84.00 0.00 TD
+(PROYECTO : ) Tj
+ET
+509.84 436.48 247.52 13.52 re S
+BT
+509.84 443.28 TD
+(Fomento a la integración de la familia) Tj
+ET
+endstream
+endobj
+48 0 obj
+7895
+endobj
+46 0 obj
+<<
+/Type /Page
+/MediaBox [0 0 792 612]
+/Parent 3 0 R
+/Resources <</ProcSet [ /PDF /Text /ImageC ] /Font << /F0 9 0 R /F1 10 0 R >> /XObject << /im2530 11 0 R >> >>
+/Contents 47 0 R
+/CropBox [0 0 792 612]
+>>
+endobj
+50 0 obj
+<</Length 51 0 R>>
+stream
+BT
+364.80 29.64 TD
+/F0 8.00 Tf
+(Hoja ) Tj
+(14) Tj
+( de ) Tj
+(16) Tj
+-32.56 400.16 TD
+/F1 8.00 Tf
+(DEPENDENCIA GENERAL : ) Tj
+ET
+0.00 w
+0 J
+0 j
+406.36 216.00 135.00 18.00 re S
+BT
+434.84 225.96 TD
+/F1 10.00 Tf
+( 1,006,400.00) Tj
+ET
+541.36 216.00 135.00 18.00 re S
+BT
+575.84 225.96 TD
+( 236,225.51) Tj
+ET
+676.36 216.00 81.00 18.00 re S
+BT
+698.84 225.96 TD
+( 23.47) Tj
+ET
+437.84 409.48 72.00 13.52 re S
+BT
+466.64 416.28 TD
+/F1 8.00 Tf
+(312) Tj
+-139.20 0.00 TD
+(DEPENDENCIA AUXILIAR : ) Tj
+ET
+509.84 409.48 247.52 13.52 re S
+BT
+509.84 416.28 TD
+(AREA DE SERVICIOS JURIDICOS) Tj
+ET
+437.84 476.96 72.00 13.52 re S
+BT
+469.04 483.80 TD
+(02) Tj
+-88.80 0.00 TD
+(FINALIDAD : ) Tj
+ET
+509.84 476.96 247.52 13.52 re S
+BT
+509.84 483.80 TD
+(Desarrollo social) Tj
+ET
+437.84 449.96 72.00 13.52 re S
+BT
+464.24 456.80 TD
+(0401) Tj
+-146.40 0.00 TD
+(PROGRAMA Y SUBPROGRAMA : ) Tj
+ET
+509.84 449.96 247.52 13.52 re S
+BT
+509.84 456.80 TD
+(Prevención y bienestar familiar) Tj
+ET
+437.84 422.96 72.00 13.52 re S
+BT
+466.64 429.80 TD
+(B00) Tj
+ET
+509.84 422.96 247.52 13.52 re S
+BT
+509.84 429.80 TD
+(DIRECCION GENERAL) Tj
+ET
+32.84 310.48 724.52 58.52 re S
+86.84 310.48 211.52 45.00 re S
+BT
+159.00 340.64 TD
+/F0 8.00 Tf
+(Descripción de) Tj
+14.40 -8.52 TD
+(Acciones) Tj
+ET
+32.84 310.48 54.00 45.00 re S
+BT
+38.24 340.64 TD
+(Código de) Tj
+7.20 -8.52 TD
+(Acción) Tj
+ET
+298.36 310.48 81.00 45.00 re S
+BT
+324.44 340.64 TD
+(Unidad) Tj
+7.20 -8.52 TD
+( de) Tj
+-7.20 -8.48 TD
+(Medida) Tj
+ET
+433.36 341.96 324.00 13.52 re S
+BT
+552.16 349.16 TD
+(Periodo Trimestral) Tj
+ET
+379.36 310.48 54.00 45.00 re S
+BT
+382.36 340.64 TD
+(Programada) Tj
+12.00 -8.52 TD
+(Anual) Tj
+ET
+433.36 310.48 54.00 31.52 re S
+BT
+436.36 327.12 TD
+(Programado) Tj
+ET
+487.36 310.48 54.00 31.52 re S
+BT
+499.96 327.12 TD
+(Avance) Tj
+ET
+676.36 310.48 54.00 18.00 re S
+BT
+693.76 322.16 TD
+(Abs.) Tj
+ET
+730.36 310.48 27.00 18.00 re S
+BT
+741.44 322.16 TD
+(%) Tj
+ET
+622.36 310.48 54.00 31.52 re S
+BT
+634.96 335.64 TD
+(Avance) Tj
+2.40 -8.52 TD
+(Acum.) Tj
+-2.40 -8.48 TD
+( Anual) Tj
+ET
+676.36 233.96 81.00 31.52 re S
+BT
+690.44 249.68 TD
+/F1 8.00 Tf
+(Variacion %) Tj
+ET
+q 54.00 0 0 28.44 37.36 547.56 cm /im2530 Do Q
+32.84 279.00 724.52 27.00 re S
+32.84 292.48 54.00 13.52 re S
+BT
+57.44 299.64 TD
+/F0 8.00 Tf
+(1) Tj
+ET
+32.84 278.96 54.00 13.52 re S
+BT
+57.44 286.16 TD
+(2) Tj
+ET
+86.84 292.48 211.52 13.52 re S
+BT
+86.84 301.32 TD
+/F0 6.00 Tf
+(Programa Integral de asistencia medica, psicologica y) Tj
+0.00 -6.36 TD
+(juridica brindada.) Tj
+ET
+86.84 278.96 211.52 13.52 re S
+BT
+86.84 287.84 TD
+(Imparticion de Asesorias) Tj
+ET
+379.36 292.48 54.00 13.52 re S
+BT
+400.96 301.32 TD
+( 2,850.00) Tj
+ET
+379.36 278.96 54.00 13.52 re S
+BT
+400.96 287.84 TD
+( 2,850.00) Tj
+ET
+487.36 292.48 54.00 13.52 re S
+BT
+516.16 301.32 TD
+( 600.00) Tj
+ET
+487.36 278.96 54.00 13.52 re S
+BT
+516.16 287.84 TD
+( 600.00) Tj
+ET
+595.36 292.48 27.00 13.52 re S
+BT
+597.16 301.32 TD
+( 100.00) Tj
+ET
+595.36 278.96 27.00 13.52 re S
+BT
+597.16 287.84 TD
+( 100.00) Tj
+ET
+622.36 292.48 54.00 13.52 re S
+BT
+651.16 301.32 TD
+( 600.00) Tj
+ET
+622.36 278.96 54.00 13.52 re S
+BT
+651.16 287.84 TD
+( 600.00) Tj
+ET
+676.36 292.48 54.00 13.52 re S
+BT
+697.96 301.32 TD
+( 2,250.00) Tj
+ET
+676.36 278.96 54.00 13.52 re S
+BT
+697.96 287.84 TD
+( 2,250.00) Tj
+ET
+730.36 292.48 27.00 13.52 re S
+BT
+735.76 301.32 TD
+( 21.05) Tj
+ET
+730.36 278.96 27.00 13.52 re S
+BT
+735.76 287.84 TD
+( 21.05) Tj
+ET
+541.36 292.48 54.00 13.52 re S
+BT
+577.36 301.32 TD
+( 0.00) Tj
+ET
+541.36 278.96 54.00 13.52 re S
+BT
+577.36 287.84 TD
+( 0.00) Tj
+ET
+433.36 292.48 54.00 13.52 re S
+BT
+462.16 301.32 TD
+( 600.00) Tj
+ET
+433.36 278.96 54.00 13.52 re S
+BT
+462.16 287.84 TD
+( 600.00) Tj
+ET
+32.84 382.48 364.52 13.52 re S
+BT
+32.84 386.40 TD
+/F0 12.00 Tf
+(ENTE PUBLICO: ) Tj
+(NICOLAS ROMERO) Tj
+(       ) Tj
+ET
+95.84 418.48 198.00 27.00 re S
+BT
+101.84 437.48 TD
+/F1 10.00 Tf
+(  AVANCE TRIMESTRAL DE METAS DE) Tj
+36.00 -11.04 TD
+(ACCION POR PROYECTO) Tj
+ET
+32.84 418.48 63.00 27.00 re S
+BT
+32.84 437.48 TD
+( PbRM 08c) Tj
+ET
+397.36 382.48 94.52 13.52 re S
+BT
+397.36 386.40 TD
+/F0 12.00 Tf
+( No.: ) Tj
+(098) Tj
+-128.28 132.08 TD
+/F1 10.00 Tf
+(Presupuesto Basado en Resultados Municipal) Tj
+ET
+437.84 490.48 72.00 13.52 re S
+BT
+442.64 497.64 TD
+/F0 8.00 Tf
+(Identificador) Tj
+ET
+509.84 490.48 247.52 13.52 re S
+BT
+509.84 497.64 TD
+( Denominación) Tj
+ET
+32.84 355.48 724.52 13.52 re S
+BT
+216.28 359.40 TD
+/F0 12.00 Tf
+(Avance Trimestral de Metas de Acción por Proyecto) Tj
+/F0 8.00 Tf
+( ) Tj
+ET
+541.36 328.48 81.00 13.52 re S
+BT
+545.84 335.64 TD
+(Var. Trimestral) Tj
+ET
+676.36 328.48 81.00 13.52 re S
+BT
+692.84 335.64 TD
+(Var. Anual) Tj
+ET
+541.36 310.48 54.00 18.00 re S
+BT
+558.76 322.16 TD
+(Abs.) Tj
+ET
+595.36 310.48 27.00 18.00 re S
+BT
+606.44 322.16 TD
+(%) Tj
+ET
+298.36 292.48 81.00 13.52 re S
+BT
+298.36 301.32 TD
+/F0 6.00 Tf
+(0) Tj
+ET
+298.36 278.96 81.00 13.52 re S
+BT
+298.36 287.84 TD
+(0) Tj
+ET
+541.36 233.96 135.00 31.52 re S
+BT
+560.84 258.80 TD
+/F1 8.00 Tf
+(Presupuesto Ejercido) Tj
+-4.80 -9.12 TD
+(Acumulado al Trimestre) Tj
+24.00 -9.12 TD
+(por Proyecto) Tj
+ET
+406.36 233.96 135.00 31.52 re S
+BT
+447.44 258.80 TD
+(Presupuesto) Tj
+-21.60 -9.12 TD
+(Autorizado Anual por) Tj
+28.80 -9.12 TD
+(Proyecto) Tj
+ET
+32.84 148.48 211.52 49.52 re S
+BT
+121.80 182.16 TD
+(ELABORO) Tj
+ET
+545.84 148.48 211.52 49.52 re S
+BT
+632.40 182.16 TD
+(AUTORIZO) Tj
+ET
+289.36 148.48 211.52 49.52 re S
+BT
+380.68 182.16 TD
+(REVISO) Tj
+ET
+437.84 463.48 72.00 13.52 re S
+BT
+464.24 470.28 TD
+(0608) Tj
+-136.80 0.00 TD
+(FUNCION Y SUBFUNCION : ) Tj
+ET
+509.84 463.48 247.52 13.52 re S
+BT
+509.84 470.28 TD
+(Otros grupos vulnerables) Tj
+ET
+437.84 436.48 72.00 13.52 re S
+BT
+469.04 443.28 TD
+(03) Tj
+-84.00 0.00 TD
+(PROYECTO : ) Tj
+ET
+509.84 436.48 247.52 13.52 re S
+BT
+509.84 443.28 TD
+(Servicios jurídico asistenciales a la familia) Tj
+ET
+endstream
+endobj
+51 0 obj
+6117
+endobj
+49 0 obj
+<<
+/Type /Page
+/MediaBox [0 0 792 612]
+/Parent 3 0 R
+/Resources <</ProcSet [ /PDF /Text /ImageC ] /Font << /F0 9 0 R /F1 10 0 R >> /XObject << /im2530 11 0 R >> >>
+/Contents 50 0 R
+/CropBox [0 0 792 612]
+>>
+endobj
+53 0 obj
+<</Length 54 0 R>>
+stream
+BT
+364.80 29.64 TD
+/F0 8.00 Tf
+(Hoja ) Tj
+(15) Tj
+( de ) Tj
+(16) Tj
+-32.56 400.16 TD
+/F1 8.00 Tf
+(DEPENDENCIA GENERAL : ) Tj
+ET
+0.00 w
+0 J
+0 j
+406.36 216.00 135.00 18.00 re S
+BT
+443.84 225.96 TD
+/F1 10.00 Tf
+( 13,000.00) Tj
+ET
+541.36 216.00 135.00 18.00 re S
+BT
+593.84 225.96 TD
+( 0.00) Tj
+ET
+676.36 216.00 81.00 18.00 re S
+BT
+701.84 225.96 TD
+( 0.00) Tj
+ET
+437.84 409.48 72.00 13.52 re S
+BT
+466.64 416.28 TD
+/F1 8.00 Tf
+(310) Tj
+-139.20 0.00 TD
+(DEPENDENCIA AUXILIAR : ) Tj
+ET
+509.84 409.48 247.52 13.52 re S
+BT
+509.84 416.28 TD
+(AREA DE SALUD Y DEPORTE) Tj
+ET
+437.84 476.96 72.00 13.52 re S
+BT
+469.04 483.80 TD
+(02) Tj
+-88.80 0.00 TD
+(FINALIDAD : ) Tj
+ET
+509.84 476.96 247.52 13.52 re S
+BT
+509.84 483.80 TD
+(Desarrollo social) Tj
+ET
+437.84 449.96 72.00 13.52 re S
+BT
+464.24 456.80 TD
+(0401) Tj
+-146.40 0.00 TD
+(PROGRAMA Y SUBPROGRAMA : ) Tj
+ET
+509.84 449.96 247.52 13.52 re S
+BT
+509.84 456.80 TD
+(Prevención y bienestar familiar) Tj
+ET
+437.84 422.96 72.00 13.52 re S
+BT
+466.64 429.80 TD
+(B00) Tj
+ET
+509.84 422.96 247.52 13.52 re S
+BT
+509.84 429.80 TD
+(DIRECCION GENERAL) Tj
+ET
+32.84 310.48 724.52 58.52 re S
+86.84 310.48 211.52 45.00 re S
+BT
+159.00 340.64 TD
+/F0 8.00 Tf
+(Descripción de) Tj
+14.40 -8.52 TD
+(Acciones) Tj
+ET
+32.84 310.48 54.00 45.00 re S
+BT
+38.24 340.64 TD
+(Código de) Tj
+7.20 -8.52 TD
+(Acción) Tj
+ET
+298.36 310.48 81.00 45.00 re S
+BT
+324.44 340.64 TD
+(Unidad) Tj
+7.20 -8.52 TD
+( de) Tj
+-7.20 -8.48 TD
+(Medida) Tj
+ET
+433.36 341.96 324.00 13.52 re S
+BT
+552.16 349.16 TD
+(Periodo Trimestral) Tj
+ET
+379.36 310.48 54.00 45.00 re S
+BT
+382.36 340.64 TD
+(Programada) Tj
+12.00 -8.52 TD
+(Anual) Tj
+ET
+433.36 310.48 54.00 31.52 re S
+BT
+436.36 327.12 TD
+(Programado) Tj
+ET
+487.36 310.48 54.00 31.52 re S
+BT
+499.96 327.12 TD
+(Avance) Tj
+ET
+676.36 310.48 54.00 18.00 re S
+BT
+693.76 322.16 TD
+(Abs.) Tj
+ET
+730.36 310.48 27.00 18.00 re S
+BT
+741.44 322.16 TD
+(%) Tj
+ET
+622.36 310.48 54.00 31.52 re S
+BT
+634.96 335.64 TD
+(Avance) Tj
+2.40 -8.52 TD
+(Acum.) Tj
+-2.40 -8.48 TD
+( Anual) Tj
+ET
+676.36 233.96 81.00 31.52 re S
+BT
+690.44 249.68 TD
+/F1 8.00 Tf
+(Variacion %) Tj
+ET
+q 54.00 0 0 28.44 37.36 547.56 cm /im2530 Do Q
+32.84 279.00 724.52 27.00 re S
+32.84 292.48 54.00 13.52 re S
+BT
+57.44 299.64 TD
+/F0 8.00 Tf
+(1) Tj
+ET
+32.84 278.96 54.00 13.52 re S
+BT
+57.44 286.16 TD
+(2) Tj
+ET
+86.84 292.48 211.52 13.52 re S
+BT
+86.84 301.32 TD
+/F0 6.00 Tf
+(Programa integral de asistencia medica, psicologico y) Tj
+0.00 -6.36 TD
+(juridica brindada) Tj
+ET
+86.84 278.96 211.52 13.52 re S
+BT
+86.84 287.84 TD
+(Impartición de consultas de apoyo psicológico) Tj
+ET
+379.36 292.48 54.00 13.52 re S
+BT
+400.96 301.32 TD
+( 3,000.00) Tj
+ET
+379.36 278.96 54.00 13.52 re S
+BT
+400.96 287.84 TD
+( 3,000.00) Tj
+ET
+487.36 292.48 54.00 13.52 re S
+BT
+516.16 301.32 TD
+( 750.00) Tj
+ET
+487.36 278.96 54.00 13.52 re S
+BT
+516.16 287.84 TD
+( 750.00) Tj
+ET
+595.36 292.48 27.00 13.52 re S
+BT
+597.16 301.32 TD
+( 100.00) Tj
+ET
+595.36 278.96 27.00 13.52 re S
+BT
+597.16 287.84 TD
+( 100.00) Tj
+ET
+622.36 292.48 54.00 13.52 re S
+BT
+651.16 301.32 TD
+( 750.00) Tj
+ET
+622.36 278.96 54.00 13.52 re S
+BT
+651.16 287.84 TD
+( 750.00) Tj
+ET
+676.36 292.48 54.00 13.52 re S
+BT
+697.96 301.32 TD
+( 2,250.00) Tj
+ET
+676.36 278.96 54.00 13.52 re S
+BT
+697.96 287.84 TD
+( 2,250.00) Tj
+ET
+730.36 292.48 27.00 13.52 re S
+BT
+735.76 301.32 TD
+( 25.00) Tj
+ET
+730.36 278.96 27.00 13.52 re S
+BT
+735.76 287.84 TD
+( 25.00) Tj
+ET
+541.36 292.48 54.00 13.52 re S
+BT
+577.36 301.32 TD
+( 0.00) Tj
+ET
+541.36 278.96 54.00 13.52 re S
+BT
+577.36 287.84 TD
+( 0.00) Tj
+ET
+433.36 292.48 54.00 13.52 re S
+BT
+462.16 301.32 TD
+( 750.00) Tj
+ET
+433.36 278.96 54.00 13.52 re S
+BT
+462.16 287.84 TD
+( 750.00) Tj
+ET
+32.84 382.48 364.52 13.52 re S
+BT
+32.84 386.40 TD
+/F0 12.00 Tf
+(ENTE PUBLICO: ) Tj
+(NICOLAS ROMERO) Tj
+(       ) Tj
+ET
+95.84 418.48 198.00 27.00 re S
+BT
+101.84 437.48 TD
+/F1 10.00 Tf
+(  AVANCE TRIMESTRAL DE METAS DE) Tj
+36.00 -11.04 TD
+(ACCION POR PROYECTO) Tj
+ET
+32.84 418.48 63.00 27.00 re S
+BT
+32.84 437.48 TD
+( PbRM 08c) Tj
+ET
+397.36 382.48 94.52 13.52 re S
+BT
+397.36 386.40 TD
+/F0 12.00 Tf
+( No.: ) Tj
+(098) Tj
+-128.28 132.08 TD
+/F1 10.00 Tf
+(Presupuesto Basado en Resultados Municipal) Tj
+ET
+437.84 490.48 72.00 13.52 re S
+BT
+442.64 497.64 TD
+/F0 8.00 Tf
+(Identificador) Tj
+ET
+509.84 490.48 247.52 13.52 re S
+BT
+509.84 497.64 TD
+( Denominación) Tj
+ET
+32.84 355.48 724.52 13.52 re S
+BT
+216.28 359.40 TD
+/F0 12.00 Tf
+(Avance Trimestral de Metas de Acción por Proyecto) Tj
+/F0 8.00 Tf
+( ) Tj
+ET
+541.36 328.48 81.00 13.52 re S
+BT
+545.84 335.64 TD
+(Var. Trimestral) Tj
+ET
+676.36 328.48 81.00 13.52 re S
+BT
+692.84 335.64 TD
+(Var. Anual) Tj
+ET
+541.36 310.48 54.00 18.00 re S
+BT
+558.76 322.16 TD
+(Abs.) Tj
+ET
+595.36 310.48 27.00 18.00 re S
+BT
+606.44 322.16 TD
+(%) Tj
+ET
+298.36 292.48 81.00 13.52 re S
+BT
+298.36 301.32 TD
+/F0 6.00 Tf
+(APOYO) Tj
+ET
+298.36 278.96 81.00 13.52 re S
+BT
+298.36 287.84 TD
+(APOYO) Tj
+ET
+541.36 233.96 135.00 31.52 re S
+BT
+560.84 258.80 TD
+/F1 8.00 Tf
+(Presupuesto Ejercido) Tj
+-4.80 -9.12 TD
+(Acumulado al Trimestre) Tj
+24.00 -9.12 TD
+(por Proyecto) Tj
+ET
+406.36 233.96 135.00 31.52 re S
+BT
+447.44 258.80 TD
+(Presupuesto) Tj
+-21.60 -9.12 TD
+(Autorizado Anual por) Tj
+28.80 -9.12 TD
+(Proyecto) Tj
+ET
+32.84 148.48 211.52 49.52 re S
+BT
+121.80 182.16 TD
+(ELABORO) Tj
+ET
+545.84 148.48 211.52 49.52 re S
+BT
+632.40 182.16 TD
+(AUTORIZO) Tj
+ET
+289.36 148.48 211.52 49.52 re S
+BT
+380.68 182.16 TD
+(REVISO) Tj
+ET
+437.84 463.48 72.00 13.52 re S
+BT
+464.24 470.28 TD
+(0608) Tj
+-136.80 0.00 TD
+(FUNCION Y SUBFUNCION : ) Tj
+ET
+509.84 463.48 247.52 13.52 re S
+BT
+509.84 470.28 TD
+(Otros grupos vulnerables) Tj
+ET
+437.84 436.48 72.00 13.52 re S
+BT
+469.04 443.28 TD
+(06) Tj
+-84.00 0.00 TD
+(PROYECTO : ) Tj
+ET
+509.84 436.48 247.52 13.52 re S
+BT
+509.84 443.28 TD
+(Orientación y atención psicológica y psiquiátrica) Tj
+ET
+endstream
+endobj
+54 0 obj
+6135
+endobj
+52 0 obj
+<<
+/Type /Page
+/MediaBox [0 0 792 612]
+/Parent 3 0 R
+/Resources <</ProcSet [ /PDF /Text /ImageC ] /Font << /F0 9 0 R /F1 10 0 R >> /XObject << /im2530 11 0 R >> >>
+/Contents 53 0 R
+/CropBox [0 0 792 612]
+>>
+endobj
+56 0 obj
+<</Length 57 0 R>>
+stream
+BT
+364.80 29.64 TD
+/F0 8.00 Tf
+(Hoja ) Tj
+(16) Tj
+( de ) Tj
+(16) Tj
+-32.56 400.16 TD
+/F1 8.00 Tf
+(DEPENDENCIA GENERAL : ) Tj
+ET
+0.00 w
+0 J
+0 j
+406.36 216.00 135.00 18.00 re S
+BT
+434.84 225.96 TD
+/F1 10.00 Tf
+( 5,185,100.00) Tj
+ET
+541.36 216.00 135.00 18.00 re S
+BT
+569.84 225.96 TD
+( 1,155,955.11) Tj
+ET
+676.36 216.00 81.00 18.00 re S
+BT
+698.84 225.96 TD
+( 22.29) Tj
+ET
+437.84 409.48 72.00 13.52 re S
+BT
+466.64 416.28 TD
+/F1 8.00 Tf
+(309) Tj
+-139.20 0.00 TD
+(DEPENDENCIA AUXILIAR : ) Tj
+ET
+509.84 409.48 247.52 13.52 re S
+BT
+509.84 416.28 TD
+(AREA DE SERVICIOS EDUCATIVOS) Tj
+ET
+437.84 476.96 72.00 13.52 re S
+BT
+469.04 483.80 TD
+(02) Tj
+-88.80 0.00 TD
+(FINALIDAD : ) Tj
+ET
+509.84 476.96 247.52 13.52 re S
+BT
+509.84 483.80 TD
+(Desarrollo social) Tj
+ET
+437.84 449.96 72.00 13.52 re S
+BT
+464.24 456.80 TD
+(0501) Tj
+-146.40 0.00 TD
+(PROGRAMA Y SUBPROGRAMA : ) Tj
+ET
+509.84 449.96 247.52 13.52 re S
+BT
+509.84 456.80 TD
+(Integración de la mujer al desarrollo económico) Tj
+ET
+437.84 422.96 72.00 13.52 re S
+BT
+466.64 429.80 TD
+(B00) Tj
+ET
+509.84 422.96 247.52 13.52 re S
+BT
+509.84 429.80 TD
+(DIRECCION GENERAL) Tj
+ET
+32.84 310.48 724.52 58.52 re S
+86.84 310.48 211.52 45.00 re S
+BT
+159.00 340.64 TD
+/F0 8.00 Tf
+(Descripción de) Tj
+14.40 -8.52 TD
+(Acciones) Tj
+ET
+32.84 310.48 54.00 45.00 re S
+BT
+38.24 340.64 TD
+(Código de) Tj
+7.20 -8.52 TD
+(Acción) Tj
+ET
+298.36 310.48 81.00 45.00 re S
+BT
+324.44 340.64 TD
+(Unidad) Tj
+7.20 -8.52 TD
+( de) Tj
+-7.20 -8.48 TD
+(Medida) Tj
+ET
+433.36 341.96 324.00 13.52 re S
+BT
+552.16 349.16 TD
+(Periodo Trimestral) Tj
+ET
+379.36 310.48 54.00 45.00 re S
+BT
+382.36 340.64 TD
+(Programada) Tj
+12.00 -8.52 TD
+(Anual) Tj
+ET
+433.36 310.48 54.00 31.52 re S
+BT
+436.36 327.12 TD
+(Programado) Tj
+ET
+487.36 310.48 54.00 31.52 re S
+BT
+499.96 327.12 TD
+(Avance) Tj
+ET
+676.36 310.48 54.00 18.00 re S
+BT
+693.76 322.16 TD
+(Abs.) Tj
+ET
+730.36 310.48 27.00 18.00 re S
+BT
+741.44 322.16 TD
+(%) Tj
+ET
+622.36 310.48 54.00 31.52 re S
+BT
+634.96 335.64 TD
+(Avance) Tj
+2.40 -8.52 TD
+(Acum.) Tj
+-2.40 -8.48 TD
+( Anual) Tj
+ET
+676.36 233.96 81.00 31.52 re S
+BT
+690.44 249.68 TD
+/F1 8.00 Tf
+(Variacion %) Tj
+ET
+q 54.00 0 0 28.44 37.36 547.56 cm /im2530 Do Q
+32.84 279.00 724.52 27.00 re S
+32.84 292.48 54.00 13.52 re S
+BT
+57.44 299.64 TD
+/F0 8.00 Tf
+(1) Tj
+ET
+32.84 278.96 54.00 13.52 re S
+BT
+57.44 286.16 TD
+(2) Tj
+ET
+86.84 292.48 211.52 13.52 re S
+BT
+86.84 301.32 TD
+/F0 6.00 Tf
+(PORCENTAJE EN EL OTORGAMIENTO DE APOYOS ESCOLARES) Tj
+ET
+86.84 278.96 211.52 13.52 re S
+BT
+86.84 287.84 TD
+(PORCENTAJE DE LA EVALUACION DE SOLICITUDES DE APOYO) Tj
+ET
+379.36 292.48 54.00 13.52 re S
+BT
+408.16 301.32 TD
+( 500.00) Tj
+ET
+379.36 278.96 54.00 13.52 re S
+BT
+408.16 287.84 TD
+( 500.00) Tj
+ET
+487.36 292.48 54.00 13.52 re S
+BT
+516.16 301.32 TD
+( 500.00) Tj
+ET
+487.36 278.96 54.00 13.52 re S
+BT
+516.16 287.84 TD
+( 500.00) Tj
+ET
+595.36 292.48 27.00 13.52 re S
+BT
+597.16 301.32 TD
+( 100.00) Tj
+ET
+595.36 278.96 27.00 13.52 re S
+BT
+597.16 287.84 TD
+( 100.00) Tj
+ET
+622.36 292.48 54.00 13.52 re S
+BT
+651.16 301.32 TD
+( 500.00) Tj
+ET
+622.36 278.96 54.00 13.52 re S
+BT
+651.16 287.84 TD
+( 500.00) Tj
+ET
+676.36 292.48 54.00 13.52 re S
+BT
+712.36 301.32 TD
+( 0.00) Tj
+ET
+676.36 278.96 54.00 13.52 re S
+BT
+712.36 287.84 TD
+( 0.00) Tj
+ET
+730.36 292.48 27.00 13.52 re S
+BT
+732.16 301.32 TD
+( 100.00) Tj
+ET
+730.36 278.96 27.00 13.52 re S
+BT
+732.16 287.84 TD
+( 100.00) Tj
+ET
+541.36 292.48 54.00 13.52 re S
+BT
+577.36 301.32 TD
+( 0.00) Tj
+ET
+541.36 278.96 54.00 13.52 re S
+BT
+577.36 287.84 TD
+( 0.00) Tj
+ET
+433.36 292.48 54.00 13.52 re S
+BT
+462.16 301.32 TD
+( 500.00) Tj
+ET
+433.36 278.96 54.00 13.52 re S
+BT
+462.16 287.84 TD
+( 500.00) Tj
+ET
+32.84 382.48 364.52 13.52 re S
+BT
+32.84 386.40 TD
+/F0 12.00 Tf
+(ENTE PUBLICO: ) Tj
+(NICOLAS ROMERO) Tj
+(       ) Tj
+ET
+95.84 418.48 198.00 27.00 re S
+BT
+101.84 437.48 TD
+/F1 10.00 Tf
+(  AVANCE TRIMESTRAL DE METAS DE) Tj
+36.00 -11.04 TD
+(ACCION POR PROYECTO) Tj
+ET
+32.84 418.48 63.00 27.00 re S
+BT
+32.84 437.48 TD
+( PbRM 08c) Tj
+ET
+397.36 382.48 94.52 13.52 re S
+BT
+397.36 386.40 TD
+/F0 12.00 Tf
+( No.: ) Tj
+(098) Tj
+-128.28 132.08 TD
+/F1 10.00 Tf
+(Presupuesto Basado en Resultados Municipal) Tj
+ET
+437.84 490.48 72.00 13.52 re S
+BT
+442.64 497.64 TD
+/F0 8.00 Tf
+(Identificador) Tj
+ET
+509.84 490.48 247.52 13.52 re S
+BT
+509.84 497.64 TD
+( Denominación) Tj
+ET
+32.84 355.48 724.52 13.52 re S
+BT
+216.28 359.40 TD
+/F0 12.00 Tf
+(Avance Trimestral de Metas de Acción por Proyecto) Tj
+/F0 8.00 Tf
+( ) Tj
+ET
+541.36 328.48 81.00 13.52 re S
+BT
+545.84 335.64 TD
+(Var. Trimestral) Tj
+ET
+676.36 328.48 81.00 13.52 re S
+BT
+692.84 335.64 TD
+(Var. Anual) Tj
+ET
+541.36 310.48 54.00 18.00 re S
+BT
+558.76 322.16 TD
+(Abs.) Tj
+ET
+595.36 310.48 27.00 18.00 re S
+BT
+606.44 322.16 TD
+(%) Tj
+ET
+298.36 292.48 81.00 13.52 re S
+BT
+298.36 301.32 TD
+/F0 6.00 Tf
+(NIÑO) Tj
+ET
+298.36 278.96 81.00 13.52 re S
+BT
+298.36 287.84 TD
+(NIÑO) Tj
+ET
+541.36 233.96 135.00 31.52 re S
+BT
+560.84 258.80 TD
+/F1 8.00 Tf
+(Presupuesto Ejercido) Tj
+-4.80 -9.12 TD
+(Acumulado al Trimestre) Tj
+24.00 -9.12 TD
+(por Proyecto) Tj
+ET
+406.36 233.96 135.00 31.52 re S
+BT
+447.44 258.80 TD
+(Presupuesto) Tj
+-21.60 -9.12 TD
+(Autorizado Anual por) Tj
+28.80 -9.12 TD
+(Proyecto) Tj
+ET
+32.84 148.48 211.52 49.52 re S
+BT
+121.80 182.16 TD
+(ELABORO) Tj
+ET
+545.84 148.48 211.52 49.52 re S
+BT
+632.40 182.16 TD
+(AUTORIZO) Tj
+ET
+289.36 148.48 211.52 49.52 re S
+BT
+380.68 182.16 TD
+(REVISO) Tj
+ET
+437.84 463.48 72.00 13.52 re S
+BT
+464.24 470.28 TD
+(0608) Tj
+-136.80 0.00 TD
+(FUNCION Y SUBFUNCION : ) Tj
+ET
+509.84 463.48 247.52 13.52 re S
+BT
+509.84 470.28 TD
+(Otros grupos vulnerables) Tj
+ET
+437.84 436.48 72.00 13.52 re S
+BT
+469.04 443.28 TD
+(02) Tj
+-84.00 0.00 TD
+(PROYECTO : ) Tj
+ET
+509.84 436.48 247.52 13.52 re S
+BT
+509.84 443.28 TD
+(Atención educativa a hijos de madres trabajadoras) Tj
+ET
+endstream
+endobj
+57 0 obj
+6119
+endobj
+55 0 obj
+<<
+/Type /Page
+/MediaBox [0 0 792 612]
+/Parent 3 0 R
+/Resources <</ProcSet [ /PDF /Text /ImageC ] /Font << /F0 9 0 R /F1 10 0 R >> /XObject << /im2530 11 0 R >> >>
+/Contents 56 0 R
+/CropBox [0 0 792 612]
+>>
+endobj
+2 0 obj
+<<
+/Type /Catalog
+/Pages 3 0 R
+>>
+endobj
+4 0 obj
+[ 6 0 R 13 0 R 16 0 R 19 0 R 22 0 R 25 0 R 28 0 R 31 0 R 34 0 R 37 0 R 40 0 R 43 0 R 46 0 R 49 0 R 52 0 R 55 0 R ]
+endobj
+5 0 obj
+16
+endobj
+xref
+0 58
+0000000000 65535 f
+0000000010 00000 n
+0000153796 00000 n
+0000000198 00000 n
+0000153851 00000 n
+0000153984 00000 n
+0000034859 00000 n
+0000000264 00000 n
+0000008184 00000 n
+0000008207 00000 n
+0000008319 00000 n
+0000008437 00000 n
+0000034834 00000 n
+0000043527 00000 n
+0000035090 00000 n
+0000043503 00000 n
+0000050925 00000 n
+0000043760 00000 n
+0000050901 00000 n
+0000058435 00000 n
+0000051158 00000 n
+0000058411 00000 n
+0000065932 00000 n
+0000058668 00000 n
+0000065908 00000 n
+0000080024 00000 n
+0000066165 00000 n
+0000079999 00000 n
+0000082036 00000 n
+0000080257 00000 n
+0000082012 00000 n
+0000090243 00000 n
+0000082269 00000 n
+0000090219 00000 n
+0000100085 00000 n
+0000090476 00000 n
+0000100061 00000 n
+0000106588 00000 n
+0000100318 00000 n
+0000106564 00000 n
+0000119631 00000 n
+0000106821 00000 n
+0000119606 00000 n
+0000126041 00000 n
+0000119864 00000 n
+0000126017 00000 n
+0000134250 00000 n
+0000126274 00000 n
+0000134226 00000 n
+0000140681 00000 n
+0000134483 00000 n
+0000140657 00000 n
+0000147130 00000 n
+0000140914 00000 n
+0000147106 00000 n
+0000153563 00000 n
+0000147363 00000 n
+0000153539 00000 n
+trailer
+<<
+/Size 58
+/Root 2 0 R
+/Info 1 0 R
+>>
+startxref
+154005
+%%EOF
